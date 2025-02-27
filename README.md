@@ -1,6 +1,6 @@
-echo '# 🎌 动漫百科 RAG Chatbot
+Anime RAG Chatbot
 
-**动漫百科 RAG Chatbot** 是一个基于本地 LLaMA 3 + FAISS 向量数据库的 AI 机器人，能够回答关于动漫的百科问题。它支持 **本地推理**，不依赖 OpenAI API，并能够自动爬取 Wikipedia 数据构建知识库。
+**Anime RAG Chatbot** 是一个基于本地 LLaMA 3 + FAISS 向量数据库的 AI 机器人，能够回答关于动漫的百科问题。它支持 本地推理，不依赖 OpenAI API，并能够自动爬取 Wikipedia 数据构建知识库。
 
 ---
 
