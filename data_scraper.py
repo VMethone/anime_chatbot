@@ -1,61 +1,50 @@
-from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.llms import Ollama  # ✅ 本地 LLaMA 3
-import langdetect  # ✅ 语言检测
+import os
+import wikipediaapi
 
-# ✅ 允许 FAISS 反序列化（确保数据库文件是自己生成的）
-vector_db = FAISS.load_local(
-    "vector_db",
-    HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"),
-    allow_dangerous_deserialization=True
-)
+# 确保 `data/` 目录存在
+os.makedirs("data", exist_ok=True)
+DATA_FILE = "data/anime_encyclopedia.txt"
 
-# ✅ 加载本地 LLaMA 3
-llm = Ollama(model="llama3")  # 确保你已下载 `ollama pull llama3`
+# 设置 Wikipedia API（添加 `contact` 信息）
+user_agent = "AnimeRAGBot/1.0 (contact: yixiang.vic@gmail.com)"
+wiki_en = wikipediaapi.Wikipedia(language="en", user_agent=user_agent)
+wiki_zh = wikipediaapi.Wikipedia(language="zh", user_agent=user_agent)  # ✅ 确保 `zh` 正确
 
-while True:
-    user_input = input("📢 请输入问题（输入 'exit' 退出）：")
-    if user_input.lower() == "exit":
-        break
+# 目标爬取的动漫列表
+anime_list = ["Naruto", "One Piece", "Attack on Titan", "Eren Yeager", "艾伦·耶格尔"]
 
-    # ✅ 检测输入语言
-    detected_lang = langdetect.detect(user_input)
-    print(f"🔍 检测到语言: {detected_lang}")
+def get_wikipedia_summary(title):
+    """ 获取 Wikipedia 页面摘要（中英双语） """
+    print(f"🔍 正在查找 {title} 的 Wikipedia 页面...")
 
-    # ✅ 进行 FAISS 相似性搜索（调整 k=5 获取更多上下文）
-    search_results = vector_db.similarity_search(user_input, k=5)
-    context = "\n".join([doc.page_content for doc in search_results])
+    # 先尝试英文 Wikipedia
+    page_en = wiki_en.page(title)
+    en_text = page_en.text if page_en.exists() else None
 
-    # ✅ 如果 `FAISS` 没有找到相关内容，直接回答 "我不知道"
-    if not context.strip():
-        print("🤖 AI 回答: 我不知道。")
-        continue
+    # 获取 Wikipedia 简体内容
+    page_zh = wiki_zh.page(title)
+    zh_text = page_zh.text if page_zh.exists() else None
 
-    # ✅ 让 AI 只基于 FAISS 结果回答，并明确要求 **不能编造答案**
-    if detected_lang.startswith("zh"):
-        prompt = f"""请使用中文回答以下问题，并且只能基于提供的背景知识，不要编造答案。
-如果背景知识中找不到答案，请回答 "我不知道"。
-
-背景知识：
-{context}
-
-问题：{user_input}
-
-请用中文简洁回答：
-"""
+    # 合并中英数据
+    if en_text and zh_text:
+        return f"[English Wikipedia]\n{en_text}\n\n[简体中文 Wikipedia]\n{zh_text}"
+    elif en_text:
+        return f"[English Wikipedia]\n{en_text}"
+    elif zh_text:
+        return f"[简体中文 Wikipedia]\n{zh_text}"
     else:
-        prompt = f"""Please answer the following question in English.
-You must only use the given context. Do not make up any information.
-If the answer is not found in the context, respond with "I don't know."
+        print(f"❌ 未找到 {title} 的 Wikipedia 页面")
+        return None
 
-Context:
-{context}
+# 处理数据
+with open(DATA_FILE, "w", encoding="utf-8") as f:
+    for anime in anime_list:
+        summary = get_wikipedia_summary(anime)
+        if summary:
+            f.write(f"Anime: {anime}\n")
+            f.write(f"Description: {summary}\n\n")
+            print(f"✅ {anime} 已写入文件")
+        else:
+            print(f"⚠️ 无法获取 {anime} 的 Wikipedia 数据")
 
-Question: {user_input}
-
-Provide a concise answer in English:
-"""
-
-    answer = llm.invoke(prompt)
-
-    print(f"🤖 AI 回答:\n{answer}")
+print("🎉 动漫数据爬取完成！")
