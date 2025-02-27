@@ -16,3 +16,4 @@ python-multipart
 pyngrok
 streamlit
 python-telegram-bot
+langdetect

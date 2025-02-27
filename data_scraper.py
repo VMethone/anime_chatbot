@@ -1,73 +1,61 @@
-import wikipedia
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.llms import Ollama  # ✅ 本地 LLaMA 3
+import langdetect  # ✅ 语言检测
 
-# 1️⃣ 设置 Wikipedia API 访问
-wikipedia.set_lang("en")  # 设定为英文 Wikipedia
-wikipedia.set_user_agent("AnimeRAGBot/1.0 (contact: yixiang.vic@gmail.com)")  # ✅ 设置 User-Agent
+# ✅ 允许 FAISS 反序列化（确保数据库文件是自己生成的）
+vector_db = FAISS.load_local(
+    "vector_db",
+    HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"),
+    allow_dangerous_deserialization=True
+)
 
-# 2️⃣ 自动选择最佳 Wikipedia 词条
-def get_best_wikipedia_match(anime_title):
-    search_results = wikipedia.search(anime_title, results=5)
-    
-    if not search_results:
-        print(f"❌ 没有找到 {anime_title} 的 Wikipedia 页面")
-        return None
+# ✅ 加载本地 LLaMA 3
+llm = Ollama(model="llama3")  # 确保你已下载 `ollama pull llama3`
 
-    print(f"🔎 {anime_title} 可能的匹配项: {search_results}")
+while True:
+    user_input = input("📢 请输入问题（输入 'exit' 退出）：")
+    if user_input.lower() == "exit":
+        break
 
-    # **优先选择带 `(manga)` 或 `(anime)` 的结果**
-    for result in search_results:
-        if "(manga)" in result or "(anime)" in result:
-            print(f"✅ 选择最佳匹配: {result}")
-            return result
+    # ✅ 检测输入语言
+    detected_lang = langdetect.detect(user_input)
+    print(f"🔍 检测到语言: {detected_lang}")
 
-    # **如果没有 `(manga)` 或 `(anime)`，默认选第一个**
-    print(f"⚠️ 没有找到带 (manga) 或 (anime) 的结果，默认选择: {search_results[0]}")
-    return search_results[0]
+    # ✅ 进行 FAISS 相似性搜索（调整 k=5 获取更多上下文）
+    search_results = vector_db.similarity_search(user_input, k=5)
+    context = "\n".join([doc.page_content for doc in search_results])
 
-# 3️⃣ 获取 Wikipedia **完整** 页面内容
-def get_wikipedia_summary(anime_title):
-    try:
-        best_match = get_best_wikipedia_match(anime_title)
-        if not best_match:
-            return None
+    # ✅ 如果 `FAISS` 没有找到相关内容，直接回答 "我不知道"
+    if not context.strip():
+        print("🤖 AI 回答: 我不知道。")
+        continue
 
-        # **获取 Wikipedia 页面内容**
-        page = wikipedia.page(best_match, auto_suggest=True)
-        summary = page.content  # ✅ **获取完整页面内容**
-        
-        print(f"📖 {best_match} 爬取成功，共 {len(summary)} 字")  
-        return summary
+    # ✅ 让 AI 只基于 FAISS 结果回答，并明确要求 **不能编造答案**
+    if detected_lang.startswith("zh"):
+        prompt = f"""请使用中文回答以下问题，并且只能基于提供的背景知识，不要编造答案。
+如果背景知识中找不到答案，请回答 "我不知道"。
 
-    except wikipedia.exceptions.DisambiguationError as e:
-        print(f"⚠️ {anime_title} 匹配到多个结果，请更具体: {e.options[:5]}")
-        return None
-    except wikipedia.exceptions.PageError:
-        print(f"❌ {anime_title} 页面不存在，尝试 '(manga)' 版本")
-        return get_wikipedia_summary(f"{anime_title} (manga)")  # ✅ **自动尝试 "One Piece (manga)"**
-    except Exception as e:
-        print(f"❌ 发生错误: {e}")
-        return None
+背景知识：
+{context}
 
-# 4️⃣ 预定义动漫角色列表
-anime_characters = {
-    "Naruto": "Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Kakashi Hatake",
-    "One Piece": "Monkey D. Luffy, Roronoa Zoro, Nami, Sanji, Tony Tony Chopper",
-    "Attack on Titan": "Eren Yeager, Mikasa Ackerman, Armin Arlert, Levi Ackerman"
-}
+问题：{user_input}
 
-# 5️⃣ 需要爬取的动漫列表
-anime_list = ["Naruto", "One Piece", "Attack on Titan"]
+请用中文简洁回答：
+"""
+    else:
+        prompt = f"""Please answer the following question in English.
+You must only use the given context. Do not make up any information.
+If the answer is not found in the context, respond with "I don't know."
 
-# 6️⃣ 重新写入完整数据
-with open("data/anime_encyclopedia.txt", "w", encoding="utf-8") as f:
-    for anime in anime_list:
-        summary = get_wikipedia_summary(anime)
-        if summary:
-            characters = anime_characters.get(anime, "No character data available")
-            content = f"Anime: {anime}\nDescription: {summary}\nMain Characters: {characters}\n\n"
-            f.write(content)
-            print(f"✅ {anime} 已写入文件")
-        else:
-            print(f"⚠️ {anime} 没有爬取到内容，跳过")
+Context:
+{context}
 
-print("🎉 动漫数据爬取完成！")
+Question: {user_input}
+
+Provide a concise answer in English:
+"""
+
+    answer = llm.invoke(prompt)
+
+    print(f"🤖 AI 回答:\n{answer}")

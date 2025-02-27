@@ -1,106 +1,133 @@
-Anime: One Piece
-Description: Dragon Ball (Japanese: ドラゴンボール, Hepburn: Doragon Bōru) is a Japanese manga series written and illustrated by Akira Toriyama. Originally serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from 1984 to 1995, the 519 individual chapters were collected in 42 tankōbon volumes. Dragon Ball was inspired by the Chinese novel Journey to the West and Hong Kong martial arts films. It initially had a comedy focus but later became an action-packed fighting series. The story follows the adventures of Son Goku, from childhood to adulthood, as he trains in martial arts and explores the world in search of the Dragon Balls, seven magical orbs which summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles villains, many of whom also seek the Dragon Balls.
-The original manga was adapted into two anime series produced by Toei Animation: Dragon Ball and Dragon Ball Z, which were broadcast in Japan from 1986 to 1996; an anime sequel to Dragon Ball Z, Dragon Ball GT, was broadcast from 1996 to 1997. A media franchise has built up around the series; among the merchandise, there have been both animated and live-action films, collectible trading card games, action figures, collections of soundtracks, and numerous video games. The series was licensed for an English-language release in North America and the United Kingdom by Viz Media, and in Australia and New Zealand by Madman Entertainment. The companies initially split the manga into two parts, Dragon Ball and Dragon Ball Z to match the anime series but the most recent edition of the series was released under its original title.
-Dragon Ball has become one of the most successful manga series of all time. Its initial serialization in Weekly Shōnen Jump was partly responsible for the magazine reaching its highest circulation of 6.53 million weekly sales. Its collected tankōbon volumes have over 160 million copies sold in Japan and 260 million sold worldwide, making it one of the best-selling manga series of all time. Reviewers have praised the manga for its comedy, fight scenes, and pacing, while recognizing a coming-of-age theme and its use of cultural references from Chinese mythology and Japanese folktales. Complaints from parents in the United States resulted in English-language releases being edited to remove nudity, racial stereotypes, and other content.
-Also regarded as one of the most influential manga series, Dragon Ball has inspired numerous manga artists, including Eiichiro Oda (One Piece), Masashi Kishimoto (Naruto), and Tite Kubo (Bleach). A "midquel" series, titled Dragon Ball Super, has been published in V Jump since 2015. It is written by Toriyama and illustrated by Toyotarou.
+Anime: Naruto (en)
+Description: Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. The story is told in two parts: the first is set in Naruto's pre-teen years (volumes 1–27), and the second in his teens (volumes 28–72). The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha's monthly Hop Step Award the following year, and Naruto (1997).
+Naruto was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from September 1999 to November 2014, with its chapters collected in 72 tankōbon volumes. Viz Media licensed the manga for North American production and serialized Naruto in their digital Weekly Shonen Jump magazine. Part I of the manga was adapted into an anime television series by Pierrot and Aniplex, which ran for 220 episodes from October 2002 to February 2007 on TV Tokyo. A second series, which adapts material from Part II of the manga, is titled Naruto: Shippuden and ran on TV Tokyo for 500 episodes from February 2007 to March 2017. Pierrot also developed 11 animated films and 12 original video animations (OVAs). The franchise includes light novels, video games, and trading cards developed by several companies. The story of Naruto continues in Boruto, where Naruto's son Boruto Uzumaki creates his own ninja way instead of following his father's.
+Naruto is one of the best-selling manga series of all time, having 250 million copies in circulation worldwide. It has become one of Viz Media's best-selling manga series; their English translations of the volumes have appeared on USA Today and The New York Times bestseller list several times, and the seventh volume won a Quill Award in 2006. Reviewers praised the manga's character development, storylines, and action sequences, though some felt the latter slowed the story down. Critics noted that the manga, which has a coming-of-age theme, makes use of cultural references from Japanese mythology and Confucianism.
 
 
-== Plot summary ==
+== Plot ==
 
-Son Goku, a monkey-tailed boy, and Bulma, a teenage girl, travel to find the seven Dragon Balls, which summon the dragon Shenlong to grant the user one wish. Their journey leads to the desert bandit Yamcha, who later becomes an ally; Chi-Chi, whom Goku unknowingly agrees to marry; and Pilaf, an impish man who seeks the Dragon Balls to fulfill his desire to rule the world. Goku undergoes rigorous training regimes under the martial arts master Kame-Sen'nin to fight in the Tenkaichi Budōkai (天下一武道会, lit. "Strongest Under the Heavens Martial Arts Tournament"). He becomes friends with a monk named Kuririn, his training partner and initial rival. After the tournament, Goku searches for the Dragon Ball his grandfather left him and almost single-handedly defeats the Red Ribbon Army and their hired assassin, Taopaipai. Goku then reunites with his friends to defeat the fortune teller Baba Uranai's fighters and use her to find the last Dragon Ball in order to revive a friend killed by Taopaipai.
-Three years later at the Tenkaichi Budōkai, Goku and his allies oppose Kame-Sen'nin's rival and Taopaipai's brother, Tsuru-Sen'nin, and his students Tenshinhan and Chaozu. Kuririn is killed after the tournament; Goku tracks down the murderer's leader, Piccolo Daimao, but is defeated. The samurai Yajirobe takes Goku to the hermit Karin, who heals him and gives him a power boost. Meanwhile, Piccolo defeats and kills Kame-Sen'nin and Chaozu before using the Dragon Balls to regain his youth and destroy Shenlong. Goku then kills Piccolo Daimao, who, before dying, spawns his son/reincarnation Piccolo. Karin then directs Goku to Kami, the original creator of the Dragon Balls and Piccolo Daimao's other half, to restore Shenlong and revive his slain friends. Goku trains under Kami for the next three years, once again reuniting with his friends at the Tenkaichi Budōkai. There, he defeats Piccolo, whose life he spares as it would also kill Kami. Goku leaves with Chi-Chi to keep his promise to marry her.
-Five years later, Goku is a young adult and father to a son, Gohan. A man named Raditz arrives on Earth, identifies Goku as his younger brother Kakarrot, and reveals to him that they are members of a nearly extinct extraterrestrial race called the Saiyans (サイヤ人, Saiya-jin), who sent Goku to conquer Earth for them; however, Goku had suffered a severe head injury as an infant and lost all memories of his mission. Goku refuses to continue the mission, and sides with Piccolo to kill Raditz at the cost of his own life. In the afterlife, Goku trains under the North Kaiō until he is revived by the Dragon Balls to save the Earth from the invading Nappa and Vegeta. In the battle, Yamcha, Chaozu, Tenshinhan, and Piccolo are killed, and the Dragon Balls cease to exist. Kuririn and the galactic tyrant Freeza learn of another set of Dragon Balls on the planet Namek (ナメック星, Namekku-sei), Piccolo's homeworld. Bulma, Gohan, and Kuririn search for them to revive their friends and restore Earth's Dragon Balls. Their goal leads to several battles with Freeza's minions and Vegeta, the latter standing alongside the heroes to fight the Ginyu Force, a team of mercenaries. The long battle with Freeza ends when Goku transforms into a legendary Super Saiyan (超サイヤ人, Sūpā Saiya-jin) and defeats him. Barely surviving, Freeza recovers and goes to Earth to take his revenge on Goku; however, he is killed by a Super Saiyan from the future named Trunks.
-Three years later, a group of Androids (人造人間, Jinzōningen, lit. "Artificial Humans") created by a member of the former Red Ribbon Army, Doctor Gero, appears, seeking revenge against Goku. During this time, an evil life form called Cell also emerges and, after absorbing two of the Androids to achieve his "perfect form", holds his own fighting tournament to challenge the protagonists. After Goku sacrifices his own life to no avail, Gohan avenges his father by killing Cell. Seven years later Goku, briefly revived for one day, and his allies are drawn into a fight against Majin Boo. After many battles, including the destruction and re-creation of the Earth, a resurrected Goku destroys Boo with a Genki-Dama (a sphere of pure energy drawn from all intelligent beings on Earth) and wishes for him to be reincarnated as a "good person". Ten years later, at the Tenkaichi Budōkai, Goku meets Boo's human reincarnation, Oob. After testing his powers, Goku departs with Oob to train him to be the Earth's new guardian.
+
+=== Part I ===
+
+A powerful fox known as the Nine-Tails attacks Konoha, the hidden leaf village in the Land of Fire, one of the Five Great Shinobi Countries in the Ninja World. In response, the leader of Konoha and the Fourth Hokage, Minato Namikaze, at the cost of his life, seals the fox inside the body of his newborn son, Naruto Uzumaki, making him a host of the beast. The Third Hokage returns from retirement to become the leader of Konoha again. Naruto is often scorned by Konoha's villagers for being the host of the Nine-Tails. Due to a decree by the Third Hokage forbidding any mention of these events, Naruto learns nothing about the Nine-Tails until 12 years later, when Mizuki, a renegade ninja, reveals the truth to him. Naruto defeats Mizuki in combat, earning the respect of his teacher, Iruka Umino.
+Shortly afterward, Naruto becomes a ninja and joins with Sasuke Uchiha, against whom he often competes, and Sakura Haruno, on whom he has a crush, to form Team 7, under an experienced sensei, the elite ninja Kakashi Hatake. Like all the ninja teams from every village, Team 7 completes missions requested by the villagers, ranging from doing chores and being bodyguards to performing assassinations.
+After several missions, including a major one in the Land of Waves, Kakashi allows Team 7 to take a ninja exam, enabling them to advance to a higher rank and take on more difficult missions, known as Chunin Exams. During the exams, Orochimaru, a wanted criminal, invades Konoha and kills the Third Hokage for revenge. Jiraiya, one of the three legendary ninjas, declines the title of Fifth Hokage and searches with Naruto for Tsunade whom he chooses to become Fifth Hokage instead.
+During the search, it is revealed that Orochimaru wishes to train Sasuke because of his powerful genetic heritage, the Sharingan. After Sasuke attempts and fails to kill his older brother Itachi, who had showed up in Konoha to kidnap Naruto, he joins Orochimaru, hoping to gain from him the strength needed to kill Itachi. The story takes a turn when Sasuke leaves the village: Tsunade sends a group of ninja, including Naruto, to retrieve Sasuke, but Naruto is unable to persuade or force him to come back. Naruto and Sakura do not give up on Sasuke; Naruto leaves Konoha to receive training from Jiraiya to prepare himself for the next time he encounters Sasuke, while Sakura becomes Tsunade's apprentice.
+
+
+=== Part II ===
+
+Two and a half years later, Naruto returns from his training with Jiraiya. The Akatsuki starts kidnapping the hosts of the powerful Tailed Beasts. Team 7 and other Leaf ninja fight against them and search for their teammate Sasuke. The Akatsuki succeeds in capturing and extracting seven of the nine Tailed Beasts, killing all the hosts except Gaara, who is now the Kazekage. Meanwhile, Sasuke betrays Orochimaru and faces Itachi to take revenge. After Itachi dies in battle, Sasuke learns from the Akatsuki founder Tobi that Itachi had been ordered by Konoha's superiors to destroy his clan to prevent a coup; he accepted, on the condition that Sasuke would be spared. Devastated by this revelation, Sasuke joins the Akatsuki to destroy Konoha in revenge. As Konoha ninjas defeat several Akatsuki members, the Akatsuki figurehead leader, Nagato, kills Jiraiya and devastates Konoha, but Naruto defeats and redeems him, earning the village's respect and admiration.
+With Nagato's death, Tobi, disguised as Madara Uchiha (one of Konoha's founding fathers), announces that he wants to capture all nine Tailed Beasts to cast an illusion powerful enough to control all humanity and achieve world peace. The leaders of the five ninja villages refuse to help him and instead join forces to confront his faction and allies. That decision results in a Fourth Shinobi World War between the combined armies of the Five Great Countries (known as the Allied Shinobi Forces) and Akatsuki's forces of zombie-like ninjas. The Five Kage try to keep Naruto, unaware of the war, in a secret island turtle near Kumogakure (Hidden Cloud Village), but Naruto finds out and escapes from the island with Killer Bee, the host of the Eight-Tails. At that time, Naruto—along with the help of Killer Bee—gains control of his Tailed Beast and the two of them head for the battlefield.
+During the conflict, it is revealed that Tobi is Obito Uchiha, a former teammate of Kakashi's who was thought to be dead. The real Madara saved Obito's life, and they have since collaborated. As Sasuke learns the history of Konoha, including the circumstances that led to his clan's downfall, he decides to protect the village and rejoins Naruto and Sakura to thwart Madara and Obito's plans. However, Madara's body ends up possessed by Kaguya Otsutsuki, an ancient princess who intends to subdue all humanity. A reformed Obito sacrifices himself to help Team 7 stop her. Once Kaguya is sealed, Madara dies as well. Sasuke takes advantage of the situation and takes control of all the Tailed Beasts, as he reveals his goal of ending the current village system. Naruto confronts Sasuke to dissuade him from his plan, and after they almost kill each other in a final battle, Sasuke admits defeat and reforms. After the war, Kakashi becomes the Sixth Hokage and pardons Sasuke for his crimes. Years later, Kakashi steps down while Naruto marries Hinata Hyuga and becomes the Seventh Hokage, raising the next generation.
 
 
 == Production ==
 
 
-=== Writing ===
-Within roughly six months of creating the popular manga Dr. Slump in 1980, Akira Toriyama wanted to end the series but his publisher Shueisha would only allow him to do so if he agreed to start another serial for them shortly after. He worked with his editor, Kazuhiko Torishima, on several one-shots but none were successful. Torishima then suggested that, as Toriyama enjoyed kung fu films, he should create a kung fu shōnen manga. He was inspired by Hong Kong martial arts films such as Bruce Lee's Enter the Dragon (1973) and Jackie Chan's Drunken Master (1978). He was particularly influenced by the fight scenes in Jackie Chan movies, and said he would never have come up with Dragon Ball if he had not watched Drunken Master, which he enjoyed partly due to its light-hearted tone. This led to the two-part Dragon Boy, published in the August and October 1983 issues of Fresh Jump. It follows a boy, adept at martial arts, who escorts a princess on a journey back to her home country. Dragon Boy was very well-received and evolved to become the serial Dragon Ball.
-The plot and characters of Dragon Ball were loosely modeled on the classic Chinese novel Journey to the West, with Goku being Sun Wukong ("Son Goku" in Japanese), Bulma as Tang Sanzang, Oolong as Zhu Bajie, and Yamcha being Sha Wujing. Toriyama wanted to create a story with the basic theme of Journey to the West, but with "a little kung fu" by combining the novel with elements from the kung fu films of Jackie Chan and Bruce Lee. Torishima said he chose the novel largely because it was a free intellectual property, but also because its Chinese setting was not common in manga at the time and would make it both unique and differentiate it from Dr. Slump's US West Coast feel.
-He changed the objective from Journey to the West, where the protagonists travel through the Western Regions (Central Asia) to collect sacred Buddhist texts from the Indian subcontinent, to something simpler, gathering seven orbs which grant a wish. Toriyama added the idea of the Dragon Balls to give the characters a game-like activity of gathering something in order to appeal to its shōnen manga magazine audience. His concept of the Dragon Balls was inspired by the epic Japanese novel Nansō Satomi Hakkenden (1814–1842), which involves the heroes collecting eight large Buddhist prayer beads of a necklace from eight different regions of Japan, which Toriyama adapted into finding seven Dragon Balls from seven different locations; he chose the number seven to avoid being the same as the number of beads in Hakkenden. The title Dragon Ball was inspired by Enter the Dragon as well as later Bruceploitation knockoff kung fu movies which frequently had the word "Dragon" in the title. He originally thought the story would last about a year, or end once the Dragon Balls were collected. Toriyama said that although the stories are purposefully easy to understand, he specifically aimed Dragon Ball at an older audience than Dr. Slump.
-The manga was not popular initially. Although he suspected the fighting genre would appeal more to its shōnen audience, Toriyama tried to stick to the Journey to the West adventure aspect which he himself enjoyed. Such as having the setting change each chapter, different enemies popping up, and different locations. It was only after he became tired of Torishima nagging about its popularity that Toriyama gave in and developed more battles with the first shown Tenkaichi Budōkai. Despite his reluctance, the author said it felt good when the series picked up in popularity at that point. However, he said he still tried to resist by returning to the adventure aspect with the Red Ribbon Army arc, and visiting Penguin Village from Dr. Slump to add comedy. When that did not work out, fighting became the main theme for the manga.
-Toriyama said that by the second half of the series, he had become more interested in coming up with the story than drawing it, and that the battles became more intense by him simplifying the lines. He also said he would get letters from readers complaining that the art had become "too square", so he intentionally made it more so. Years later he stated that because Dragon Ball is an action manga the most important aspect is the sense of speed, so he did not draw very elaborately, suggesting that he was not interested in the art. As the manga progressed, Toriyama struggled with the Android and Cell arc, feeling that he could not outdo the Freeza arc. He added time travel, but said he had a hard time with the plot, only being able to think of what to do that week. After Cell's death, Toriyama intended for Gohan to replace Goku as the series' protagonist, but felt the character was not suited for it and changed his mind. Even after the Cell arc, Toriyama felt it could not end there and so continued to the Majin Boo arc. Having resolved it would be the finale, he decided to draw what he wanted and inserted comedy with Gohan's Great Saiyaman persona and the character Gotenks. However, he did not think of an ending until the final chapter. At the time, Toriyama said he gave Dragon Ball a low-key ending to make it seem as if the story might continue. But would later say he skipped 10 years ahead in the story to signal that it was truly the end. Wanting to make it even clearer that Goku's battles were over, and a new generation was taking over, Toriyama slightly altered the ending for the kanzenban re-release of Dragon Ball which finished in 2004.
-
-
 === Development ===
-Typically, when creating a manga chapter, an artist draws a rough draft or "name", then a more detailed storyboard, and lastly the finalized version. However, Toriyama only draws a storyboard and then the final product simply because it is less work. He did not plan the details of his stories in advance. When he began the serialization of Dragon Ball, he had only prepared storyboards for three chapters. The author said that during its serialization he would wait about two days before his deadline to begin developing the storyboard. Starting around midnight, he would finish it around six in the morning and spend until that night inking, finishing everything in about a day-and-a-half. Unlike other artists, he had only one assistant helping him. Toriyama said that thinking only about the story for each chapter put him in some tight spots, particularly with Trunks' time travel. The only thing he has confidence in is his ability to connect a story back to an earlier aspect, making it seem to have been foreshadowing. The author used suggestions in fan mail he received, though generally doing the opposite of what was suggested. As an example, many fans told him not to kill Vegeta, which is exactly what he did.
-Wanting to escape the Western themes that influenced Dr. Slump, Toriyama used Eastern/Oriental scenery in Dragon Ball. In addition to referencing Chinese buildings and scenery, the island where the Tenkaichi Budōkai is held is modeled on Bali (in Indonesia), which he visited in 1985. The area around Bobbidi's spaceship was inspired by photos of Africa. When including fights in the manga, Toriyama had the characters go to uninhabited locations to avoid the difficulties of drawing residents and destroyed buildings. Toriyama wanted to set Dragon Ball in a fictional world largely based on Asia, taking inspiration from several Asian cultures including Japanese, Chinese, South Asian, Central Asian, Arabic, and Indonesian cultures. Toriyama was also inspired by the jinn (genies) from The Arabian Nights. For the training scenes, Jackie Chan's Drunken Master served as a reference. The author said that Muscle Tower in the Red Ribbon Army storyline was inspired by the beat 'em up video game Spartan X (called Kung-Fu Master in the West), in which enemies appear very fast as the player ascends a tower (the game was in turn inspired by Jackie Chan's Wheels on Meals and Bruce Lee's Game of Death), and that the fights were similar to the ones in the Tenkaichi Budōkai, just not in a tournament setting.
-Toriyama personally dislikes the idea of naming fighting techniques, joking that in a real fight you would be killed before you could yell their names, but Torishima felt it would be best. Toriyama proceeded to create names for all the techniques, except for the series' signature Kamehameha (かめはめ波（かめはめは）, lit. "Kamehame Wave") which his wife came up with when he was indecisive about what it should be called. He even selected them specifically for each character, saying someone like Vegeta would use English names, and using kanji for the more sophisticated like Piccolo.
-In order to advance the story quickly by having characters travel without inconvenience, he created the flying cloud Kinto-un (筋斗雲（きんとうん）, lit. "Somersault Cloud"), then gave most fighters the flying technique Bukū-jutsu (舞空術（ぶくうじゅつ）, lit. "Air Dance Technique"), and granted Goku the teleportation ability Shunkan Idō (瞬間移動（しゅんかんいどう）, lit. "Instant Teleport"). While talking to his long-time friend and fellow manga artist Masakazu Katsura about how there was nothing stronger than a Super Saiyan, Katsura suggested having two characters "fuse" together, leading to the creation of the Fusion (フュージョン, Fyūjon) technique.
-Toriyama enjoyed designing and drawing the distinctive machines of the series. He finds the most fun in designing original mecha, thinking about how a pilot enters and where the engine is. With real world items he would have to look at references, and being off even a little would be noticeable. He goes against whatever is popular at the time, explaining that when he was creating Dragon Ball, most cars were very square, so he drew only round car designs.
-In 1995, Toriyama detailed the equipment he used for Dragon Ball. He used a G-pen nib by Zebra, usually getting three chapters out of one because he typically does not press down hard. Toriyama used black drawing ink made by Pilot, but his color ink was produced by Luma and applied with a ten-year-old fine point Tenshōdō brush. His whiteout was also made by Luma. He received free Kent paper, similar to Bristol board, from a seller connected to Shueisha, and used a 0.5mm 2B lead mechanical pencil and a wide ruler at least 30 cm long.
+In 1995, Shueisha released Karakuri, a one-shot manga by Masashi Kishimoto that earned an honorable mention in the Hop Step Award in 1996. Kishimoto was unsatisfied with his subsequent drafts for a follow-up, and decided to work on another project. The new project was originally going to feature Naruto as a chef, but this version never made it to print. Kishimoto originally wanted to make Naruto a child who could transform into a fox, so he created a one-shot of Naruto for the summer 1997 issue of Akamaru Jump based on the idea. Despite the positive feedback it received in a readers' poll, Kishimoto was unhappy with the art and the story, so he rewrote it as a story about ninjas.
+The first eight chapters of Naruto were planned before it appeared in Weekly Shōnen Jump, and these chapters originally devoted many panels of intricate art to illustrating the Konoha village. By the time Naruto debuted, the background art was sparse, instead emphasizing the characters. Though Kishimoto had concerns that chakra (the energy source used by the ninjas in Naruto) made the series too Japanese, he still believed it is an enjoyable read. Kishimoto is a fan of Godzilla, and the tailed beasts mythology was introduced because Kishimoto wanted an excuse to draw monsters. He has said that the central theme in Part I of Naruto is how people accept each other, citing Naruto's development across the series as an example.
+For Part II of the manga, Kishimoto tried to keep the panel layouts and the plot easy for the reader to follow, and avoid "overdo[ing] the typical manga-style". He considers that his drawing style has changed from "the classic manga look to something a bit more realistic." Because of wishing to end the arc involving Sasuke Uchiha's search for his brother, Itachi, in a single volume, Kishimoto decided that volume 43 should include more chapters than regular volumes. As a result, Kishimoto apologized to readers for this since volume 43 was more expensive than regular volumes.
 
 
-==== Characters ====
-When creating a character, his process was to draw their face and body type first, and then the clothes, while thinking if the fighters can move around in them. He said that he does not draw "bad guys" so unscrupulous that it affects readers psychologically. This is not out of concern for others, but because he does not enjoy drawing such things. Few of his characters have screentone because he found it difficult to use. Toriyama was not concerned about consistency with the color of characters' clothes for the occasional color pages, having sometimes used different ones than he had before. He even specifically asked Torishima to produce as few color pages as possible. Character names are almost always puns sharing a theme with characters related to them, most commonly food. For example, all Saiyans are named after vegetables, saiya (サイヤ) being an anagram of the syllables for yasai (野菜) which means vegetable; such as Kakarrot (カカロット, Kakarotto) taken from carrot (キャロット, kyarotto).
-Going against the normal convention that the strongest characters should be the largest in terms of physical size, he designed many of Dragon Ball's most powerful characters, including Goku, with small statures. Toriyama explained that he had Goku grow up so that drawing fight scenes would be easier, even though Torishima was against it initially because it was rare to have the main character of a manga series change drastically. Torishima later referred to this as his own biggest crisis during the series, with Toriyama threatening to end it if Goku could not grow up. The editor said his concerns were unfounded, as readers accepted the change without complaint.
-Having created Piccolo Daimao as the first truly evil villain, he said that his part of the series was the most interesting to draw. Freeza was created around the time of the Japanese economic bubble and inspired by real estate speculators, who Toriyama called the "worst kind of people". Yū Kondō, Toriyama's second editor, from the Saiyan arc until the appearance of Perfect Cell, and Fuyuto Takeda, his third editor from Perfect Cell until the end of the series, said that Dragon Ball hit its peak in popularity during the Freeza arc. In a one-thousand ballot popularity poll held in Weekly Shōnen Jump, Dragon Ball received 815 votes. Finding the escalating enemies difficult, Toriyama created the Ginyu Force to add more balance to the manga.
-When Toriyama created the Super Saiyan transformation during the Freeza arc, he gave Goku blond hair because it was easier to draw for Toriyama's assistant, who spent a lot of time blacking in Goku's hair. He also gave him piercing eyes, based on Bruce Lee's paralyzing glare.
+=== Characters ===
+
+When he created Naruto, Kishimoto looked to other shōnen manga as influences for his work and tried to make his characters unique, while basing the story on Japanese culture. The separation of the characters into different teams was intended to give each group a particular flavor. Kishimoto wanted each member to have a high level of aptitude in one skill and be talentless in another. He found it difficult to write about romance, but emphasized it more in Part II of the manga, beginning with volume 28. He introduced villains into the story to have them act as a counterpoint to his characters' moral values and clearly illustrate their differences. As a result of how the younger characters were significantly weaker than the villains, Kishimoto made the ellipsis in order to have them age and become stronger during this time.
 
 
-== Publication ==
+=== Setting ===
+Kishimoto made use of the Chinese zodiac tradition, which had a long-standing presence in Japan; the zodiac hand signs originate from this. When Kishimoto was creating the primary setting of the Naruto manga, he concentrated initially on the designs for the village of Konoha. The idea of the setting came to him "pretty spontaneously without much thought", but admits that the scenery became based on his home in the Japanese prefecture of Okayama. Since the storyline does not specify when it is set, he was able to include modern elements in the series such as convenience stores. He considered including automobiles, planes and simple computers, but excluded projectile weapons and vehicles from the plot.
 
 
-=== Japanese publication ===
-Dragon Ball was serialized in Shueisha's shōnen manga anthology Weekly Shōnen Jump from November 20, 1984, to May 23, 1995. As the readership of Dragon Ball grew up, the magazine changed to reflect their changing interests. The 519 individual chapters were collected in 42 tankōbon volumes by Shueisha from September 10, 1985, through August 4, 1995. These saw any color or partly colored artwork grayscaled. With their predominantly white color and the singular picture that continues across their various spines, Torishima said the covers to these collected volumes were purposely designed to stick out on store bookshelves. For the series' 24th anniversary, the tankōbon covers were revamped to a design that has been used on all reprints since 2009. Between December 4, 2002, and April 2, 2004, Dragon Ball was released in a collection of 34 kanzenban volumes that retain the color artwork from its Weekly Shōnen Jump run. It received newly drawn cover illustrations by Toriyama, and each volume included a poster of their respective front cover image. These new illustrations were initially drawn in ink, scanned into a computer and colored using Corel Painter. Midway through, Toriyama changed to drawing them on a graphics tablet and coloring them with Adobe Photoshop. UV curing was used to add "shine" to the characters, and some characters are in monochrome up until volume 18. The kanzenban edition was designed by Hideaki Shimada. Although Toriyama had already drafted the first four covers with a vibrant green, Shimada proposed bright red after seeing South Korea compete in the 2002 FIFA World Cup and he agreed. Wanting a "neater" look than the tankōbon, Shimada decided to write "Dragonball" in lowercase and in a taller and thinner font. He also asked Toriyama to draw Shenlong with thick lines for use as the inside covers. It was an editor who suggested having a singular picture that continues across the various spines, but unlike the tankōbon edition, the number of volumes was already determined, so they knew exactly how long it needed to be.
-The December 2012 (cover date February 2013) issue of V Jump announced that parts of the manga would be fully colored digitally and re-released as Dragon Ball Full Color. 20 volumes, beginning from chapter 195 and grouped by story arcs, were released between February 4, 2013, and July 4, 2014. 12 volumes covering the first 194 chapters were published between January 4 and March 4, 2016. Dragon Ball was also released in a sōshūhen edition that aims to recreate the manga as it was originally serialized in Weekly Shōnen Jump in the same size, with the color pages, promotional text, and next chapter previews, in addition to foldout posters. Eighteen volumes of Dragon Ball Sōshūhen Chō Gōku Den were published between May 13, 2016, and January 13, 2017.
+=== Conclusion ===
+Masashi Kishimoto's home was close to Hiroshima where his grandfather lived. He would often tell his grandson stories of war and how it was related to grudges. However, Kishimoto commented that someone cannot look at the current state and criticize war as "being simply wrong", adding that every little thing in history causes the build-up towards war, and when it reaches its limit, "it breaks out." For that reason, Kishimoto felt that war would not be believable in his manga unless he had carefully elaborated on its background. Upon further researching, Kishimoto decided to create a world war story arc for the manga's finale. However, unlike the stories he heard from his grandfather, Kishimoto wanted to give the war covered in Naruto a more hopeful feeling. Nagato's arc paved the way for the ending of Naruto to occur. Nagato stood out as a villain due to suffering war and killing Naruto's mentor Jiraiya. Understanding the fears of war, Naruto's characterization was made more complex for him to experience the Fourth Great Shinobi War. These events end with Naruto forgiving Sasuke as he had forgiven Nagato in the final battle.
+Due to unknown issues, the series' finale was delayed. Once volume 66 was released, Kishimoto commented he reached a moment from the narrative involving something he always wanted to draw. When serialization began, Kishimoto decided the ending would feature a fight between two characters: Naruto and Sasuke. However, the writer felt the two were not equals as the former was not a victim of war like the latter whose family was killed to stop a possible civil war.
+Kishimoto chose Hinata Hyuga as Naruto's romantic partner from the early stages of the manga, since Hinata had always respected and admired Naruto even before the series' beginning, and Kishimoto felt this meant the two of them could build a relationship. When Hinata first appeared, Kishimoto thought of expanding romantic plotlines. but decided to leave Naruto's maturation through romance as an idea for the film 2014 The Last: Naruto the Movie where he worked alongside screenwriter Maruo Kyozuka, a writer more skilled at the theme of romance. Similarly, the title character's relationship with his first son, Boruto, was explored furthermore in the 2015 film Boruto: Naruto the Movie to end Naruto's growth as the character had become an adult, but it was briefly shown in the manga's finale.
 
 
-=== English publication ===
-The English language version of the Dragon Ball manga is licensed for North America by Viz Media. Viz originally published the first 194 chapters as Dragon Ball and chapters over 195 as Dragon Ball Z to mimic the names of the anime series, feeling it would reduce the potential for confusion by its readers. They initially released both series simultaneously, chapter by chapter in a monthly comic book format starting in 1998, before stopping in 2000 to switch to a graphic novel format similar to the Japanese tankōbon. In 2000, while releasing Dragon Ball in the monthly format, Viz began to censor the manga in response to parental complaints about sexual innuendos. Viz changed their publishing format for the series again in 2003; the first 10 collected volumes of both series were re-released under their Shonen Jump imprint. They have slightly smaller dimensions. The manga was completed in English with Dragon Ball in 16 volumes between May 6, 2003, and August 3, 2004, and Dragon Ball Z in 26 volumes from May 6, 2003, to June 6, 2006. However, when publishing the last few volumes of Z, the company began to censor the series again by changing or removing gun scenes and changing the few sexual references. Dragon Ball Z, from Trunks' appearance to chapter 226, was published in Viz's monthly magazine Shonen Jump from its debut issue in January 2003 to April 2005.
-Viz released both series in a wideban format called "Viz Big Edition", which collects three volumes into a single large volume. Dragon Ball was published in five volumes between June 3, 2008, and August 18, 2009, while Dragon Ball Z was published in nine volumes between June 3, 2008, and November 9, 2010. Viz published new 3-in-1 volumes of Dragon Ball, similar to their Viz Big Edition, across 14 volumes between June 4, 2013, and September 6, 2016. This version uses some Japanese kanzenban covers and marks the first time in English that the entire series was released under the Dragon Ball name, though it is still censored. Viz serialized chapters 195 to 245 of the fully colored version of the manga in their digital anthology Weekly Shonen Jump from February 2013 to February 2014. They published the Saiyan and Freeza arcs of Dragon Ball Full Color Edition in large format volumes between February 4, 2014, and January 3, 2017. Although it uses the same translation as their other versions, this release has some slight dialogue changes including censoring any profanity and abbreviating lengthy sentences. It also leaves the Japanese sound effects and word bubbles unaltered.
-The manga has also been licensed in other English-speaking countries, distributed in the same Viz format separating it into Dragon Ball and Dragon Ball Z. From August 2005 to November 2007, Gollancz Manga, an imprint of the Orion Publishing Group released the 16 volumes of Dragon Ball and the first four of Dragon Ball Z in the United Kingdom. Viz took over the UK license after Gollancz left the manga market. In Australia and New Zealand, Madman Entertainment has released all 16 volumes of Dragon Ball and the nine "Viz Big" volumes of Dragon Ball Z between 2009 and 2010.
+== Media ==
 
 
-==== Controversy in the United States ====
-The manga's content has been controversial in the United States. In November 1999, Toys "R" Us removed Viz's Dragon Ball from their stores nationwide when a Dallas parent complained that the series had "borderline soft porn" after he bought them for his four-year-old son. Commenting on the issue, manga critic Susan J. Napier determined the ban as a difference in culture due to Japan having tolerance for sexuality in manga while other countries do not. After the ban, Viz reluctantly began to censor the series in 2000 to maintain its wide distribution. Viz made some "concessions" as well, and assured readers that all changes were approved by Toriyama and Shueisha. Toriyama made suggestions himself such as obscuring Goku's genitals with objects, rather than "neuter him." A fan petition was created, garnering over 10,000 signatures, and a year later, Viz announced they would stop censoring Dragon Ball and increased its "age rating" to 13 and up instead, reprinting the first three graphic novels. However, they continued to censor several characters' lips by shading them in completely. This avoided racist stereotypes, such as that of Mr. Popo's image. In October 2009, Wicomico County Public Schools in Maryland banned the Dragon Ball manga from their school district because it "depicts nudity, sexual contact between children and sexual innuendo among adults and children." Esther Keller, Robin Brenner and Eva Volin of School Library Journal had no opinion on whether or not removing the manga from all schools in that district was right. However, Brenner and Volin criticized the parents who had a problem with the manga for going to a county council member who is involved with politics instead of to the librarian of the school that carried the manga.
+=== Manga ===
+
+Written and illustrated by Masashi Kishimoto, Naruto was serialized for a 15-year run in Shueisha's magazine, Weekly Shōnen Jump from September 21, 1999, to November 10, 2014. Shueisha collected its chapters in 72 tankōbon volumes—27 for Part I, and the rest for Part II; they were released between March 3, 2000, and February 4, 2015. The first 238 chapters are Part I and constitute the first section of the Naruto storyline. Chapters 239 to 244 include a gaiden (side-story) focusing on Kakashi Hatake's background. The remaining chapters (245 to 700) belong to Part II, which continues the story after a 2+1⁄2-year gap in the internal timeline. Shueisha have also released several ani-manga tankōbon, each based on one of the Naruto movies, and has released the series in Japanese for cell-phone download on their website Shueisha Manga Capsule. A miniseries titled Naruto: The Seventh Hokage and the Scarlet Spring, centered on the main characters' children, began serialization in the Japanese and English editions of Weekly Shōnen Jump on April 27, 2015, and ended after ten chapters on July 6 of the same year.
+Naruto was scanlated (translated by fans) and available online before a licensed version was released in North America; the rights were acquired by Viz Media, which began serializing Naruto in their anthology comic magazine Shonen Jump, starting with the January 2003 issue. The schedule was accelerated at the end of 2007 to catch up with the Japanese version, and again in early 2009, with 11 volumes (from 34 to 44) appearing in three months, after which it returned to a quarterly schedule. All 27 volumes of Part I were released in a boxed set on November 13, 2007. On May 3, 2011, Viz started selling the manga in an omnibus format with each book containing three volumes.
+The franchise has been licensed in 90 countries, and the manga serialized in 35 countries. Madman Entertainment began publishing Naruto volumes in Australia and New Zealand in March 2008 after reaching a distribution deal with Viz Media.
 
 
-=== Other publications ===
-While Dragon Ball was licensed in the United States by Viz Media, it has been licensed in other countries as well for regional language releases in French by Glénat Editions, in Spanish by Planeta DeAgostini for European versions, and Panini Comics for Latin American versions, in Italian by Star Comics, in German by Carlsen Verlag, in Russian by Comix-ART, in Polish by Japonica Polonica Fantastica, and in Swedish by Bonnier Group.
+==== Spin-offs ====
+A spin-off comedy manga by Kenji Taira, titled Naruto SD: Rock Lee no Seishun Full-Power Ninden, focuses on the character Rock Lee, a character who aspires to be strong as a ninja but has no magical jutsu abilities. It ran in Shueisha's Saikyō Jump magazine from December 3, 2010, to July 4, 2014, and was made into an anime series, produced by Studio Pierrot, and premiering on TV Tokyo on April 3, 2012. Crunchyroll simulcasted the series' premiere on their website and streamed the following episodes. Taira also wrote Uchiha Sasuke no Sharingan Den, which released on October 3, 2014, which runs in the same magazine and features Sasuke.
+A monthly sequel series titled Boruto: Naruto Next Generations began in the Japanese and English editions of Weekly Shōnen Jump in early 2016, illustrated by Mikio Ikemoto and written by Ukyō Kodachi, with supervision by Kishimoto. Ikemoto was Kishimoto's chief assistant during the run of the original Naruto series, and Kodachi was his writing partner for the Boruto: Naruto the Movie film screenplay. The monthly series was preceded by a one-shot, titled Naruto: The Path Lit by the Full Moon (NARUTO-ナルト-外伝 ～満ちた月が照らす道～, Naruto Gaiden ~Michita Tsuki ga Terasu Michi~), written and illustrated by Kishimoto, and published on April 25 of that same year. The staff from Shueisha asked Kishimoto if he would write a sequel to Naruto. However, Kishimoto refused the offer and offered his former assistant Mikio Ikemoto and writer Ukyō Kodachi write Boruto: Naruto Next Generations as the sequel to Naruto.
+Another one-shot chapter by Kishimoto, titled Naruto: The Whorl Within the Spiral (NARUTO-ナルト-外伝 ～渦の中のつむじ風～, Naruto Gaiden ~Uzu no Naka no Tsumujikaze~), centered on Naruto's father, Minato Namikaze, was published in Weekly Shōnen Jump on July 18, 2023.
+A crossover comic with Teenage Mutant Ninja Turtles, titled Teenage Mutant Ninja Turtles × Naruto, is set to run for four issues starting on November 13, 2024. The comic is written by Caleb Goellner, with drawing by Hendry Prasetya, coloring by Raúl Angulo, and lettering by Ed Dukeshire. Jorge Jiménez and Prasetya drew the cover art for the first issue.
 
 
-== Spin-offs and crossovers ==
-A special side story, titled "Trunks: The Story - The Lone Warrior" (TRUNKS THE STORY －たったひとりの戦士－, Torankusu za Sutōrī -Tatta Hitori no Senshi-), was developed by Toriyama and published together with chapter 386 on August 31, 1992, in issue No. 36/37 of Weekly Shōnen Jump. Toriyama created a short series, Neko Majin, that became a self-parody of Dragon Ball. First appearing in August 1999, the eight-chapter series was released sporadically in Weekly Shōnen Jump and Monthly Shōnen Jump until it was completed in 2005. These chapters were compiled into one kanzenban volume released on April 4, 2005.
-In 2006, to celebrate the 30th anniversary of Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo (or Kochikame), a special manga titled Super Kochikame (超こち亀, Chō Kochikame) was released on September 15. It included characters from the series appearing in special crossover chapters of other well-known manga. The chapter "This is the Police Station in front of Dragon Park on Planet Namek" (こちらナメック星ドラゴン公園前派出所, Kochira Namekku-sei Dragon Kōen-mae Hashutsujo) was a Dragon Ball crossover by Toriyama and Kochikame author Osamu Akimoto. That same year, Toriyama teamed up with Eiichiro Oda to create a single crossover chapter of Dragon Ball and One Piece. Entitled "Cross Epoch", the chapter was published in the Christmas 2006 issue of Weekly Shōnen Jump in Japanese and the April 2011 issue of Shonen Jump in English. The final chapter of Toriyama's 2013 manga series Jaco the Galactic Patrolman revealed that it is set before Dragon Ball, with several characters making appearances. Jaco's collected volume contains a bonus Dragon Ball chapter revealing Goku's mother. Jaco and the bonus chapter were both published by Viz in their digital English Weekly Shonen Jump, and later in print.
-Dragon Ball SD is a colored spin-off manga written and illustrated by Naho Ōishi was published in Shueisha's Saikyō Jump magazine in December 2010. It is a condensed retelling of Goku's various adventures, with many details changed, in a super deformed art style, hence the title. After four chapters, the quarterly Saikyō Jump switched to a monthly schedule. The chapters published after the monthly switch have been collected into five tankōbon volumes as of February 2, 2018. Dragon Ball: Episode of Bardock is a three-chapter manga, once again penned by Naho Ōishi, that was published in the monthly magazine V Jump from August to October 2011. It is a sequel to the 1990 TV special Bardock – The Father of Goku with some key details changed. The manga's story revolves around Bardock, Goku's father, who is featured in a scenario where he did not die at the hands of Freeza and fights his enemy's ancestor as a Super Saiyan.
-On December 12, 2016, the first chapter of a spin-off manga titled Dragon Ball: That Time I Got Reincarnated as Yamcha! (DRAGON BALL外伝 転生したらヤムチャだった件, Doragon Bōru Gaiden: Tensei-shitara Yamucha Datta Ken) was released in Shueisha's Shōnen Jump+ digital magazine. Written and illustrated by Dragongarow Lee, it is about a high school boy who wakes up after an accident in the body of Yamcha in the Dragon Ball manga. Knowing what comes later in the story, he trains as Yamcha to make him the strongest warrior. Utilizing the "reincarnated in a parallel world" theme popular in light novels, the series was conceived by Shōnen Jump+ editor-in-chief Shuhei Hosono. A second chapter was released on May 8, 2017, and the final one on August 14, 2017. A tankōbon collecting all three chapters was published on November 2, 2017, and has 240,000 copies in print. Viz licensed the series for English publication and released the collected volume on November 6, 2018.
+=== Anime ===
+
+The first Naruto anime television series, directed by Hayato Date and produced by Pierrot and Aniplex, premiered on TV Tokyo in Japan on October 3, 2002, and concluded on February 8, 2007, after 220 episodes. The first 135 episodes were adapted from Part I of the manga; the remaining 85 episodes are original and use plot elements that are not in the manga. Tetsuya Nishio was the character designer for Naruto when the manga was adapted into an anime; Kishimoto had requested that Nishio be given this role.
+The second anime television series, titled Naruto: Shippuden, was also produced by Pierrot and directed by Hayato Date, and serves as a direct sequel to the first Naruto anime series; it corresponds to Part II of the manga. It debuted on Japanese TV on February 15, 2007, on TV Tokyo, and concluded on March 23, 2017.
+A series of four "brand-new" episodes, to commemorate the original anime's 20th anniversary, were originally scheduled to premiere on September 3, 2023; however, in August of that same year, it was announced that the episodes would be postponed to a later date.
+
+
+==== Films ====
+
+The series was adapted into 11 theatrical films and 12 original video animations (OVAs). The first three films correspond to the first series, and the remaining eight correspond to the second. In July 2015, Lionsgate announced the development of a live-action film with Avi Arad through his production company Arad Productions. The film will be directed by Michael Gracey. On December 17, 2016, Kishimoto announced that he has been asked to co-develop. On November 27, 2023, it was announced that Tasha Huo will work on the script for the film.
+On February 23, 2024, Gracey had exited the project, and Destin Daniel Cretton had been hired to direct and co-write the film. Cretton received his blessings from Kishimoto, after a visit in Tokyo, with Kishimoto stating that when he heard that Cretton would be directing, he thought that he was the perfect choice.
+
+
+=== Novels ===
+Twenty-six Naruto light novels, the first nine written by Masatoshi Kusakabe, have been published in Japan. Of these, the first two have been released in English in North America. The first adapted novel, Naruto: Innocent Heart, Demonic Blood (2002), retells a Team 7 mission in which they encounter the assassins Zabuza and Haku; the second, Naruto: Mission: Protect the Waterfall Village! (2003) was based on the second OVA of the anime. Viz has also published 16 chapter books written by Tracey West with illustrations from the manga. Unlike the series, these books were aimed at children ages seven to ten. Thirteen original novels have appeared in Japan; eleven of these are part of a series, and the other two are independent novels unconnected to the series. The first independent novel, titled Naruto: Tales of a Gutsy Ninja (2009), is presented as an in-universe novel written by Naruto's master Jiraiya. It follows the adventures of a fictional shinobi named Naruto Musasabi, who served as Naruto's namesake. The other independent novel, Naruto Jinraiden: The Day the Wolf Howled (2012), is set shortly after Sasuke's fight with Itachi.
+Itachi Shinden, which consists of two novels, and Sasuke Shinden, a single novel, both appeared in 2015, and both were adapted into anime arcs in Naruto: Shippuden in 2016, titled Naruto Shippūden: Itachi Shinden-hen: Hikari to Yami and Book of Sunrise respectively.  Hiden is a series of six light novels published in 2015 that explores the stories of various characters after the ending of the manga.
+
+
+== Merchandise ==
+
+
+=== Video games ===
+
+Naruto video games have been released on various consoles by Nintendo, Sony, and Microsoft. The majority of them are fighting games in which the player directly controls one of the characters from Naruto. The player pits their character against another character controlled by the game's AI or by another player; the objective is to reduce the opponent's health to zero using basic attacks as well as special techniques unique to each character derived from techniques they use in the Naruto anime or manga. The first Naruto video game was Naruto: Konoha Ninpōchō, which was released in Japan on March 27, 2003, for the WonderSwan Color. Most Naruto video games have been released only in Japan. The first games released outside of Japan were the Naruto: Gekitou Ninja Taisen series and the Naruto: Saikyou Ninja Daikesshu series, released in North America under the titles of Naruto: Clash of Ninja and Naruto: Ninja Council. In 2023, Namco Bandai announced that the Naruto video games had sold 32.52 million units worldwide.
+
+
+=== Art and guidebooks ===
+
+Three official artbooks based on the Naruto series have been released. The first two, titled Art Collection: Uzumaki, and Illustration Collection: Naruto, were released in Japan in 2004 and 2009, with North American editions following in 2007 and 2010 respectively. The third artbook Illustration Collection: Naruto Uzumaki, was published in 2015 in Japan and later the same year in North America; it contains artwork originally on Shonen Jump comic covers. It has no text except a brief commentary by Kishimoto about his favorite artworks. An interactive coloring book called Paint Jump: Art of Naruto was released in 2008. An unreleased artbook titled Naruto Exhibition Official Guest Book by Masashi Kishimoto was given to those who attended the Naruto art exhibition at the Mori Art Museum on April 25, 2015.
+Four guidebooks titled First Official Data Book through Fourth Official Data Book have been released; the first two cover Part I of the manga, and were released in 2002 and 2005; the third and fourth volumes appeared in 2008 and 2014. These books contain character profiles, Jutsu guides, and drafts by Kishimoto. For the anime, a series of guidebooks called Naruto Anime Profiles was released. These books contain information about the production of the anime episodes and explanations of the characters' designs. A manga fan book titled Secret: Writings from the Warriors Official Fanbook appeared in 2002, and another fan book was released to commemorate the series' 10th anniversary, including illustrations of Naruto Uzumaki by other manga artists, a novel, Kishimoto's one-shot titled Karakuri, and an interview between Kishimoto and Yoshihiro Togashi.
+
+
+=== Collectible card game ===
+Produced by Bandai, the Naruto Collectible Card Game was released in Japan in 2003, and in North America in 2006. The game is played between two players using a customized deck of fifty cards from the set, and a game mat. To win, a player must either earn ten "battle rewards" through their actions in the game or cause the other player to exhaust their deck.  The cards were released in named sets called "series", in the form of four 50-card pre-constructed box sets. Each set includes a starter deck, the game mat, a turn-counter, and one stainless steel "Ninja Blade Coin". Extra cards are available in 10-card booster packs, and deck sets. Four box sets sold in retailers are available for each series. Cards for each set are available in collectible tins, containing several booster packs and exclusive promotional cards in a metal box. By October 2006, seventeen series had been released in Japan with 417 unique cards. As of August 2008, ten of these series had been released in North America.
 
 
 == Reception ==
 
 
 === Sales ===
-
-Dragon Ball is one of the most popular manga series of all time. Dragon Ball is credited as one of the main reasons manga circulation was at its highest between the mid-1980s and mid-1990s. During Dragon Ball's initial run in Weekly Shōnen Jump, the manga magazine reached an average circulation of 6.53 million weekly sales, the highest in its history. During Dragon Ball's serialization between 1984 and 1995, Weekly Shōnen Jump magazine had a total circulation of over 2.9 billion copies.
-The collected tankōbon volumes of Dragon Ball have sold in record numbers. By 2000, more than 126 million copies had been sold in Japan. By 2008, it had over 150 million copies in circulation and was the best-selling manga ever at the time. In 2012, Shueisha announced that its tankōbon sales had grown to more than 156 million, making it the second best-selling Weekly Shōnen Jump manga of all time, behind One Piece. This number grew to 159.5 million copies by 2014. By 2018, Dragon Ball had a circulation (including the kanzenban edition) of more than 160 million in Japan. The total number of tankōbon volumes sold have reached 260 million copies worldwide by 2022.
+The manga has 250 million copies in circulation worldwide, making it one of the best-selling manga series in history. More than half of the total circulation were in Japan, with the remaining circulation from 46 countries and regions. It has become one of North American publisher Viz Media's best-selling manga series; their translation of the series appeared on USA Today and The New York Times bestseller lists several times. It was included in the fiction section of Teacher Librarian's recommended list for 2008, and School Library Journal described it as an essential manga for school libraries.  Volume 28 of the manga reached seventeenth place in the USA Today Booklist in its first week of release in March 2008, only two places short of the record for a manga, held by Fruits Basket. The volume had one of the biggest debut weeks of any manga in years, becoming the top-selling manga volume of 2008 and the second best-selling book in North America. In 2010, Viz, the publisher, commented on the loyalty of readers, who reliably continued to buy the manga as the volume count went over 40.
 
 
-=== Popularity ===
-The manga is popular overseas, having been translated and released in over 40 countries worldwide. For the 10th anniversary of the Japan Media Arts Festival in 2006, close to 79,000 Japanese fans voted Dragon Ball the third greatest manga of all time. In a 2007 survey of one-thousand people conducted by Oricon, Goku ranked in first place as the "Strongest Manga Character of All Time". Coinciding with the 2012 Summer Olympics, Oricon conducted a survey at the international World Cosplay Summit on which manga and anime series attendees considered world class works. Dragon Ball was overwhelmingly in first place. In November 2014, readers of Da Vinci magazine voted Dragon Ball the greatest Weekly Shōnen Jump manga series of all time. The Portuguese edition of Dragon Ball won the 2001 Troféu HQ Mix for Best Serial. On TV Asahi's Manga Sōsenkyo 2021 poll, in which 150,000 people voted for their top 100 manga series, Dragon Ball ranked fifth.
-In 2011, manga critic and editor of Viz's editions of the series Jason Thompson said that: "Dragon Ball is by far the most influential shonen manga of the last 30 years, and today, almost every Shōnen Jump artist lists it as one of their favorites and lifts from it in various ways." Explaining its basic formula of "lots of martial arts, lots of training sequences, [and] a few jokes" became the model for other shōnen series, such as Naruto. Thompson cited the artwork as influential, pointing out that popular shōnen manga of the late 1980s and early 1990s had "manly" heroes, such as City Hunter and Fist of the North Star, whereas Dragon Ball had the cartoonish and small Goku, thus starting a trend that he says still continues. Commenting on Dragon Ball's global success nearly two decades after it ended, Toriyama said, "Frankly, I don't quite understand why it happened. While the manga was being serialized, the only thing I wanted as I kept drawing was to make Japanese boys happy. The role of my manga is to be a work of entertainment through and through. I dare say I don't care even if [my works] have left nothing behind, as long as they have entertained their readers."
+=== Critical response ===
+Several reviewers commented on the balance between fight scenes and plot development; A. E. Sparrow of IGN and Casey Brienza of Anime News Network felt that the result was a strong storyline, but Carl Kimlinger, also writing for the same website, suggested that there were too many fights, which slowed down the plot. Kimlinger liked the character designs, and approved of the fight scenes themselves which also drew positive comments from Rik Spanjers, who felt that the excitement of the scenes depends on Kishimoto's skill in depicting action. Javier Lugo, writing for Manga Life, agreed, describing the artwork as "dramatic, exciting, and just right for the story he's telling". Briana Lawrence from Mania Entertainment describes the growth of the characters gave Part II an adult feel. Writing for IGN, Ramsey Isler called Jutsu one of the most entertaining concepts in Naruto, stating as well that their diversity, complex signs required for techniques, the unique physical features, and the sheer destructive power of Ninjutsu are the elements that have made the series widely popular.
+In a review of volume 28 Brienza also praised Part II's storyline and characterization, though she commented that not every volume reached a high level of quality. The fights across the Part II received praise, most notably Naruto's and Sasuke's, resulting in major changes into their character arcs. Meanwhile, the final battle between the two characters in the finale earned major praise for the choreography and art provided as well as how in depth the two's personalities were shown in the aftermath. Some writers criticized Kaguya being the least entertaining villain, making the showdown between Naruto and Sasuke more appealing as a result. The finale earned nearly perfect scores from both Anime News Network and Comic Book Bin, with the latter acclaiming the popularity of the title character.
+Responding to Naruto's success, Kishimoto said in Naruto Collector Winter 2007/2008 that he was "very glad that the American audience has accepted and understood ninja. It shows that the American audience has good taste [...] because it means they can accept something previously unfamiliar to them." Gō Itō, a professor in the manga department of Tokyo Polytechnic University, compared the series' development to the manga of Dragon Ball, saying that both manga present good illustrations of three-dimensional body movements that capture the characters' martial arts very well. Gō felt readers could empathize with the characters in Naruto via their inner monologue during battles. The series also influenced the movie Scott Pilgrim vs. The World with director Edgar Wright saying he was inspired by how whenever there is a "killer move" in the manga, there is an impact in the background following any technique's usage.
+When the manga ended, multiple authors from the magazine expressed congratulations to Kishimoto's work. The fight scenes in general earned acclaim for how well written they are, something game developer CyberConnect2 took into account when developing the Naruto games. Christel Hoolans, managing director director of Kana and Le Lombard, called Naruto the first long-running series after Dragon Ball to become a classic in France.
 
 
-=== Critical reception ===
-The manga has received a mostly positive reception from critics. Jason Thompson commented that Dragon Ball "turns from a gag/adventure manga to a nearly-pure fighting manga". James S. Yadao, author of The Rough Guide to Manga, explains that the first several chapters "play out much like Saiyuki (Journey to the West) with Dr. Slump-like humour built in" and that Dr. Slump, Toriyama's previous manga, has a clear early influence on the series. He feels the series "established its unique identity" after the first time Goku's group disbands and he trains under Kame-Sen'nin. On the second half of the manga, he commented that it developed "a far more action-packed, sinister tone" with "wilder" battles and aerial and spiritual elements with an increased death count. David Brothers for ComicsAlliance wrote that: "Like Osamu Tezuka and Jack Kirby before him, Toriyama created a story with his own two hands that seeped deep into the hearts of his readers, creating a love for both the cast and the medium at the same time." He said that while the author has "a sublime combination of Looney Tunes-style classic humor and dirty jokes," the best part of Dragon Ball is the fight scenes. Brothers explained that while Western superhero comics "would focus on a series of cool poses or impact shots" with the reader having to fill in the blanks between panels, Dragon Ball has a panel dedicated to one action and the next panel features the very next maneuver, making them incredibly easy to follow.
-Fusanosuke Natsume says that the theme of disaster and growth in the manga is a reference to "post-War Japanese manga" that Osamu Tezuka began in the mid 1940s. He also comments that the violence in the manga has context that children can understand, and is not just there at random. While Toriyama has said that Journey to the West was an influence on the manga, Xavier Mínguez-López comments that it is a parody of the Chinese novel, since the stories are similar. He notes that Toriyama uses Chinese mythology and Japanese folktales, the dragon Shenlong who is summoned from the Dragon Balls, as well as characters who are able to come back to life as examples of similarities. Rachel Cantrell says that the manga parodies martial arts very well, and mentions how Toriyama uses panels to a full extent. She notes that the manga has a coming-of-age theme due to how the story captures Goku from a child to an adult. Dr. Frédéric Ducarme compared Goku's backstory to that of Superman, with whom the character has often been compared, but wrote that Goku remains a sportsman throughout the manga, not an avenger or vigilante.
-Carlo Santos of the Anime News Network described Dragon Ball's setting as "a melting pot of sci-fi, fantasy, and folklore". Santos praised its quick development of new characters and storylines, and claimed that the series' crowning achievement is in its dynamic fight scenes. However, he did not enjoy the cliché training and tournament segments, nor its crude humor. His colleague Allen Divers praised the manga's story and humor as being very good at conveying all the characters' personalities. Divers also called Viz's translation one of the best of all the English editions of the series due to its faithfulness to the original Japanese. Animerica felt the series had "worldwide appeal," using dramatic pacing and over-the-top martial arts action to "maintain tension levels and keep a crippler crossface hold on the audience's attention spans". Comic Book Bin's Leroy Douresseaux described Toriyama as a "super-cartoonist," a blend of Carl Barks, Jack Kirby, and Peyo. He gave Dragon Ball a perfect rating and called it one of the best manga and comic books he has ever read. Ridwan Khan of Animefringe.com commented that the manga had a "chubby" art style, but as the series continued the characters became more refined, leaner, and more muscular. He cited one slight problem in Viz's release; the translation uses informal language to capture Goku's country accent, but it ends up feeling "forced and odd". Khan prefers the manga over the slow pacing of the anime adaptations. Including it on a list of "10 Essential Manga That Should Belong in Every Comic Collection", Matthew Meylikhov of Paste also praised the manga over the anime as an entirely different and more "involved experience." He wrote that "You come to know and care for the characters more intimately, and the joy and wonder of watching them fight, learn and grow throughout the series improves tenfold." Manga author Nobuhiro Watsuki commented that there was a shift in the traditional portrayal of protagonists and their adversaries engaging in killings in shōnen manga after Dragon Ball started a trend of bringing characters back to life.
+=== Awards and accolades ===
+Naruto won the Quill Award for graphic novel in 2006. In April 2007, volume 14 earned Viz the Manga Trade Paperback of the Year Gem Award from Diamond Comic Distributors. The manga was nominated for Favorite Manga Series in Nickelodeon Magazine's 2009 Comics Awards. It won the 16th Spanish Manga Barcelona award for the shonen category in 2010. In 2015, the manga was nominated for the 19th Tezuka Osamu Cultural Prize. Masashi Kishimoto was the winner of Rookie of the Year for the series in the Japanese government's Agency for Cultural Affairs 2014 Minister of Education, Culture, Sports, Science, and Technology Fine Arts Recommendation Awards. On TV Asahi's Manga Sōsenkyo 2021 poll, in which 150,000 people voted for their top 100 manga series, Naruto ranked seventh.
 
 
-== Legacy and cultural impact ==
-
-Dragon Ball is considered one of the most influential manga of all time. Many manga artists have cited it and Toriyama as inspirations, including Fairy Tail and Rave author Hiro Mashima, Black Clover creator Yūki Tabata, and Boruto: Naruto Next Generations illustrator Mikio Ikemoto. Both One Piece creator Eiichiro Oda and Naruto creator Masashi Kishimoto have said that Goku inspired their series' main protagonists as well as their structures. For the kanzenban re-release of Dragon Ball, every odd-numbered volume included a tribute illustration by a popular manga artist who was a child when it was serialized, accompanied with a few words about how the series influenced them. The artists who contributed include: Bleach creator Tite Kubo, Black Cat author Kentaro Yabuki, The Seven Deadly Sins author Nakaba Suzuki, Eyeshield 21 and One-Punch Man illustrator Yusuke Murata, Bobobo-bo Bo-bobo creator Yoshio Sawai, Pretty Face author Yasuhiro Kanō, Mr. Fullswing author Shinya Suzuki, Hellsing creator Kouta Hirano, Claymore author Norihiro Yagi, Phantom Thief Jeanne and Full Moon o Sagashite creator Arina Tanemura, Excel Saga author Rikdo Koshi, Dragon Drive creator Kenichi Sakura, and Happy World! author Kenjiro Takeshita. French comics artist Tony Valente cited Dragon Ball as an influence, especially the adventure aspect of its early portion. The producer of the Tekken video game series, Katsuhiro Harada, said that Dragon Ball was one of the first works to visually depict chi and thereby influenced Tekken and other Japanese games such as Street Fighter. Ian Jones-Quartey, a producer of the American animated series Steven Universe, is a fan of Dragon Ball and Dr. Slump, and uses Toriyama's vehicle designs as a reference for his own. He also stated that "We're all big Toriyama fans on [Steven Universe], which kind of shows a bit." French director Pierre Perifel cited Toriyama and Dragon Ball as influences on his DreamWorks Animation film The Bad Guys.
-
-After searching for a real-life equivalent to the supernaturally nutritious Senzu seen in Dragon Ball, Mitsuru Izumo founded Euglena Company in 2005 and started making supplements and food products out of Euglena. In 2014, entomologist Enio B. Cano named a new species of beetle Ogyges toriyamai after Toriyama, and another Ogyges mutenroshii, after the Dragon Ball character Muten Roshi.
-On March 27, 2013, the "Akira Toriyama: The World of Dragon Ball" exhibit opened at the Takashimaya department store in Nihonbashi, attracting 72,000 visitors in its first nineteen days. The exhibit is separated into seven areas. The first provides a look at the series' history, the second shows the series' 400-plus characters, the third displays Toriyama's manga manuscripts of memorable scenes, the fourth shows special color illustrations, the fifth displays rare Dragon Ball-related materials, the sixth includes design sketches and animation cels from the anime, and the seventh screens Dragon Ball-related videos. It remained until April 15 when it moved to Osaka from April 17 to 23, and ended in Toriyama's native Nagoya from July 27 to September 1.
-An interactive exhibit called "Dragon Ball Meets Science" (ドラゴンボールで科学する!, Doragon Bōru de Kagaku Suru!) was displayed in Nagoya in summer 2014. Installations included an EEG that measured visitors' alpha brain waves to move Goku's flying cloud. The following year it went to Taiwan, then Tokyo from April 29 to May 10, and Osaka between July 18 and August 31. A retrospective exhibit called "The Beginning of the Legend" featured Dragon Ball along with other popular Weekly Shōnen Jump manga for the 50th anniversary of the magazine in 2018.
-In 2015, the Japan Anniversary Association officially declared May 9 as "Goku Day" (悟空の日, Gokū no Hi). In Japanese the numbers five and nine can be pronounced as "Go" and "Ku". In October 2016, Shueisha announced they had created a new department on June 21 called the Dragon Ball Room (ドラゴンボール室, Doragon Bōru Shitsu). Headed by V Jump editor-in-chief Akio Iyoku, it is dedicated solely to Dragon Ball and optimizing and expanding the brand.
-Nobuyuki Sakakibara, the founder of Pride Fighting Championships and Rizin Fighting Federation, noted how Toriyama conceived of a tournament featuring martial artists of various disciplines competing against each other with the Tenkaichi Budōkai in 1985, before mixed martial arts was coined or established. Canadian mixed martial artist Carlos Newton dubbed his fighting style "Dragon Ball jiu-jitsu" in tribute to the series. Japanese mixed martial artist Itsuki Hirata is nicknamed "Android 18" due to her resemblance to the Dragon Ball character. Japanese kickboxer Panchan Rina took her nickname from the Dragon Ball character Pan.
+=== Themes ===
+Amy Plumb argues that Kishimoto's use of references to Japanese mythology in Naruto is intended to add further layers to the story. Kishimoto expects his readers to decode the references, which allows him to avoid direct explanations. One example is Itachi, who has three ninja techniques named after Shinto deities: Tsukiyomi, Amaterasu, and Susano-o. Plumb also cites Sasuke's clan's heraldic symbol, a fan known as an uchiwa. These fans are used in Japanese myths to exorcise evil, by blowing it away; Sasuke discovers late in the series that he has the ability to "blow away" the influence of the Nine-Tailed Fox on Naruto. Foxes (kitsune tsuki) are tricksters in Japanese mythology, and in some stories, they take over human bodies; Plumb comments on the obvious similarities to the Nine-Tail sealed in Naruto, and the pranks Naruto plays.
+Christopher A. Born notes that the Naruto storyline contains traditional Confucian values, and suggests that students who analyse manga such as Naruto and Bleach will learn more about Confucianism than they would from studying its abstract ideas. Norman Melchor Robles Jr. evaluated the portrayal of both positive and negative ideas in Naruto by counting words in the script which were associated with either violence or positive values; he found that a small majority of tagged words were violent, but commented that the portrayal of violence seemed organized to show how positive strategies on the part of the protagonists could overcome the violence. Sheuo Hui Gan considers the series to have a set of "traditional ethical values". She also compares the treatment of alienation in Naruto, which Naruto overcomes by joining his society, to the portrayal of alienation in Akira and Neon Genesis Evangelion, where the main characters remain alienated.
+Naruto has been described by several critics as a coming-of-age story. Psychologist Lawrence C. Rubin suggests that the storylines would appeal to readers of any age who have lost loved ones, or are having difficulty finding friends, or who are in other situations shown in the series. In Yukari Fujimoto's view, as the characters mature, they show respect to the adults who have raised and taught them, making it a conservative storyline in comparison to other manga of the same time period such as One Piece and Air Gear. Rik Spanjers sees the difference between Sasuke (a loner) and Naruto (an optimist) as tragic, arguing that the contrast between the two protagonists' approach to the world is fundamental to the plot: "Naruto's strength grows as he gains more loved ones to protect, while Sasuke remains alone and is increasingly absorbed by his quest for revenge". Omote Tomoyuki points out that there are many comic moments in the story despite the difficulties Naruto finds himself in, but the comic elements diminish dramatically over time as Naruto grows into a teenager, particularly once Part II begins. Shōnen Jump began to carry comedies such as Gintama and Reborn! from 2003 onwards, and in Tomoyuki's view this is part of the reason for the change in emphasis: Naruto "was not supposed to provide laughter anymore".
+Fujimoto argues that the story has overly traditional gender roles, noting "[...] its representations suggest that men are men and women are women and that they differ naturally regarding aptitude and vocation". For example, the girls initially outperform the boys in the Ninja Academy, but "once the boys get serious, the girls cannot keep pace". Fujimoto points out that this does not upset Sakura, who is now surpassed by Naruto. Character development based on female roles, when it does occur, again uses stereotypical roles: Tsunade, for example, a middle-aged woman with large breasts, is a clear mother figure, and when she teaches Sakura to be a medical ninja, which requires special skills possessed only by women, the story reinforces the idea that women only belong on the battlefield as healers. Tsunade herself, who is a figure of authority in Naruto, is portrayed as ridiculous in a way that men in the same position are not. Fujimoto suggests this presentation of women may explain why the female characters are often the most disliked characters among readers of the manga.
 
 
 == Notes ==
+Language notes
+
+General notes
 
 
 == References ==
@@ -108,12 +135,1122 @@ Nobuyuki Sakakibara, the founder of Pride Fighting Championships and Rizin Fight
 
 == External links ==
 
-Official Dragon Ball Site (in Japanese, Spanish, English, French, and German)
-Dragon Ball at Viz Media
-Dragon Ball (manga) at Anime News Network's encyclopedia
-Main Characters: Monkey D. Luffy, Roronoa Zoro, Nami, Sanji, Tony Tony Chopper
+Anime: Naruto (zh)
+Description: 《火影忍者》（日语：NARUTO -ナルト-），通常簡稱為/火影/，為日本漫畫家岸本齊史創作的少年漫畫，講述忍者世界裡圍繞著身為對手的漩渦鳴人和宇智波佐助另兩人，與其他角色的故事經歷。
+漫畫自1999年開始在日本集英社旗下的少年漫畫雜誌《週刊少年Jump》上連載。2002年，由日本動畫工作室Studio Pierrot根據漫畫原作所改編製作的電視動畫版《火影忍者》開始在日本東京電視台播出。2004年，漫畫進而改編成電影。2006年，漩渦鳴人入選美國《新聞週刊》日文版於10月18日發行的特集中選出的「全世界最受尊敬的100位日本人」。
+2010年集英社宣布系列漫畫的累計發行量已突破一億冊。《火影忍者》在三十多個國家及地區被翻譯並出版發行，截至2014年8月，系列漫畫在全球的累計發行量已突破2億本。連載達15年的《火影忍者》於2014年11月10日在《週刊少年Jump》第50期以700話完結。
 
-Anime: Attack on Titan
+
+== 作品簡介 ==
+忍者使用超出常人的能力「忍術」、「體術」、「幻術」、「仙術」、「瞳術」進行華麗戰鬥的對戰動作漫畫。木叶所在之处，火之意志生生不息。青春。
+
+
+=== 作品發展 ===
+
+
+==== 本作連載 ====
+致敬亞洲各地的民間傳說、宗教神話所組成的世界觀之中，描寫主角與夥伴的友情、背叛與復仇、師生與家族的羈絆為中心，在包含忍者世界的起源・歴史等多種層面的故事中展開劇情。
+從中期開始，主角漩渦鳴人希望不是以戰鬥而是以互相「理解」與「寬恕」互相帶來和平，包含著「不像少年漫畫」的要素。在讀者支持度很高的「培因來襲篇」中，「鳴人與殺死自來也的敵人進行對話並且和解」的描寫讓作者本人後來回憶：「從某種意義上說是禁忌（苦笑）。這不是普通的少年漫畫所能做到的」。
+
+除了在日本，「忍者」在海外地區也擁有極高的人氣，因此被認為是2000年之後繼承《七龍珠》地位的代表作品。動畫在80國以上播出，授權商品在在90國以上販售。2006年，主角漩渦鳴人成為唯一一位入選美國《新聞週刊》日文版於10月18日發行的特集中選出的「全世界最受尊敬的100位日本人」的動漫角色。2009年，在美國雅虎檢索詞排名中為第6名。不僅電視動畫版有著高收視率的記錄。在中國的動畫網站上的每週觀看次數也達到2000萬次。
+單行本在日本累計發行卷數於2019年5月突破1億5300萬卷。2019年在46個以上的國家與地區發售，累計發行卷數也已經達到9700萬卷的紀錄。德國300萬卷、泰國540萬卷、中國750萬卷、美國1200萬卷、法國1700萬卷的銷售記録。、2019年5月，系列累計發行卷數在全世界已經突破2億5000萬卷。
+初版最高發行卷數為第27、第31卷的162萬卷。第37卷的首週銷售卷數以87.4萬卷得到第一名。2010年4月30日，發售的單行本在第51卷時在日本累計發行卷數突破1億卷，是集英社第五部在日本達成1億卷紀錄的漫畫。
+電子遊戲《終極系列》在全世界累計出貨達到2000萬張的記錄。《終極系列》中的《終極風暴系列》在全世界累計出貨達到1000萬張的記錄。
+2014年10月6日，集英社發表在2014年11月10日發售的《週刊少年Jump》2014年50號結束本作連載的消息，預定於《週刊少年Jump》2014年50號刊載第699話與第700話作為本作結局。
+
+
+==== 完結後的展開 ====
+本篇最終話於《週刊少年Jump》2014年50號刊載。2015年春天，新篇預定短期集中連載，也發表小說化的消息。之後新篇《火影忍者外傳～第七代火影與緋色的花月～》於《週刊少年Jump》2015年22・23合併號至32號短期集中連載。
+本篇完結後，電視動畫版繼續播放到2017年3月為止。開發各種跨媒體製作作品・活動的「火影忍者新時代開幕計畫」展開中。
+2014年12月，描寫第699到第700話之間的動畫電影《火影忍者劇場版：最終章》上映。
+2016年12月17日，於「Jump Festa 2017」的「NARUTO×BORUTO」的舞台活動上宣布製作好萊塢真人電影的消息。
+2017年11月，宣布新作歌舞伎《火影忍者》上演的消息。2018年8月於東京的新橋演舞場上演。
+2019年5月31日，預定漫畫連載20周年紀念《[NARUTO to BORUTO THE LIVE 2019》的舞台活動，將集結動畫的聲優、演唱動畫主題歌的藝人、舞台版的演員、遊戲直播主。同年10月6日・10月7日於幕張展覽館舉辦。
+
+
+==== 續作連載 ====
+2015年8月，描寫最終話之後的故事的動畫電影《火影忍者劇場版：慕留人》上映。
+在《週刊少年Jump》2016年23號，以原作・監修：岸本齊史、作畫：池本幹雄、劇本：小太刀右京為組合的《慕留人-火影忍者新世代-》以每月一話的形式連載。故事的早期階段與之前的動畫電影為同樣的内容。
+2016年12月17日，在「Jump Festa 2017」的「NARUTO×BORUTO」的舞台活動上發表了電視動畫化的消息。接替在2017年3月完結的電視動畫《火影忍者疾風傳》，4月開始於東京電視網播放中。
+
+
+=== 創作構想 ===
+
+1997年8月，岸本齊史在《赤丸Jump》上刊載一部名為《NARUTO》的短篇漫畫。 儘管刊載之後吸引眾多讀者，岸本透露將創作名為《機器人》的新作漫畫，並參加Hop☆Step賞；但由於對於該作的成果不滿意，岸本決定把重點放在《火影忍者》上。一名主持人詢問岸本有沒有想對英語讀者說什麼話時，他回答：
+
+有時連我都覺得《火影忍者》太日本了，什麼都和查克拉與封印有關；但一旦你開始讀就會發現很有趣。最初，岸本認為原情節會變成另一部相似類型的少年漫畫；為做區分，他決定創造盡可能真實的角色。將角色分成不同的團隊，讓他能將特定團隊與特定個性聯繫起來；為此，他先想像每個人物的特色，再將不同人物的特色融合為團隊特色。最終，部分角色擁有豐富飽滿的個性，其他角色則擁有超過他人的單一優勢。至於反派，岸本覺得他們的道德價值觀與主角必定形成某種對立，他認為這些是塑造角色的基礎；密切關注價值觀的同時，亦提及他並沒真正考慮過他們的戰鬥該如何進行。
+岸本補充，因為《火影忍者》發生在一個“虛構的日本世界”，他必須“通過一種系統模型來製定一些規則，以便故事能輕鬆進行。”此外，他還引進中國占星術，因為它在日本有深遠的影響；忍術結印就是受此影響。設計漫畫時，他主要集中在作為該系列重要設定的木葉忍者村上。岸本透露風景設計靈感來自他在岡山縣的家。在還沒確定情節的時期，岸本加入幾個現代元素，像是便利商店，並排除如槍支和車輛等物體。作為參考，岸本提到他對日本文化的研究是他所有作品的基礎。技術方面，岸本說《火影忍者》永遠不會出現彈射裝置，雖然可能加入汽車、飛機和慢处理（8位元）计算机。最後他表示系列最後一章有了視覺構想，包括文字和故事；不過，他說明《火影忍者》尚需很多時間完成，“因為劇情中有很多事需要解決”。
+關於第一部《火影忍者》的主題，岸本透露是關於如何接受他人；岸本補充，由於第一部情節缺乏浪漫元素，在第二部將有更多著墨，儘管他認為很難依賴這種類型的情節。
+
+
+=== 結論 ===
+當連載開始時，岸本就決定在結局描寫鳴人與佐助這兩個角色之間的恩怨。岸本認為「培因來襲篇」是相當重要的一個篇章。該篇章為《火影忍者》的結局奠定基礎。鳴人與敵方角色長門戰鬥，鳴人在直到親身體驗失去重要的人之前無法在戰鬥中回答解決仇恨的方法。因此，長門和失去師父自來也的鳴人一樣失去重要的人，卻無法像鳴人那樣原諒對方。這段劇情是鳴人的發展點，因為他從未經歷過戰爭而無法真正回答長門的問題。岸本從那時候就已經決定描寫第四次忍界大戰，這樣鳴人才能體驗到這一點，並且在戰爭結束後進入結局。
+故事以鳴人與佐助的和解為結束。岸本從漫畫連載早期就決定日向雛田作為鳴人的伴侶，因為雛田在故事開始之前就認同鳴人，並且岸本認為這代表著他們兩位角色可以建立戀愛關係。這個決定讓他的妻子感到不滿意，她希望鳴人與春野櫻在一起 ，但是岸本認為小櫻是鳴人的朋友以及同一個小隊的夥伴，而不是未來的妻子。當雛田第一次在故事中登場時，岸本想在這三名角色之間描寫一個三角關係，但是由於他認為戰鬥是本作的主要重點，因此並不是太注重戀愛劇情的描寫。到2009年8月，岸本已經計劃本作的後續篇章以及結局，並說明需要一點時間來完成本作。這引起讀者的擔憂，他們擔心漫畫將在鳴人與長門的戰鬥之後地不久就會結束。但是，岸本之後澄清，漫畫之後還會繼續連載。
+
+
+== 世界觀 ==
+
+本作的舞台是一個基於近代日本與現代文化融合的虛構世界。儘管科學技術有一定程度的發展，但是人們建立了較為古老的社會結構，並形成了獨特的世界觀。
+
+
+=== 文明描寫 ===
+衣服主要以近代看到的和服為中心，有西裝、球衣、連褲襪、旗袍、洋服各種類的服裝。包含木葉忍者村在內的各國忍者穿著特殊部隊風格的背心，其中還有許多人都穿著涼鞋。食物方面基本上是日本料理，建築具有東方風格，在公共建築可以看到使用混凝土與金屬網。消防方面使用水遁來救火，由於忍術代替了機器的角色，使得機器文明的發展程度不高，所以沒有汽車、鐵路、飛機之類的交通工具（蒸氣船除外），但是會出現像是蒸汽裝置、攝影機、電子公告板之類的電子設備。貨幣單位為「兩」。
+
+
+=== 本作關於忍者的概念 ===
+在本作中可以藉由修練來學習一種被稱為忍術的超能力。忍者的設定與忍術的配置是戰鬥漫畫的基礎，在本作中比較接近日本戰國時代的傭兵，以易於理解的方式改變「忍者」的神秘性的世界觀賦予了作品的吸引力。此外，關於忍者的服裝方面，較少出現像其他的忍者作品一樣穿著忍者服裝（黑色服裝、頭巾等）的忍者登場；關於武器方面，其他忍者作品出現的吹箭與熱兵器則不會出現。本作連載結束後，作者本來在《火影忍者劇場版：最終章》的上映紀念見面會中說出「《火影忍者》與正常的忍者漫畫不同的是穿著橙色衣服說出『我是鳴人！』來稱呼自己。）有一種歌舞伎的感覺。因此，這裡的『忍者』一詞不代表著『暗殺或為了君主而奉獻生命』。我描寫成『一個堅持不懈並持之以恆的人』，雖然這看起來可能不像少年漫畫。」的評語。
+
+
+== 故事劇情 ==
+這是體內封印著九尾妖狐的吊車尾忍者──漩渦鳴人以成為村子第一的忍者「火影」為目標，與夥伴們一起克服各種試煉並且成長的故事。
+
+
+=== 第一部 ===
+漫畫：第1卷第1話－第27卷第238話／動畫：第1集－第220集
+12年前，忍者五大國之一的火之國的木葉忍者村遭遇了擁有強大力量的尾獸「九尾妖狐」的襲擊，當時的首領也就是第四代火影犧牲自己的生命將九尾封印到剛出生不久的嬰兒漩渦鳴人身上。歲月流逝，村子在復職的「第三代火影」猿飛蒜山的治理下恢復了和平。
+
+
+==== 波之國篇 ====
+漫畫：第1卷第1話－第5卷第44話／動畫：第1集－第26集
+希望成為忍者，學業成績卻是吊車尾的忍者學校的學生漩渦鳴人是一個每天都在惡作劇的超級問題少年。連續3次都沒有通過畢業考試，在水木企圖奪取第一代火影的封印卷軸的事件中獲得自己的老師海野伊魯卡的認同，得到作為畢業證明的護額之後成為下忍。成為下忍的鳴人與宇智波佐助、春野櫻一起被分配到上忍旗木卡卡西的第七班。在奪取卡卡西身上的鈴鐺的生存演習中知道到自己的不成熟，同時也知道了夥伴的重要性，被從未給予學生合格的卡卡西認可為正式的下忍。
+之後，在波之國執行護衛達茲納的任務中與霧忍者村的逃亡忍者桃地再不斬與使用冰遁忍術的少年白戰鬥。儘管是一場苦戰，强大鳴人作為一名忍者還是在實戰中獲得了極大的成長。在這場戰鬥中，佐助讓宇智波一族的血繼限界「寫輪眼」開眼，而鳴人則第一次展現了封印在自己體內的九尾的強大力量的一小部份。
+
+
+==== 中忍考試篇 ====
+漫畫：第5卷第45話－第10卷第90話／動畫：第27集－第52集
+成為下忍之後完成各種任務的第七班在卡卡西的推薦下參加了中忍考試。包括木葉的同期下忍在內，各個村子前來參加考試的下忍們都聚集在木葉忍者村。
+靠著毅力突破作為難關的第一場考試的筆試的鳴人等人在第二場考試要在死亡森林生存下去。但是在途中突然遭到「傳說的三忍」之一的襲擊，並且在佐助的身上刻上了神秘的咒印。主考官紅豆前來追擊大蛇丸，但是大蛇丸以壓倒性的力量逃脫了。
+之後，第二場考試結束。 由於合格者的人數超乎預期，於是加碼舉行以個人戰為形式的第三場考試預選。小櫻因為打成平手而遭到淘汰，鳴人與佐助成功打倒對手而勝出，晉級到一個月後舉行作為正式選拔的第三場考試。
+
+
+==== 毀滅木葉行動篇 ====
+漫畫：第11卷第91話－第16卷第140話／動畫：第53集－第80集
+中忍考試第三場考試預選的一個月後，各國的忍者首領以及觀眾都在觀看之下，中忍考試正式選拔開始舉行。鳴人與作為強敵擁有「白眼」的柔拳使用者日向寧次陷入苦戰，但還是靠著解放九尾的力量而獲得勝利。完成與卡卡西的修行的佐助颯爽地趕到會場，與砂忍者村的我愛羅對戰。
+學會卡卡西傳授的「千鳥」的佐助在與我愛羅的對戰中佔了上風。這時候突然有某人對在會場的所有人施展了幻術，大蛇丸與砂忍者村利用中忍考試進行「毀滅木葉行動」，趁機對木葉忍者村發動戰爭。第三代火影本來想封印大蛇丸卻只差了一步，耗盡全部的力氣將大蛇丸的雙手連同他所能使用的術封印後去世。木葉的忍者們也拚死地戰鬥，將敵人擊退。最後鳴人與同為祭品之力的我愛羅展開激戰，鳴人以九尾的查克拉與新學會的通靈之術將我愛羅打倒。
+之後發現屍體嚴重損毀的真正的第四代風影以及隨從，讓大蛇丸利用砂忍者村來發動戰爭的事實曝光。結果這場戰爭以五影的2人死亡以及多人傷亡，雙方的村子遭到嚴重打擊而結束。
+
+
+==== 綱手搜索篇 ====
+漫畫：第16卷第141話－第19卷第171話／動畫：第81集－第106集
+幾年前消滅宇智波一族的木葉忍者村的逃亡忍者宇智波鼬與霧忍者村的干柿鬼鮫這2人突然出現在村子。 他們是大蛇丸曾經所隸屬的「曉」的組織成員，目標是寄宿著九尾的鳴人。查覺到他們入侵的猿飛阿斯瑪、夕日紅、旗木卡卡西前來應戰，卡卡西因為被鼬以萬華鏡寫輪眼發動的「月讀」導致精神受到重創而不支倒地。得知此事的佐助為了找他的哥哥鼬復仇而前去追擊。
+當時「傳說的三忍」之一的自來也受到了高層人員要求繼任火影，但是在拒絕之後並推薦同為三忍也是第一代火影的孫女的綱手，讓鳴人也能修練的同時一起踏上尋找綱手的旅途。途中受到目標是鳴人的鼬與鬼鮫的襲擊，自來也反擊之後鼬與鬼鮫撤退離開，而獨自挑戰鼬的佐助則是反而被打成重傷，被趕來的阿凱帶回去木葉忍者村，鳴人與自來也繼續尋找綱手。
+與自來也一同離開村子後旅行的鳴人在修行時一路接受他的指導與鼓勵。同時被第三代火影奪走雙手導致術被封印的大蛇丸因為劇痛而痛苦，為了請身為醫療忍術的專家的綱手治療自己的雙手，與部下藥師兜前去與綱手交涉。綱手面對治好手腕就會再次襲擊木葉忍者村的大蛇丸則到感到憤怒而拒絕交涉，卻因為大蛇丸提出「復活最愛的2人」的條件感到動搖。
+之後，鳴人與自來也隨即找到了綱手。綱手與和她已經去世的弟弟的身影重疊的鳴人下了「如果能學會螺旋丸，就贈予第一代火影的首飾」的賭注。鳴人為了能學會螺旋丸而開始燃起鬥志。後來，綱手徹底拒絕了大蛇丸的要求而與大蛇丸以及兜展開戰鬥。自來也趕到之後加入了戰局，「傳說的三忍」召喚3隻巨大的通靈動物而展開壯烈的三足鼎立之戰， 經過一場苦戰，綱手的全力一擊擊退了大蛇丸。在這場戰鬥中，鳴人終於學會了螺旋丸並成功重創了兜，綱手也因此將第一代火影的首飾送給了鳴人並認同了他。
+
+
+==== 佐助奪還篇 ====
+漫畫：第20卷第172話－第27卷第238話／動畫：第107集－第135集
+在擊退大蛇丸之後，回到木葉忍者村之後的綱手就任第五代火影，村子開始恢復平穩的狀態。然而被大蛇丸刻上咒印的佐助開始為自己的宿命感到苦惱；同時間，佐助與大蛇丸的部下音之四人眾接觸，佐助為了得到足以打倒鼬的力量因而接受大蛇丸的勸誘而離開木葉忍者村。鳴人、鹿丸、丁次、牙、寧次這5人為了奪回佐助而與音之四人眾多由也、左近、鬼童丸、次郎坊以及前來支援的君麻呂交戰，也得到前來支援的小李與身為同盟的我愛羅等砂之忍者的援助，在全員負傷的情況下打倒所有敵人。但是鳴人卻在與佐助一戰中敗北，佐助前往大蛇丸的所在之處，奪回佐助的任務因此失敗。
+之後，鳴人為了在3年後找回佐助以及面對「曉」的威脅，而在成為自來也的弟子後離開木葉忍者村而出發進行修行之旅。
+
+
+=== 卡卡西外傳～戰場上的少年時代～ ===
+
+漫畫：第27卷第239話－第27卷第244話／動畫：第339集－第340集
+時代為在第一部十幾年前的第三次忍界大戰。描寫少年時代的旗木卡卡西獲得寫輪眼的故事。晉升上忍的卡卡西、宇智波一族的中忍帶人、同隊的中忍以及醫療忍者的小凜、小隊長官的波風湊（後來的第四代火影）這四個人一起執行任務。卡卡西與帶人這兩個人水火不容，總是衝突不斷。湊為此一直教育他們，小凜則是作為這兩個人的和事佬。
+為了執行任務而與湊分開行動的卡卡西一行人遭到敵人的奇襲，而小凜被敵人擄走而被作為人質。優先執行任務的卡卡西與優先考慮夥伴性命的帶人，這兩人因為身為忍者的理念不同而彼此對立著。帶人為了救出小凜獨自進入敵人的據點卻遭到攻擊，被趕來的卡卡西救了下來。帶人在這場戰鬥中覺醒了寫輪眼，而卡卡西失去了左眼。儘管成功營救小凜，但是帶人為了保護了卡卡西而被崩塌的岩石壓住。意識到自己即將不久於人世的帶人將自己的寫輪眼作為晉升上忍的祝賀禮物送給了卡卡西，並將小凜託付給他。
+
+
+=== 第二部 ===
+漫畫：第28卷第245話－第72卷第700話／動畫：第221集－第720集
+在終結山谷的激戰過了二年半之後，鳴人結束與自來也的修行之旅回到了木葉忍者村，與成為醫療忍者的小櫻以及感覺和以前一樣的卡卡西組成小隊，並再次接受搶奪鈴鐺的生存演習，已經成長的鳴人與小櫻成功通過演習。而就在鳴人與夥伴們重逢之時，「曉」的魔掌開始伸向已經成為風影的我愛羅。
+
+
+==== 風影奪還篇 ====
+漫畫：第28卷第245話－第31卷第281話／動畫：第221集－第252集
+第一部結束的兩年後，曉開始行動以獲得尾獸。曉的成員迪達拉打敗並擄走已成為砂忍者村風影的我愛羅。
+追擊的勘九郎中了被迪達拉的夥伴蝎的毒而失去知覺。隨後，收到砂忍者村的緊急求援，鳴人所在的卡卡西班前往砂忍者村。途中遇到正返回砂忍者村的手鞠。此時，阿凱班和卡卡西班被分到同一任務中。抵達砂忍者村後，卡卡西班的小櫻治好中毒的勘九郎，並與身為砂忍者村顧問的蝎的祖母千代一同前往曉的藏身處。
+阿凱班帶著卡卡西的忍犬鎖定曉在川之國的藏身處。一行人打破陷阱並進入曉的藏身洞穴後，眼前卻只有已與尾獸分開而死去的我愛羅，以及曉的成員蝎和迪達拉。
+卡卡西和憤怒鳴人追逐迪達拉以奪回我愛羅，小櫻及千代則與蝎對峙。經過砂忍者村史上最強傀儡師之二的祖孫間致命的戰鬥，小櫻及千代擊敗了蝎，並前往與鳴人等人會合。
+另一邊，在卡卡西的萬花筒寫輪眼幫助下，鳴人與卡卡西成功奪回我愛羅的遺體。本就為我愛羅之死感到憤怒的鳴人，聽到千代站在砂忍者村立場發表種種不重視祭品之力的意見後，便遷怒於千代，因為這與體內封印尾獸並注定作為祭品之力活下去的自己是一樣的。千代在遇到鳴人後，重新認識自己的想法，決定以自身性命為代價施展禁術來復活我愛羅。醒來的我愛羅周圍，圍繞著前來營救村長、尊敬和崇拜他的砂忍們。
+
+
+==== 佐助再會篇 ====
+漫畫：第32卷第282話－第34卷第310話／動畫：第253集－第273集
+成功奪回我愛羅的第七班歸來。然而，卡卡西卻因萬花筒寫輪眼消耗過多查克拉而被迫住院，於是暗部的大和被任命為第七班代理隊長。另外，來自根的佐井也被派來加入第七班以填補佐助的空缺。小櫻從蝎那裡得到消息，說幾天後他將與派去大蛇丸那臥底的間諜會面，第七班便接到任務前往會面地點。然而，任務過程中鳴人和佐井總是起衝突。一行人抵達目的地後，大和假扮為蝎的樣子前往會面。間諜的真實身分是大蛇丸的心腹藥師兜。然而，大蛇丸突然現身及蠍的偽裝被識破，讓大和陷入困境，鳴人為幫助大和上前挑戰大蛇丸。此時，大蛇丸說了提起佐助激怒了鳴人，讓九尾之力覺醒。與此同時，祭開始執行根交給他的任務。大和在壓制九尾之力的同時，向小櫻說明自己的身世：大和是大蛇丸融合初代火影基因的實驗體，為木葉忍者村唯一掌握木遁並能壓制九尾之力的人。
+之後第七班潛入大蛇丸的藏身處。佐井是團藏的部下，在團藏指使下與大蛇丸勾結，提出聯手摧毀現在由綱手統領的木葉忍者村。然而，佐井的真正目的，是刺殺身為大蛇丸下一個轉生容器的佐助。然而，看著鳴人和小櫻努力守護與佐助的羈絆，讓佐井想起他與曾經珍視的哥哥段之間的羈絆，決定轉而幫助鳴人奪回佐助。佐井比鳴人先遇見佐助，並提起鳴人和小櫻。當鳴人一行抵達時，兩年半來鳴人第一次與佐助重逢。然而，此一時彼一時，佐助是認真想殺了鳴人等人。當鳴人、佐井和大和相繼被佐助打敗，九尾慫恿鳴人使用它的力量；此時佐助出現在鳴人與九尾的精神世界中，用寫輪眼壓制住九尾，並知曉鳴人「真正的力量」。當佐助想施展絕招一舉殲滅所有人時，大蛇丸阻止了他。昔日的好友佐助再次從鳴人等人面前消失。
+朋友的轉變和與意識到力量差距的鳴人，決定再次開始修煉，並請卡卡西指導。
+
+
+==== 飛段・角都篇 ====
+漫畫：第35卷第311話－第38卷第342話／動畫：第292集－第309集
+鳴人一行人回到木葉忍者村，為了能在短時間追上佐助的腳步，鳴人在卡卡西的指導下，進行風的「性質變化」的修行，最終目標是結合螺旋丸與風的性質變化，進而創造全新的忍術。就在鳴人修行的同時，「曉」的成員飛段與角都出現在雲忍者村，打倒了二尾的祭品之力・二尾柚木斗並將其捕獲。之後，為了完成組織給予的任務目標，入侵火之國並襲擊著名的忍寺・火之寺，殺死了守護忍十二士之一的地陸。在其他國家，地達羅與新的成員鳶組成小隊，成功捕獲三尾。
+當「曉」正逐步實現其目的之時，得知飛段與角都入侵火之國的第五代火影下令由精銳們組成新的20個小隊前去執行逮捕任務。但是，猿飛阿斯瑪在戰鬥中被飛段的忍術打成重傷，最後不幸殉職。
+為了討伐殺死老師的敵人，前第十班的成員與代替阿斯瑪的卡卡西一同前往。卡卡西、井野、丁次三人與角都陷入苦戰許久，最終透過鹿丸精密的計謀，利用了飛段的忍術反殺角都。而鹿丸儘管面對實力強大的飛段，還是賭上性命成功靠著戰術打倒了飛段。在與角都的戰鬥，暫時由大和領導的第七班也加入戰局，鳴人使出透過在修行時學到將螺旋丸與風的性質變化結合的風遁・螺旋手裏劍打倒了角都。最後，卡卡西以雷切結束了早已無法動彈的角都的性命。
+
+
+==== 自來也VS佩恩・佐助VS鼬篇 ====
+漫畫：第38卷第343話－第43卷第402話／動畫：第333集－第338集；第341集－第363集
+與飛段以及角都之間的戰鬥結束之時，佐助在大蛇丸的底下進行修行。不久之後，佐助確信自己的實力已經超越大蛇丸，而襲擊了他。打倒大蛇丸並且得到他的力量的佐助將被囚禁的水月放了出來，並一起邀請香燐、重吾成為他的夥伴，四人組成了名為「蛇」的小隊。
+木葉忍者村與「蛇」都開始捜索宇智波鼬的下落。大和的小隊在途中與兜相遇，兜給了木葉忍者一本記載了「曉」的組織名冊之後就逃走。與水月、香燐、重吾分別行動時，佐助遭到地達羅與鳶的襲擊，最後佐助躲過地達羅的自爆攻擊而成功生存。「蛇」擺脫木葉忍者的追蹤，佐助在遇到鼬的分身之後前往他的根據地，水月、香燐、重吾則是被干柿鬼鮫留了下來等待結果。
+同一時間，自來也得到「曉」的首領的情報，單獨一人入侵雨忍者村。被昔日的兩位學生，也就是「曉」的首領培因與小南發現並且戰鬥，自來也使用通靈之術召喚蝦蟆健以及兩大仙人的深作與志摩，並且進入「仙人模式」來作戰。在激戰的最後，自來也戰死，在臨死之前將關於培因本體的情報託付給深作。
+鳴人在任務中一度與「蛇」接觸，並且與鼬的分身相遇。之後，木葉的小隊被鳶阻擋而停下了腳步。佐助與鼬的戰鬥開始，經過一場苦戰之後成功殺死了鼬。但是之後，佐助在鳶的述說下得知了有關宇智波一族與鼬的真相。
+
+
+==== 培因來襲篇 ====
+漫畫：第44卷第403話－第48卷第450話／動畫：第372集－第395集
+因為得知哥哥鼬的真相感到悲傷的佐助得到萬花筒寫輪眼，並與水月、香燐、重吾會合，將小隊的名字從「蛇」改為「鷹」。象徵向鼬與宇智波一族的真正敵人，也就是木葉忍者村復仇的決心。此時，木葉忍者村在深作的告知下得知自來也戰死以及最後關於培因本體的情報。鳴人從自來也死亡的悲傷之中走了出來，並跟著深作前往妙木山開始進行仙術的修行。
+「鷹」在鳶的委託下前往雲忍者村，與八尾的祭品之力的殺人蜂戰鬥，在水月、香燐、重吾的幫助之下，佐助發動天照擊敗殺人蜂成功將殺人蜂捕獲，並移交給鳶。「曉」接著進行八尾的封印，卻發現佐助帶回的殺人蜂只是八尾的一隻腳變成的分身，所以這次行動以只能封印八尾一小部份的查克拉而宣告失敗。得知這件事的雲忍者村開始搜索「鷹」的下落，第四代雷影派遣寒、輕、重帶著公文前往木葉忍者村，並且準備召開五影會談。
+當鳴人在妙木山順利進行之時，為了捕獲九尾的培因與小南開始襲撃木葉忍者村。培因為了問出鳴人的下落進行無差別的大規模破壞，追殺村子裡的人民與忍者，卡卡西與靜音等實力强大且堅強的忍者遭到殺害。培因最後發動神羅天征毀滅了木葉忍者村，完成仙術修行的鳴人從蝦蟆那裡知道木葉忍者村遭到襲擊的消息，趕著回去，並且單獨一人與培因戰鬥。
+進入仙人模式的鳴人發揮強大的實力接連打倒培因的幾名個體，但是仍然被培因之中的天道抓住。雛田為了救出鳴人反而被培因打成重傷，鳴人看到雛田被打倒而陷入爆走，出現六根尾巴的鳴人與培因戰鬥，培因發動地爆天星困住已經出現八根尾巴的鳴人。在內心世界感到痛苦的鳴人即將解開九尾的封印之時，與自己的父親第四代火影重逢，並且重新弄好封印。恢復原狀的鳴人最後以螺旋丸打倒培因，與遠距離操作培因的本體長門接觸。長門向仰慕師父自來也的鳴人述說自己的過去，並質問如何將和平帶入忍者世界，鳴人不放棄自來也的思想，認為自己來自自來也撰寫的小說主角的名字就是自來也的理想。為了回應鳴人的想法，長門以性命為代價發動輪迴天生，復活木葉忍者村所有犧牲者，因而力盡而亡。帶走長門以及作為天道的彌彥遺體的小南與繼承長門遺志的鳴人和解。
+
+
+==== 五影篇 ====
+漫畫：第48卷第451話－第52卷第490話／動畫：第417集－第441集
+當一度被毀滅的木葉忍者村走向復興之時，因為培因襲擊的時候耗盡查克拉而一直昏迷的「第五代火影」綱手被解除職位，由「根」的領導人志村段藏代理火影。
+雷影因為殺人蜂被擄走而感到憤怒，持續派遣雲之忍者搜索佐助一行人。此外，也對木葉忍者村對身為逃亡忍者的佐助的處理態度消極感到不滿意，而準備一份要求追捕佐助的公文，並為此召集五影召開五影會談，討論關於「曉」的問題。鳶因為八尾的捕獲行動失敗，再次接觸佐助並告知身為他的仇人的段藏正前往參加五影會談，也開始打算發動「月之眼計畫」。
+「五影會談」在中立國的鐵之國舉行，「曉」的的成員入侵會場，與五影以及鐵之國的武士戰鬥。鳶在會場上告知「月之眼計畫」的目的，之後宣布「第四次忍界大戰」將要開戰。忍者五大國組成以雷影為首的忍者聯軍，並決定保護鳴人與殺人蜂這兩位祭品之力。各國在五影會談結束之後都為了戰爭做準備。
+五影會談結束之後，佐助殺死了他的仇人之一的段藏。鳴人與佐助再次相遇，已經了解他的心情的鳴人期待著日後與佐助的戰鬥。鳴人得到大蝦蟆仙人的預言，將九尾的封印式放入體內，前往雲忍者村的孤島。同時間，兜前來找鳶，為了即將到來的第四次忍界大戰而要求聯手作戰。
+
+
+==== 忍界大戰篇 ====
+漫畫：第52卷第491話－第72卷第700話／動畫：第463集－第699集
+忍界大戰篇(1)（漫畫：第52卷第491話－第57卷第536話／動畫：第463集－第495集）
+在恢復的綱手的要求下，鳴人前往在一個雲忍者村附近的孤島（島龜）上。為了獲得新的力量，鳴人接受同樣身為祭品之力的殺人蜂指導下進行控制九尾查克拉的修練。那時，鳴人終於和母親九品見面，並得知16年前的真相。此外，儘管遭到了「曉」的鬼鮫襲擊，並且打倒他了，但是有關忍者聯軍的情報卻被洩露，以及大和也被擄走。同時，斑與兜接觸，並且達成協議。然後，小南在雨忍者村與斑戰鬥之後被殺死，斑得到長門的輪迴眼，並移植到了左眼。在那之後，為了戰爭的準備，兜的的「穢土轉生」復活的忍者們與10萬隻的白絕組成共同戰線。
+鳴人與佐助之間宿命的戰鬥即將到來。為了進行月之眼計畫的最後階段的「曉」開始行動，忍者五大國則是為了阻止月之眼計畫。最後，將所有因緣畫上休止符的第四次忍界大戰爭開戰。鳴人一行人的最後一戰開始了。「曉」與忍者聯軍之間的決戰終於開始了。兜發動的禁術「穢土轉生」復活的歷代強大的忍者們與忍者聯軍的各部隊在各地的戰場上激烈戰鬥。另一方面，沒有被告知戰鬥發生的鳴人繼續與殺人蜂一起訓練如何控制九尾查克拉，但是查覺到外面發生的戰鬥而從島上跑了出來。
+忍界大戰篇(2)（漫畫：第57卷第537話－第57卷第544話／動畫：第496集－第509集）
+斑操控外道魔像前來攻擊第一部隊所在的戰區，成功奪取了封印了金角與銀角兄弟的六道的忍具之後撤退，忍者聯軍8萬兵力的死傷大約是4萬人，「曉」10萬兵力的死傷也達到5萬人，而戰爭第一天也到了晚上。鳴人與殺人蜂試圖逃離島上的過程中，九尾逼問鳴人要如何解決忍者世界的仇恨連鎖，鳴人以堅決的態度回答九尾的問題。入夜之後，忍者聯軍接連發生可以完全複製查克拉的白絕偽裝的忍者刺殺以醫療忍者為主的成員，讓聯軍開始陷入混亂，聯軍高層也在尋找對付白絕的方案。就在當鳴人與殺人蜂要離開島上時，第五代火影綱手與第四代雷影艾親自前來阻止他們，最後鳴人與殺人蜂靠著自身的信念得到第四代雷影的認同而前往戰場。同時間，聯軍高層也得出以鳴人的能力找出白絕的方案，斑也帶著他以被穢土轉生的祭品之力製作的培因六道準備參戰。
+忍界大戰篇(3)（漫畫：第58卷第545話－第59卷第557話／動畫：第516集－第540集）
+戰爭來到了第二天，鳴人與殺人蜂來到了戰場，並與白絕以及穢土轉生的忍者戰鬥。聯軍的第四部隊也與被穢土轉生的歷代五影戰鬥，我愛羅成功封印身為第四代風影的父親羅砂，並且和解，其他三位五影卻從封印之中逃脫。第一方面，鳴人與殺人蜂碰上了被穢土轉生的鼬與長門而與之一戰，鼬靠著好友止水在生前託付給他的瞳術「別天神」而成功解除兜的控制，並和鳴人與殺人蜂合力將長門封印成功，鼬將弟弟佐助託付給鳴人之後獨自前往兜的所在之處去阻止穢土轉生，而鳴人與殺人蜂繼續前往戰場。
+第四部隊與歷代五影的戰鬥仍在持續，來到戰場的鳴人的影分身成功打敗第二代土影無，鳴人的影分身再趕去另一邊與第三代雷影艾戰鬥，另一方面，佐助殺死了白絕本體之後準備前往戰場。鳴人在一番苦戰中靠著靈機應變而打敗第三代雷影；而我愛羅與使出暴危蒸威的第二代水影鬼燈幻月的戰鬥中陷入了苦戰，最後靠著科學原理而打敗了第二代水影。
+忍界大戰篇(4)（漫畫：第59卷第558話－第63卷第607話／動畫：第541集－第568集）
+鳴人的影分身前往戰場各處，透過察覺混入盟軍的惡意發現並打敗白絕，並協助封印以穢土轉生復活的五大國知名忍者，忍者聯軍一下子佔了上風。然而，兜卻用穢土轉生召喚出他的王牌——宇智波斑本尊。復活的斑藉由壓倒性的忍術、體術、瞳術席捲忍者聯軍。在這場最大的危機中，聯軍將五影傳送到現場；五影委託鳴人解決面具男，斑則交給他們。之後，鳴人和奇拉比與面具男及穢土轉生復活的祭品之力們展開戰鬥；敵方非常強大，即使卡卡西和阿凱趕在途中聯手，仍漸漸落入下風。戰鬥過程中，鳴人進入四尾孫悟空的精神世界並和它對話；對話中，鳴人得知九尾的名字叫九喇嘛，並展現要認真對待尾獸的強烈意願。受鳴人鼓舞的九尾終於和鳴人達成第一次完美結合。接著，鳴人進入尾獸更深處的內心世界，並見到其它尾獸與祭品之力；尾獸們告訴鳴人它們的名字，並將人類和尾獸的未來託付給鳴人。接收到尾獸們的意志，鳴人完全控制了九尾查克拉，成功將尾獸從外道魔像中拉了出來。
+隨著戰況愈演愈烈，佐助終於移植了鼬的眼睛，開啟「永恆的萬花筒寫輪眼」。殺死看守自己的白絕本體後，佐助衝了出去，並在路上與穢土轉生的鼬重逢，接著兄弟二人聯手對上操控穢土轉生的兜。兜將大蛇丸和御手洗紅豆等不同忍者的細胞吸收進體內，獲得白蛇仙人模式的力量，既讓兄弟二人陷入苦戰，還能抵擋宇智波一族禁術“伊邪那岐”。後來鼬使出專剋“伊邪那岐”的禁術“伊邪那美”，讓兜陷入與他們無休止戰鬥的輪迴直到發自內心回心轉意，並尋找阻止穢土轉生的線索。最後，包括鼬在內的所有穢土轉生都被解除，被束縛的死者全部靈魂升天了。鼬在最後一刻用寫輪眼的幻術把事情原委與滅族真相向佐助展現，並在表達「不論你怎麼選擇，我都會永遠深愛著你」的愛意後升天了。
+在穢土轉生被解除的時候，斑因知曉施術與解術的方式，在升天前強行解除與施術者的契約而留在世上，並說這是穢土轉生最大的風險。擁有不死之身、無限查克拉與特別強化過的木遁等強大力量，五影被斑打敗而陷入瀕死。另一邊，鳴人、奇拉比、卡卡西和阿凱在幾番努力下成功摧毀面具男的面具；然而，當卡卡西看到他的真面目，他驚呆了。冒充斑的身分、身為曉幕後主使的面具男，竟是本應在第三次忍界大戰中死去的卡卡西最好的朋友帶土。當時瀕死的帶土被藏在地底深處的斑所救，經過辛苦的康復，本想返回木葉的帶土在白絕的通報下得知凜被捲入霧忍者村的陰謀，趕到現場的那一刻卻看到自己的心上人死於卡卡西的雷切。目睹這一幕的帶土對這個世界感到絕望，決定與斑合作展開“月之眼”計畫；帶土將在一切就緒時用輪迴天生將因衰老死去的斑復活，自己則繼續以斑的身份行動。卡卡西因摯友的轉變本將失去鬥志，後來決定與現在的帶土戰鬥，以保護繼承了帶土曾經意志的鳴人。
+忍界大戰篇(5)（漫畫：第64卷第608話－第66卷第637話／動畫：第582集－第597集）
+解決五影的斑為了找回尚未回收的八尾和九尾，來到帶土這裡並決定強行復活仍處於不完整狀態的十尾；然而，忍者聯軍各部隊也齊聚一堂，決戰就此打響。聯軍向斑等人使出強大的連續攻擊，十尾卻一發尾獸玉消滅忍者聯軍總部，再用大範圍攻擊殺死眾多忍者，其中包含捨身救下鳴人與日向雛田的日向寧次。鳴人無法承受同伴之死和帶土的話帶來雙重打擊，卻被雛田和九喇嘛罵了一頓，重新振作與聯軍同伴一起進攻。另一方面，經過與鼬的聯手，佐助想了解何謂忍者世界、忍者村和忍者。與水月和重吾重逢的佐助將大蛇丸從被兜俘虜的御手洗紅豆的咒印中復活，並說明他想了解木葉忍者村的過去。大蛇丸看到佐助的轉變如此之大後決定合作，並帶領大家前往木葉忍者村。藉由曾經的研究，大蛇丸將封印在死神腹中的初代到四代四位火影的靈魂用穢土轉生復活。初代火影千手柱間向佐助講述他與斑的相遇、木葉忍者村的誕生、斑離開村子到在終末之谷決戰的故事。聽完的佐助為保護鼬的生活方式，決定保護木葉忍者村，與大家和被木葉忍者村關押的香燐一同前往戰場。
+忍界大戰篇(6)（漫畫：第67卷第638話－第69卷第662話／動畫：第598集－第613集）
+戰況變得十分慘烈。時空間裡的卡卡西與帶土開啟決定性的決鬥。歷代火影與佐助接連抵達戰場，佐助還宣布他要成為火影，以自己的方式改變木葉和忍者的世界。佐助的變化讓小櫻和其他人一頭霧水，鳴人卻淡淡接受這樣的佐助；過了約三年，第七班第一次復活了。卡卡西贏了與帶土在時空間的對決，帶土說：“這場戰鬥你可以贏，但戰爭的勝利我不會拱手相讓。”就丟下卡卡西回到戰場。斑看到重傷瀕死拋棄帶土，試圖控制他施展輪迴天生完全復活自己，卻遭到帶土反抗而讓帶土成為十尾祭品之力。後來，鳴人、佐助與忍者聯軍聯合將所有尾獸拉出帶土身體，將其擊敗。
+忍界大戰篇(7)（漫畫：第69卷第663話－第70卷第677話／動畫：第634集－第651集）
+之後斑透過黑絕控制帶土的輪迴眼將自己徹底復活並與尾獸交戰；得到白絕找到並帶來的右眼輪回眼後，他召喚出外道魔像，利用輪迴眼的輪墓邊獄將尾獸吸入外道魔像中，鳴人因九喇嘛被抽出身體而瀕死。此外，上前攻擊斑的佐助也被他一刀捅穿心臟而不省人事；斑接著成為十尾祭品之力與卡卡西和阿凱交戰，被啟動八門遁甲第八門死門的阿凱逼到絕境卻未能殺死。鳴人從改邪歸正的帶土那獲得每種尾獸的查克拉，因此見到六道仙人並獲得六道陽遁與六道仙術，復活後救下阿凱阻止了開死門必死的結局；被脫離伊邪那美無限循環的兜治好的佐助，獲得左眼輪回眼和六道仙人的六道陰遁查克拉。斑拒絕和復活的兩人簡短交手後就飛離現場，奪去卡卡西的左眼進入時空間，再從帶土那奪回左眼輪迴眼；集齊雙眼後，斑啟動了無限月讀。
+忍界大戰篇：最終章（漫畫：第70卷第678話－第72卷第700話／動畫：第679集－第699集）
+緊接著，黑絕刺穿斑的胸膛，作為復活大筒木輝夜的催化劑。所有人陷入無限月讀的幻術，只有第七班與帶土借助佐助的須佐能乎逃過一劫。在艱難的戰鬥與帶土的犧牲後，鳴人與佐助成功封印大筒木輝夜和黑絕。一切似乎結束時，佐助突然說要處決現任五影並殺死所有尾獸，想斬斷世間仇恨的因果由自己當共同敵人，以維持所有人繼續團結的動機。鳴人奮力阻止佐助的“忍界革命”，與他在終末山谷最終決戰。決戰結束，兩人耗盡所有力量與查克拉並各斷一條手臂，但對立的關係終於和解，聯手結印釋放無限月讀，結束曠日持久的第四次忍界大戰。一段時日後，克服戰爭與災難並取得長足進步的木葉忍者村裡，出現忍界大戰中倖存忍者的後代，其中包含博人，他正被身為第七代火影的父親鳴人斥責。
+
+
+== 登場角色 ==
+
+在創作《火影忍者》時，岸本齊史以其他日本漫畫為創作靈感，故事以日本文化作為基礎，也力求讓故事中的角色與眾不同。 將角色分成不同的團隊是為了給每個小組一個獨特的定位。岸本希望每個角色各自有自己擅長與不擅長的能力。岸本發現自己不擅長描寫戀愛劇情，但是在漫畫的第二部（從第28卷開始）則更加強調了戀愛劇情。岸本在故事中創造了不少個性與經歷都很有特色的敵方角色，目的是讓敵方角色作為我方角色道德觀念的對立面，並清楚地說明他們之間的差異。由於主角一方在實力上弱於敵方角色，因此，岸本在第一部與第二部之間隔了2年半，讓我方角色在這段期間變得更強。
+
+
+== 用字 ==
+
+
+=== 忍者的能力 ===
+查克拉（チャクラ）
+
+作為術的基礎的能量，也被認為是產生一切萬物的精神。由來自構成人體的眾多細胞中提取的「身體能量」與靠著修行的經驗累積的「精神能量」這兩者所構成，混合這兩者的能量（所謂的「提煉查克拉」），依照術者的意思結「印」之後發動「術」。術的威力會因為查克拉的混合比例而有所變化，為了讓術成功發動而提煉適量查克拉的控制技術是不可或缺的。學會控制査克拉之後就可以在不使用手的情況下在水面行走或爬上垂直的牆壁。如果過度消耗查克拉則有死亡的風險。
+在故事終局時，査克拉的概念開始呈現靈魂與精神共鳴的特徵。 在神話時代推廣「忍宗」的大筒木羽衣將查克拉稱為「連接每個人的力量」，而宇智波帶人則表現出為「連接兩個世界的力量」。
+經絡系統（経絡系（けいらくけい））
+在遍布著全身的查克拉的管道中有著名為「點穴」的無數個經穴存在，掌管術的增強或削弱的程度。通常經絡系統無法靠視覺辨認，不過三大瞳術之一的「白眼」具備透視能力，強大的瞳力能看見包含點穴的整個經絡系統。在經絡系統上有著名為「八門」的八個查克拉穴密集的地方，打開之後能引出自身的潛在能力，提高身體能力。八門全開的状態下被稱為「八門盾甲之陣」，能一時得到超越五影的力量，之後打開的人就會死亡。
+修練（業（わざ））
+有精準控制從腳底放出的查克拉在水面上步行的修練法，為了鍛鍊肉體而只用一隻手進行攀登懸崖的修練法等各式各樣為了不同目的修練法。
+術（術（じゅつ））
+
+忍者所使用的技術，基本上分成忍術、體術、幻術這三種。除了大部份的體術之外，使用術會消耗人體的查克拉。在什麼時機使用什麼樣的術，主要取決於忍者個人的能力與執行任務時的條件。
+仙術（仙術（せんじゅつ））
+除了「身體能量」與「精神能量」之外再從外界吸收的「自然能量」而成的一種被稱為「仙術查克拉」的查克拉能極大幅度強化能力。使用仙術查克拉，能讓術的威力能提高到更強的境界，仙術是利用仙術查克拉所使出的術。
+血繼限界（血継限界（けっけいげんかい））
+
+透過遺傳進行傳承的特殊能力。
+
+
+=== 忍者的分類 ===
+
+忍者按照實力的不同有相應的級別。分为忍者学校，下忍，中忍，上忍和影（就是一个忍者村的首领）。希望成為忍者的一般人會先進入忍者學校就讀，在畢業之後成為忍者村正式的一下忍，之后可以通过中忍考试来升级，雖然低級別的忍者並非一定比高級別的忍者實力弱，但不同的級別基本可以代表實力的大體水準。除了級別，忍者還可以按職責或從事的工作分類。
+
+
+=== 地理 ===
+
+在火影忍者的世界中，大部份的國家由大名所統治。其中少數國家中設立忍者村，忍者村透過接受委託之後派遣忍者執行任務以便維持國家的發展，也可以派遣忍者在其他國家執行任務並獲得報酬。忍者村的忍者同時也是國家的軍事力量，忍者村的首領與國家的元首處於同一地位。火之國、風之國、水之國、土之國、雷之國被稱為「忍者五大國」，這五個國家是世界上最強大的五個國家。忍者村通常由最有名望的忍者治理，只有忍者五大國的忍者村首領才能被冠上「影」的名號，分別為「火影」、「風影」、「水影」、「土影」、「雷影」，這五個影統稱為五影。
+
+
+=== 道具 ===
+苦無（クナイ）、手裏劍（手裏剣（しゅりけん））、煙霧彈（煙玉（けむりだま））、閃光彈（光玉（こうだま））
+用法與現實的忍具相同。
+弓矢（弓矢（ゆみや））
+音忍者村的鬼童丸等一部分的忍者所使用。大部分為忍者以外的勢力所使用的武器，例如劇場版登場的鬼之國的保鑣，達茲納等波之國的國民（使用弩），此外很少被用作忍具。
+兵糧丸（兵糧丸（ひょうろうがん））
+一種據說可以讓士兵在三天三夜的時間內不休息地戰鬥的秘藥。具有吸收良好的高蛋白成分，具有一定的興奮作用與鎮靜作用。服用後具有恢復並增幅查克拉的效果。
+増血丸（ぞうけつがん）
+兜所使用的補血藥丸。
+三色藥丸（三色の丸薬（さんしょくのがんくすり））
+秋道一族秘藥中的秘藥。含有超大能量的綠色、黃色、紅色的三種藥丸，服用後能得到爆發性的力量。
+菠菜丸（ホウレン丸（ホウレンがん））
+綠色的藥丸，副作用為全身疼痛。
+咖哩丸（カレー丸（カレーがん））
+黄色的藥丸，副作用為一移動身體會產生劇烈的疼痛。
+辣椒丸（トンガラシ丸（トンガラシがん））
+紅色的藥丸，副作用為死亡。
+護額（額当て（ひたいあて））
+忍者服裝（忍装束（しのびしょうぞく））
+引爆符（起爆札（きばくふだ））
+寫著經過一段時間後隨著冒煙而爆炸的術式的符咒。能貼在苦無之後投向目標物，也能作為對付敵人的陷阱。在動畫版中說明30年前的引爆符與現在的引爆符所寫著的術式並不同。「第二代火影」扉間利用其開發的穢土轉生作為戰術，設計出引爆符爆炸之後召喚的引爆符爆炸再召喚引爆符而形成連續爆破的「互乘引爆符」。
+卷軸（巻物（まきもの））
+除了作為一般書籍之外，還有準備施術用的忍術術式，召喚武器以及封印術的媒介等使用方式，也被使用在通靈之術的契約。不同卷軸的大小差異很大。
+千本（千本（せんぼん））
+細針形狀的忍具。雖然殺傷力很低，但是如果精確地射擊經絡系統就能切斷查克拉的供給，並可能進入假死狀態。也能當作針灸使用在醫療行為。霧忍者村的追殺忍者部隊可以暫時將人體處於假死狀態。
+刀（刀（かたな））
+在忍者村制度誕生之前的戰亂時代就被普遍用作武器。並不是所有的忍者都會使用。
+草薙劍（草薙の剣（くさなぎのつるぎ））
+在本作中一種刀劍的種類。大蛇丸擁有的劍在外表看起來只是一把日本刀，卻持有足以防禦猿猴王·猿魔的金剛如意的攻擊的耐久度。後來佐助使用另一把劍，刀鞘的外表不同且刀身是直刀。此外，鼬擁有的是一種沒有實體的刀「靈劍・十拳劍」，在第二部與佐助的戰鬥中，成功封印奪取佐助的身體主導權的大蛇丸。
+忍刀七人眾的刀
+特殊的7把刀。每把刀都是在前後任的忍刀七人眾之間世代相傳，由於不少七人眾叛逃出霧忍者村，因此在第二部時只剩下長十郎的比目蝶魚。在第四次忍界大戰時期全部出現，戰後回到霧忍者村。當沒有使用者時會被保管。
+斷刀「斬首大刀」（断刀・首切り包丁（だんとう・くびきりぼうちょう））
+桃地再不斬持有的斷刀。可以吸收血液中的鐵，即使刀身受損，也可以透過斬人之後吸收血液來修復。全長為250公分，重量為30公斤的大刀，要使用它並不容易，水月說過要經過特殊的訓練才有辦法。
+再不斬死後被放置在其墳墓上，之後水月盜取並繼承。五影會談時被「第四代雷影」艾打斷後下落不明，再不斬被穢土轉生後回到其手上，後來被打倒再不斬的卡卡西拿到。
+大刀「鮫肌」（大刀・鮫肌（だいとう・さめはだ））
+干柿鬼鮫持有的大刀。刀本身擁有意志，擁有削去並啃食他人查克拉的習性。能與使用者融合並強化肉體，也可以吸收由鮫肌啃食的查克拉來恢復傷勢。在《慕留人-火影忍者新世代-》中，如果被不成熟的使用者拿到會導致暴走而無視使用者的意願與其強制融合，是一把很難操縱的刀。
+鬼鮫在殺害前任的西瓜山河豚鬼後繼承這把刀。與殺人蜂戰鬥時被他的查克拉所吸引，在鬼鮫死後歸殺人蜂所持有。
+雙刀「比目蝶魚」（双刀・ヒラメカレイ（そうとう・ひらめかれい））
+長十郎持有的雙刀。透過將查克拉儲存在刀身中並展開後可以改變刀身成槌状或刀身延長的形狀。
+在《慕留人-火影忍者新世代-》中，身為水影的長十郎選擇神樂為他的繼承者，現在由神樂擁有。
+雷刀「牙」（雷刀・牙（らいとう・きば））
+一對成雙的刀。使用者為林檎雨由利與黒鋤雷牙。透過吸收雷電來提高攻擊力。雷牙把刀作為避雷針使用，將電流導入地面後放出雷擊攻擊敵人。
+在動畫的原創劇情中，被穢土轉生的林檎雨由利在戰鬥中敗給重並沉入沼澤之前將雷刀「牙」推付給他，歸重所持有。
+鈍刀「兜割」（鈍刀・兜割（どんとう・かぶとわり））
+像斧頭的刀與連接到底部的大槌子的組合。使用者為通草野餌人。第一擊用刀而第二擊用槌子敲打刀鋒來擊碎任何防禦。
+長刀「縫針」（長刀・縫い針（ちょうとう・ぬいばり））
+縫線通過刺繍針之後會巨大化。使用者為栗霰串丸。將所有被刺到的物體全部縫合在一起。
+爆刀「飛沫」（爆刀・飛沫（ばくとう・しぶき））
+一把貼有大量的引爆符的像是巨大卷軸的刀。使用者為無梨甚八。透過引爆符爆炸後的力量來增加刀本身的攻擊力。
+傀儡人偶（傀儡人形（くぐつにんぎょう））
+使用「傀儡之術」從指尖放出查克拉線進行操控的人偶，內藏著刀劍以及毒針等忍具，如果是熟練的忍者則可以一次操控複數的傀儡。製作傀儡人偶的人被稱為造形師，使用傀儡之術操控傀儡人偶的人則被稱為操演者。在砂忍者村有比較多的忍者使用，還有專門使用傀儡的「傀儡部隊」的存在。砂忍者村在研究與開發傀儡這方面已經有20年以上的歷史，從外表與人類相同的傀儡到各種不同形狀的傀儡（例如勘九郎使用的傀儡）都有。「曉」的蠍還可以製作與使用將人殺死後加工其遺體製成的「人傀儡」。傀儡可以像真正的人類一樣精確地行動，內部具有像是讓查克拉通過的線路以及零件等復雜的構造，因此根據技術的不同也可以將人體移植一部分的傀儡。實際上，蠍將自己大部分的身體變成傀儡，而千代也將自己的右手變成傀儡。蠍過去有為在任務中受傷的朋友的手臂上移植傀儡的手部。
+烏鴉（烏（カラス））
+勘九郎使用的攻撃特化的傀儡人偶。除了內藏著大量的武器（例如毒針與毒煙彈）之外，這些武器還被裝載到身體的每個部位之中，所以即使身體散開也可以繼續進行攻擊。原本是20年前蠍在砂忍者村所製作的傀儡人偶。
+黑螞蟻（黒蟻（クロアリ））
+勘九郎使用的捕獲特化的傀儡人偶。手臂上有藏著刀刃，四肢的部位與烏鴉的構造相同，腹部有個可以捕獲敵人的空間，之後再使用烏鴉發動攻擊。已經作為量產品製造，在第4次忍界大戰中，勘九郎使用了2隻黑螞蟻。原本是20年前蠍在砂忍者村所製作的傀儡人偶。
+山椒魚（山椒魚（サンショウウオ））
+勘九郎使用的防禦特化的傀儡人偶，有著模仿四足動物的外形，身體大小與前面2種傀儡不同。在動畫版與蠍的戰鬥中有從瓦礫中保護勘九郎的描寫，具有承受瓦礫的衝撃的防禦力，有著關節部位和其他傀儡一樣脆弱的弱點。原本是20年前蠍在砂忍者村所製作的傀儡人偶。
+蠍（蠍（サソリ））
+曉的「蠍」將自己的身體傀儡化的人傀儡。雙肩裝載螺旋槳狀的翅膀藉此飛行與攻擊，腹部有一根浸透毒藥且前端尖銳的鋼索。蠍死後被勘九郎回收並在五影會談的戰鬥中使用。另外，蝎的肉體部位所在的胸孔沒有被開啟。
+水蛭子（ヒルコ）
+蠍使用的人傀儡。原本是砂忍者村以外的忍者，被蠍改造成人傀儡。與一般的傀儡人偶不同，是一種能作為守護施術者的鎧甲與攻擊的武器的攻防一體的傀儡，而蠍就在裡面操控。20年前與現在的外表有部分的差異，現在有著堅硬的外殼以及長尾巴的機關為最大特徵，左手肘有著內藏毒針的筒狀機關。另外，尾巴的尖端裝滿了蠍獨自調合的毒藥。
+第三代風影（三代目風影（さんだいめかぜかげ））
+蠍暗殺第三代風影後將其遺體製成人傀儡。寄宿著本人生前的查克拉，能使用第三代風影的血繼限界「磁遁」。
+父與母（父と母（ちちとはは））
+蠍年幼時最初製作的傀儡，因思念殉職而未歸來的雙親，以兩人的合照為範本所造出。蠍離開村子時沒有帶走，由千代改造並加裝手臂的查克拉盾。在蠍與千代死後被勘九郎回收。
+十機近松之集（十機近松の集（じっきちかまつのしゅう））
+初代的操演者文左衛門的十傑作，千代所擁有的10隻傀儡。
+鎖分銅（鎖分銅（くさりふんどう））
+天天使用的武器。兩端帶有重錘的長鐵鏈，外觀類似雙節棍。在本作中可以像手裏劍投擲使用（威力足以打掉「詛咒武士」的頭部）。
+引爆黏土（起爆粘土（きばくねんど））
+混入查克拉而帶有爆炸性的黏土。「曉」的地達羅用自己的手掌的口腔將其咀嚼之後混合自己的查克拉藉此製作不同種類的黏土。等級分為C1、C2、C3、C4、C0，威力根據混合自己的查克拉的量來增加。由於這些炸彈屬於土遁，因此弱點是會被雷遁無效化。
+C1
+有移動用的鳥型、隱密附著於敵人身上後藉由施術者發出的訊號引爆的蜘蛛型、在飛行到目的地降落時自動爆炸的誘導類型的雀型與燕型、綑綁住敵人後藉由施術者發出的訊號引爆的百足型・蛇型登場。
+C2
+以龍型登場。從口腔中發射炸彈，炸彈的威力取決於尾巴的長度。
+C3
+以巨大的人形登場。爆炸時會產生巨大的火球，威力足以摧毀一座村子。
+C4
+以巨大地達羅的模樣的人形登場。通稱「迦樓羅」。當膨脹並破裂時周圍會散佈奈米炸彈，如果生物少量吸收就會入侵細胞，在人體內從細胞等級開始爆炸並將生物化為粉塵，鳶將其稱為「超小型奈米炸彈」。但是在地達羅對佐助時卻因為佐助讓雷遁的電流在自己的身體流動而無效。
+C0
+在自己的心臟部位的口腔咀嚼大量黏土，最後將心臟的細胞吸收之後自爆，威力足以摧毀方圓10公里之內的一切。 爆炸中所發出的光是太陽之塔的形象。
+四天象人的忍具
+孔雀飛翔昇劍（孔雀飛翔昇剣（くじゃくひしょうしょうけん））
+龍眼牙離暗刀（竜眼ガリアン刀（りゅうがんガリアンとう）））
+無限鋼鎧（無限鋼鎧（むげんこうがい）
+硫黄的作品
+蛇行（蛇行（だこう））
+鶴龜（鶴亀（つるかめ））
+地團駄（地団駄（じだんだ））
+六道仙人的寶具
+在史書中紀載的忍具。過去雲忍者村收集了全部的忍具，除了琥珀淨瓶之外，其他皆為由金角與銀角兄弟擁有。其特殊的力量需要耗費非常大的查克拉，如果沒有像金角與銀角一樣的查克拉，則會被一直吸收查克拉到死為止。第四次忍界大戰結束後全部回收，最終話中為天天擁有。
+幌金繩（幌金縄（こうきんじょう））
+用繩子束縛人的言靈的繩子。被接觸的對象說出人生中最常說的口頭禪後其言靈會被束縛。
+七星劍（七星剣（しちせいけん））
+一把能斬斷言靈的劍。封印在金角的體內。將幌金繩束縛的言靈斬斷後，劍的表面會浮現出其文字。這時候，施術對象處於言靈被咒印術與封印術作為人質的狀態。
+紅葫蘆（紅葫蘆（べにひさご））
+將言靈錄音，把人吸進去封印的葫蘆。七星劍斬斷施術對象的言靈並吸進去後錄音，之後施術對象說出該詞語將會被封印。如果施術對象在一段時間後仍然保持沉默則會強制封印。
+芭蕉扇（芭蕉扇（ばしょうせん））
+自由使出火、水、雷、土、風這5種性質變化的扇子。
+琥珀淨瓶（琥珀の浄瓶（こはくのじょうへい））
+只需要施術對象出聲回應持有者，就可以封印對方的瓶子。是雲忍者村唯一沒有被金角與銀角奪走的忍具，專門被用來封印八尾。
+
+
+=== 其他 ===
+尾獸（尾獣（びじゅう））
+
+六道仙人在臨終之前透過陰陽遁將十尾的查克拉分成9份而誕生的9隻魔獸。
+曉（暁（あかつき））
+
+由10名S級逃亡忍者組成的傭兵組織，由彌彥、長門和小南創立。彌彥死後，由長門繼任首領，宇智波帶人為幕後黑手。「曉」的目的是利用九隻尾獸的力量來征服世界，長門認為透過給予他人痛苦並且得知戰爭的愚蠢就能實現真正的和平。帶人的真正目的是實現宇智波斑的「月之眼計劃」，將九隻尾獸封印到「外道魔像」並使十尾復活之後將「輪迴寫輪眼」投射到月球表面，藉此發動「無限月讀」讓全世界的生物陷入沒有紛爭的幻術世界之中來達到世界和平。「曉」的成員都是犯下嚴重罪行之後背叛自己村子，並且被各國通緝的S級逃亡忍者，是忍者世界最強大的犯罪組織。一般而言，「曉」總共有十位成員，基本上以兩人一組來行動；在大蛇丸離開之後剩下九位成員。
+武士（侍（さむらい））
+守護鐵之國的軍人。全身用盔甲整個覆蓋，以將查克拉注入到刀劍中進行白刃戰為主。
+忍界大戰（忍界大戰（にんかいたいせん））
+以忍者參戰為主的世界大戰。
+第一次忍界大戰（第一次忍界大戦（だいいちじにんかいたいせん））
+忍者五大國的建立而導致戰爭的發生。最後初代火影向各國分發了尾獸以平衡其軍事力量。
+第二次忍界大戰（第二次忍界大戦（だいにじにんかいたいせん））
+發生於第一次忍界大戰結束後20年。戰爭初期，雲忍者村發生政變導致第二代雷影身亡，簽訂和平條約而前來訪問的第二代火影也因此戰死。
+第三次忍界大戰（第三次忍界大戦（だいさんじにんかいたいせん））
+大約發生在第一部的13年前。 開戰原因為忍者五大國的統治基礎動搖，各國國境經常發生將小國以及忍者村捲入的小規模衝突。尤其木葉忍者村與岩忍者村之間的戰爭特別激烈，此時為卡卡西外傳中的「神無毘橋之戰」發生的時期。在「神無毘橋之戰」的數年前的戰爭中出現「木葉的三忍」（傳説的三忍），在這場戰爭中，綱手的戀人斷戰死；自來也與彌彥一行人相遇並指導他們修練。
+第四次忍界大戰（第四次忍界大戦（だいしじにんにんかいたいせん））
+在第二部，忍者五大國與鐵之國組成的忍者聯軍一方和率領著「曉」的一名自稱宇智波斑的戴面具的男子（宇智波帶土）與藥師兜一方之間發生的戰爭，戴面具的男子闖入為了對付「曉」而在鐵之國召開的五影會談並要求交出八尾與九尾的祭品之力，遭到拒絕後宣布開戰。
+開戰第一天，兜召喚的穢土轉生的忍者以及增值的白絕與忍者聯軍各部隊在各地發生戰鬥。聯軍努力與強大的敵方忍者作戰，第一天以雙方彼此損失了一半的兵力結束。晚上發生白絕變身成聯軍的忍者發動的擾亂作戰，聯軍因此陷入混亂狀態，根據醫療部隊關於白絕變身的詳細報告而決定讓唯一可能感知到白絕的鳴人出動。
+第二天，聯軍因為鳴人的影分身投入各戰線而站穩優勢，卻因為真正的宇智波斑被穢土轉生而讓戰局逆轉，出現在鳴人面前的戴面具的男子讓十尾復活，聯軍陷入了大危機。
+同一時間，脫離穢土轉生支配而單獨行動的鼬找到了兜。與途中相遇的弟弟佐助一起戰鬥，穢土轉生解除成功讓各戰線的穢土轉生死者回歸極樂世界。但是只有斑透過解除通靈契約從而避免穢土轉生解除後與戴面具的男子也就是宇智波帶人會合。聯軍到達後戰線全聚集在一處。
+第二天晚上的戰鬥更加激烈，十尾的力量讓聯軍的戰死人數不斷增加，聯軍總部更遭到尾獸玉的直撃而毀滅。由第4部隊長代行的奈良鹿丸繼續指揮聯軍，由大蛇丸召喚的穢土轉生出來的4名歷代火影與佐助率領小隊「鷹」和聯軍會合。在無限月讀的成功與否的關鍵激戰之中，最終藉由輪迴天生復活的斑成為十尾的祭品之力後成功發動無限月讀，聯軍陷入了幻術而失去戰鬥能力。
+但是之後斑被其部下黑絕背叛導致大筒木輝夜復活而讓事態急轉直下。在異空間的最後戰鬥，被授予六道之力的鳴人與佐助成功封印輝夜，失去尾獸的斑死亡。穢土轉生的歷代火影被六道仙人也就是大筒木羽衣解除而回歸極樂世界。
+最後鳴人與左助的戰鬥結束後兩人解除了無限月讀讓大戰結束了。之後佐助因為在大戰的功績受到認可而解除國際通緝令。
+忍者聯軍（忍連合軍（しのびれんごうぐん））
+第四次忍界大戰時期，由五大國所屬的忍者村與鐵之國的武士組成的聯軍。總兵力大約8萬。總部設置於雲忍者村。部隊参加者穿著自己村子的忍者服裝，全員戴著新製作的刻有「忍」字的護額。
+總大將 - 「第四代雷影」艾
+戰鬥大連隊隊長 - 「第五代風影」我愛羅
+第1部隊隊長 - 懶
+第2部隊隊長 - 黄土
+第3部隊隊長 - 旗木卡卡西
+第4部隊隊長 - 我愛羅（部隊長代理 - 奈良鹿丸）
+第5部隊隊長 - 三船
+先發偵察隊隊長 - 御手洗紅豆
+奇襲部隊隊長 - 勘九郎
+後方支援医療部隊隊長 - 靜音
+情報部隊隊長 - 山中亥一
+感知部隊隊長 - 青
+
+
+== 出版書籍 ==
+
+
+=== 單行本 ===
+由於本作大部分的角色姓名沒有漢字對應，所以兩岸三地的譯法有所差異，臺灣譯法以片假名轉換成相對應的漢字為主，香港譯法以意譯為主。
+
+日本
+由集英社出版。
+臺灣
+由東立出版社出版，中文譯為《火影忍者》。譯者為方郁仁。
+香港
+港澳地區由正文社出版，譯名《狐忍》源於主角身份。譯者為嚴思敏。
+部份譯名有別於中國大陸與臺灣版。動畫版方面，銷售版的光碟配音均以漫畫版譯名為準，而《火影忍者疾風傳》銷售版光碟則採臺灣版本翻譯中文字幕。但在香港動漫社區，多採用《火影忍者》這個名稱。
+中国大陆
+由连环画出版社出版，北京中少动漫製作發行，譯者為梁晓岩，沿用中文地區最通行的《火影忍者》譯名。从第51卷開始，封面的出版社標誌改為“中国美术出版总社连环画出版社”。
+2013年1月17日，腾讯动漫與集英社達成協議，獲得電子書版發行權。
+2014年7月10日，中国移动和动漫獲得集英社授權，開始發行《火影忍者》全彩版漫畫，是集英社第一次在中國大陸釋出全彩漫畫版權。
+2024年11月22日，电子工业出版社宣布取得漫画版授权，并由次元书馆负责制作，预订于2025年出版新版。
+
+
+=== 公式集 ===
+
+
+=== 畫集 ===
+
+
+=== 名言集 ===
+
+
+== 跨媒體製作 ==
+
+
+=== 漫畫 ===
+
+
+=== 動畫 ===
+
+
+===== 火影忍者 =====
+
+由伊達勇登導演、Studio Pierrot和東京電視台製作的火影忍者動畫於2002年10月3日在日本首播，並在播出220集後於2007年2月8日完結。其中135集改編自漫畫第一部分；剩下85集為動畫原創劇情。當漫畫改編成動畫系列時，西尾鐵也也是火影忍者的角色設計師；岸本齊史曾要求西尾鐵也擔任這個職位。從 2009 年4月29日開始，最初的火影忍者動畫開始在週三和週四重播（直到2009年9月的第四週改為僅週三）。該系列的劇集已在VHS和DVD上發行，並收集盒裝形式。
+VIZ Media授權動畫系列在區域1市場播放和發行。該動畫的英文配音於2005年9月10日開始播出，並於2009年1月31日結束，共有209集在美國Cartoon Network的Toonami播出。這些劇集還在讀賣電視台的 Bionix（加拿大）、Jetix（英國）和SABC 2（南非）的節目上播出，並於 2006 年 3 月 28 日以 DVD 形式發行。2017年8月25日，Starz宣布他們將從 2017年9月1日開始為其隨選視訊服務提供該系列劇集。未刪減版以DVD套裝形式發行，每套包含12-15集，並根據故事情節有些微調整。在美國播出中，有時會對酒精、日本文化、性暗示以及血腥和死亡橋段進行審查，但仍保留在DVD版本中。被審查的場景之一是鳴人和佐助的意外接吻，符合刪除暗示同性戀關係內容的長期趨勢。其它頻道剪掉了更多內容，例如Jetix刪除了帶有血腥、不雅語言和吸煙的場景。該系列還授權給 Hulu、Joost和Crunchyroll的許可，讓它們在網路上播出，並附有原始日文配音及英文字幕。2017年6月1日，宣布原版火影忍者電視動畫系列的HD重製版將於6月24日在日本電視上首播，從該劇的第一集開始。2023年四月火影忍者官方宣布将制作火影忍者动画20周年纪念作品原定于2023年9月3日播出之后在2023年8月29日宣布延期。
+
+
+===== 火影忍者疾風傳 =====
+
+《火影忍者疾風傳》由Studio Pierrot開發，伊達勇登導演，是原《火影忍者》動畫的續集，對應漫畫的第二部分。於2007年2月15日在東京電視台首播，並於2017年3月23日結束。2009 年1月8日，東京電視台開始通過串流媒體向每月訂閱者播放新劇集；每集在日語版本發行後的一小時內都可以在線上觀看，並提供英文字幕。
+VIZ Media於2009年1月2日開始在其系列網站上播放英文字幕劇集，包括已發行的劇集及來自日本的新劇集。在美國，《火影忍者疾風傳》的英文配音從2009年10月28日起每週在迪士尼XD上播出，直到2011年11月5日第98集。第99至338集在網路電視Neon Alley上首播，直到2016年5月4日關閉。該動畫從2014年1月5日起在Adult Swim的Toonami開始每週播出。
+該系列在日本以區域2DVD發行，每片光碟有四到五集；DVD發行四個系列，並按故事情節劃分。第七部《火影忍者疾風傳》合輯 DVD 中包含了OVA《疾風！木葉學園傳》。《卡卡西外傳～戰場上的少年時代～》於2009年12月16日發布，故事圍繞著旗木卡卡西的童年展開。
+該系列的第一張北美DVD於2009年9月29日發行。從2010年1月26日的第一季開始，後續劇集作為DVD盒裝的一部分發行。在英國，該系列由Manga Entertainment授權，於2010年6月14日發行了第一部DVD。
+
+
+==== 原創動畫錄影帶 ====
+
+
+==== 動畫電影 ====
+本作已改編為11部電影；前三部對應動畫第一部《火影忍者》，後八部對應動畫第二部《火影忍者疾風傳》。
+
+
+=== 音樂 ===
+增田俊郎負責火影忍者原聲帶的編曲。火影忍者原聲帶於2003年4月3日發行，包含動畫第一部使用的22首曲目。緊隨其後的是2004年3月18日發行的《火影忍者原聲帶 II》，包括19首曲目。《火影忍者原聲帶 III》於2005年4月27日發行，共23首曲目。涵蓋系列所有片頭片尾主題曲的兩部原聲帶，名為《火影忍者：精選集》和《火影忍者：精選集 II》，分別於2004年11月17日和2006年8月2日發行。該系列的八首曲目被收錄進《搖滾火影 - 最佳配樂合輯樂器版》，於2007年12月19日發行。基於第一部劇情的三部改編電影，原聲帶都在臨近上映時發售。收錄《火影忍者少年篇》主題曲的CD於2011年10月12日發行。
+火影忍者疾風傳的原聲帶由高梨康治製作； 它們被命名為《火影忍者疾風傳原聲帶 I》、《II》和《III》，分別於2007、2009和2016年發行。《火影忍者全明星》於2008年發行，包含10首原創歌曲，由該系列角色的聲優演唱。2008年發行DVD裝的《鳴人超級合輯 2006–2008》，中收集了兩部動漫的十個主題曲。火影忍者疾風傳的電影原聲帶亦於2007年發行第一部。該系列的最後一部原聲帶預計於 2017年末發行，由Aniplex針對收錄曲目進行民調。
+
+
+=== 小說 ===
+目前26部《火影忍者》輕小說，前九本由日下部匡俊創作，已在日本出版。其中，前兩本已在北美州以英語發行。第一本改編小說《火影忍者：白之童子、血風之鬼人》，是由原作故事初期的波之國篇改編而成，於2002年12月16日在日本出版。第二本小說《火影忍者 隱蔽瀑布處的戰鬥-我是英雄》是由同名OVA所改編而成，2003年12月15日在日本出版。北美洲的Viz Media亦有另外出版由崔西·韋斯特寫作，題為Chapter Books的小說，並附有從漫畫擇錄出來的插圖，這些小說的目標讀者並非《火影忍者》其他系列的青少年而是7-10歲的小孩，系列中首兩本小說於2008年10月7日起發售，截至2014年7月已出版了16本。
+在日本出版十三本小說，而對應同名劇場版動畫的小說從2004年8月23日發行的《火影忍者劇場版：大活劇！雪姬忍法帖！！》開始，到目前最新的《火影忍者劇場版：慕留人》一共推出了11本；另外兩本是與該系列無關的獨立小說。第一部獨立小說《火影忍者：超骨氣忍傳》是來自《火影忍者》登場的角色自來也創作的小說。故事講述了一個與《火影忍者》的主角鳴人的同名人物的虛構忍者的冒險經歷。另一部獨立小說《火影忍者：迅雷傳 狼嚎之日》的故事背景是佐助與鼬的戰鬥後不久。
+另外在漫畫原作完結後，自2015年2月起，集英社也發行了一系列故事時間軸位於原作第699話到第700話中間十餘年間的補充劇情之秘傳/真傳小說。佐助真傳與由兩部小說組成的鼬真傳均於2015年出版，並於2016年改編成動畫《火影忍者 疾風傳》的劇情。秘傳是2015年出版的6部輕小說系列，描述了原作完結後各個角色的故事。
+
+
+=== 外傳 ===
+
+
+=== 遊戲 ===
+
+
+==== 電子遊戲 ====
+火影忍者電子遊戲已在任天堂、索尼和微軟等各家遊戲平台上發行。大多為格鬥遊戲，由玩家控制一名火影忍者角色。玩家將與遊戲AI或其他玩家控制的角色進行對抗；目標是藉由基本攻擊及源自角色在火影忍者原作裡的特殊技能將對手擊倒。第一款火影忍者電子遊戲為《火影忍者：木葉忍法帖》，於2003年3月27日在日本發行，使用WonderSwan Color作為遊戲平台。大多數火影忍者電子遊戲僅在日本發行。首先發行海外的遊戲是《火影忍者：激鬥忍者大戰！》系列和《火影忍者：忍術全開！最強忍者大結集》系列。2012年1月，萬代南夢宮宣布他們已在全球售出1000萬部火影忍者遊戲。
+
+
+==== 另類實境遊戲 ====
+
+
+==== 集換式卡牌遊戲 ====
+
+由萬代製作的《火影忍者收藏卡遊戲》於2003年在日本和2006年在北美發行。為雙人遊戲，內含五十張定製卡牌和一個遊戲墊，獲勝方式為獲得十個“戰鬥獎勵”或讓對手先用光卡牌。這些卡片以名為“系列（series）”的套裝發行，形式為四份預製套裝，一份裝有五十張卡牌。每套包括一個入門套牌、遊戲墊、一個回合計數器和一個不銹鋼“忍者利刃錢幣”。額外的牌可在補充包的10張牌和套牌中使用。每個系列都有四套在零售商出售的套裝。每套卡片都有收藏罐，裝有包含幾個補充包和獨家促銷卡片的金屬盒。到2006年10月為止，日本已發行17個系列，一共417張卡牌。截至2008年8月，其中10個系列已在北美發行。
+
+
+=== 廣播 ===
+
+2003年開始播出，以《火影忍者》為主題的廣播節目。 到2007年3月為止的節目名稱是《Oh 火影忍者日本》，從同年4月起改名為《火影忍者Radio 疾風迅雷》。
+
+
+=== 舞台劇 ===
+
+
+==== 2006年版（首演） ====
+2006年5月，在東京與大阪上演，融合了音樂劇與大型魔術的「忍者幻象」戲劇。
+主要演員是所属傑尼斯事務所的Musical Academy。 魔術演出由引田天功擔任，劇本語演出由Tsuyoshi Kida擔任。
+
+
+==== Live Spectacle ====
+2015年版
+火影忍者將於2015年3月改編為舞台劇，劇情改編自漫畫第1卷到27卷，並且加入歌舞、雜技等表演。男主角之一的漩渦鳴人由松岡廣大飾演，另一位男主角宇智波佐助由佐藤流司飾演，而春野櫻與我愛羅分別由伊藤優衣及須賀健太飾演。
+在2015年上演而獲得好評的舞台劇 『Live Spectacle 「NARUTO 火影忍者」』，已決定在2016年7月30日 (六) 到8月28日 (日) 的期間再次演出。在粉絲們期待的『Live Spectacle 「NARUTO 火影忍者」』中，會再加入李洛克 , 扮演者佐藤祐吾 , 其餘角色基本為原班人馬。
+
+2016年版 世界巡迴演出
+Live Spectacle《火影忍者》世界巡迴演出於2016年10月至12月在中國6座城市（上海市、杭州市、北京市、長沙市、廣州市、深圳市）上演。劇本與演出由兒玉明子擔任。
+
+2017年版
+於2017展開的「Live Spectacle 火影忍者」真人舞台劇新作「曉之調」，官方宣布在8 月 6 日東京 AiiA 2.5 Theater Tokyo 舉行的最後一場公演，將於日本全國、以及香港跟臺灣展開同步轉播的消息。
+
+
+==== 歌舞伎 ====
+2018年8月，新作歌舞伎在東京的新橋演舞場上演。坂東巳之助飾演漩渦鳴人，中村隼人飾演宇智波佐助，宇智波斑則是由市川猿之助與片岡愛之助交替演出。劇本與演出由G2擔任。片尾曲由和樂器樂團演唱。
+2019年6月在2018年11月重新開放的京都南座作為新開幕紀念公演的一環上演。在南座公演中飾演宇智波班的演員為中村梅丸的老師中村梅村。
+
+
+=== 電子書 ===
+「Jump Comics DIGITAL」是內容與紙本單行本相同的電子書。購買之後可以在電子設備上閱讀。
+2018年，在Progress Technologies的「全卷一冊」系列以電子書的特別形式出版。
+
+
+=== 應用程式 ===
+除了遊戲應用程式以及主題應用程式之外，語音應用程式於2012年8月10日發布，新錄製的人聲有漩渦鳴人、宇智波佐助、旗木卡卡西、波風湊。
+
+
+=== 真人電影 ===
+獅門宣布阿維·阿拉德正在擬定真人版《火影忍者》由阿拉德公司製作，並由邁克爾·格雷西擔任演導演，而埃里克·菲戈、傑夫·沙維特茲和凱利·奧馬利擔任監督。工作室還與岸本齊史談判電影化版權。
+
+
+== 聯名商品 ==
+
+
+== 活動・企畫 ==
+
+
+=== 連載完結紀念 岸本齊史 火影忍者展 ===
+
+
+=== 其它的活動・企畫 ===
+火影忍者列車（NARUTO -ナルト-列車）
+企畫展 火影忍者 THE ANIMATION（企画展NARUTO-ナルト-THE ANIMATION）
+火影忍者慶典 in ALNE-津山（NARUTO-ナルト-フェスタ in アルネ津山）
+NARUTO×BORUTO 忍里（NARUTO×BORUTO 忍里）
+NARUTO×BORUTO 富士 木葉忍者村（NARUTO×BORUTO 富士 木ノ葉隠れの里）
+NARUTO to BORUTO THE LIVE 2019
+2019臺中國際動漫博覽會「BORUTO慕留人」特展
+
+
+== 評價 ==
+
+
+=== 漫畫 ===
+幾位評論家針對戰鬥橋段與情節發展間的平衡進行評價；IGN的AE Sparrow和動漫新聞網(ANN)的Casey Brienza認為平衡結果就是一個強大的故事情節，但同樣為ANN撰稿的Carl Kimlinger表示戰鬥太多，這減緩了劇情節奏。Kimlinger喜歡角色設計，並認可戰鬥場景的設計，這也引起了Rik Spanjers的積極評價，他認為場景的刺激源自岸本描繪動作的技巧。為Twisted Manga撰稿的Garvita Gaur 表示同意，將這部作品描述為「戲劇性的、令人興奮的，且正好適合他來講述的故事」。
+動漫與漫畫雜誌Neo將火影忍者的角色描述為“令人厭煩”，但認為該系列“幾乎令人作嘔的上癮”正是由於其人物塑造的品質，並且在Briana Lawrence看來，角色的成長給了第二部分成人的感覺。在對單行本第28冊的評論中，Brienza還稱讚了第二部分的故事情節和人物塑造，儘管她評價道並非每一冊都達到高品質。
+第二部分的戰鬥橋段獲得讚譽，最著名的就是鳴人和佐助的戰鬥，導致他們的角色發展產生重大變化。同時，這兩位忍者的最終決戰，因其動作編排、藝術性以及決戰後展現出兩人個性的深度而獲得極大讚譽。一些評論家批評大筒木輝夜是最沒娛樂性的反派，因此鳴人和佐助的對決就更具吸引力。結局獲得了ANN和Comic Book Bin的近乎滿分評價，後者還稱讚主角的名氣。
+東京工藝大學漫畫系教授伊藤剛將該系列的發展與《七龍珠》對照，稱兩部漫畫對三維動作的描繪很好地呈現武打動作。伊藤剛認為讀者可以通過角色戰鬥時的內心獨白對他們產生同理心。
+該系列還影響了電影《歪小子史考特》；導演艾德格·萊特說他的靈感來自漫畫中每當出現「必殺技」時，必定伴隨潛在副作用。當漫畫結束時，多位作者對岸本的成就表示祝賀。總體而言，戰鬥場景因其優秀設計而贏得讚譽，遊戲開發商CyberConnect2在開發火影忍者遊戲時有考慮到這一點。
+在朝日電視台的2021漫畫總選舉，15萬人票選他們心目中的前百強漫畫系列，《火影忍者》排名第 7。
+
+
+=== 動畫 ===
+火影忍者動漫被列為IGN百大動畫系列第38名最佳動畫節目。2005年9月，朝日電視台播放一項全國人氣調查，火影忍者排名17。《紐約時報》的Mike Hale稱該系列比美國的兒童動畫優秀很多，THEM Anime Reviews的Christina Carpenter卻認為岸本的藝術風格在動畫中表現不佳，；Derrick Tucker也持否定態度，儘管他認為該動畫「已經沒什麼好挑剔了」。
+與漫畫一樣，諸如Derrick Tucker與ANN的Theron Martin等評論家也認為打鬥場面太多了，儘管Justin Rich認為打鬥場面是最重要且最令人愉快的要素。Carpenter也對故事人物給予積極評價，雖然她覺得大多數角色相當刻板。松山洋進一步反應第133集是他的最愛之一，除了鳴人和佐助的動作編排，還有當中表現出的情感價值。《火影忍者疾風傳》受到Activeanime的David C. Jones好評，他說動畫製作已有所改進。ANN指出，與第一部動漫系列相比，該系列的基調更嚴肅，喜劇和劇情間的平衡更好；與主線劇情有更有趣的離題。雖然第一集被批評節奏緩慢，但角色間的互動與發展得到積極的評價。為《洛杉磯時報》撰稿，Charles Solomon將《火影忍者疾風傳》列為心中「前10強動畫」的第三名。2011年，金氏世界紀錄的讀者將鳴人票選為史上頂級電子遊戲角色第29名。
+
+
+=== 主題 ===
+Amy Plumb認為岸本在《火影忍者》中引用日本神話的是為了增加故事的層次。岸本希望讀者能自行解讀涵義，這樣他就不用直白解釋。例如宇智波鼬，他擁有三種以神道教神明命名的忍術：月讀、天照和須佐能乎。 Plumb還引用了宇智波一族的家紋，一把被稱為「團扇」的扇子。這種扇子在日本神話中透過吹走邪靈來驅魔；佐助在後期發現他有能力“吹走”九尾對鳴人的影響。妖狐在日本神話中具有騙子的形象，有時它們會奪取人的身體； Plumb評論了此與鳴人體內封印九尾的明顯相似之處，以及鳴人的惡作劇。
+Christopher A. Born指出《火影忍者》故事情節包含傳統儒家價值觀，認為分析《火影忍者》和《死神》等漫畫比直接研究抽象思想更容易了解儒家思想。Norman Melchor Robles Jr.通過計算劇中有關暴力或正向價值觀的詞彙量來評估《火影忍者》中積極與消極思想的描繪；他發現一小部分的詞彙是暴力的，但認為這裡對暴力的描繪似乎是有組織的，以表達主角們如何對抗暴力的的積極策略。Sheuo Hui Gan認為該系列有一種“傳統倫理價值觀”。她還將鳴人通過加入群體所克服的社會異化與阿基拉和新世紀福音戰士的內容互相比較。
+
+一些評論家認為《火影忍者》是一個長大成人的故事。心理學家Lawrence C. Rubin表示，其故事情節能不分年齡地吸引任何失去親人、有社交困難或與處於故事中相同情境的讀者。在藤本由香里看來，隨著角色的成長，他們展現對撫養教導他們的成年人的尊敬，與《航海王》與《飛輪少年》等同期漫畫相比算是比較保守的故事情節。Rik Spanjers覺得佐助（孤獨者）和鳴人（樂觀主義者）間的差異是悲劇性的，認為他們怎麼看待世界的對比是情節的基礎：鳴人的力量隨著要保護的親友變多而更強，佐助卻仍然孤身一人且變得更加復仇心切。Omote Tomoyuki指出，儘管鳴人遭遇困難，故事仍有許多笑點；但隨著鳴人成為青少年，喜劇元素隨時間推移急劇減少。《週刊少年Jump》從2003年開始陸續推出《銀魂》、《家庭教師HITMAN REBORN!》等喜劇，而在Tomoyuki看來，這就是重點改變的部分原因：“火影忍者不該再提供笑聲了”。
+藤本由香里認為這個故事具有過於傳統的性別角色：它（火影忍者）的表現表明男人是男人、女人是女人，且他們在能力與職業上的不同是先天造成的。例如，在忍者學校，女生最初表現超越男生，然而“一旦男生認真起來，女生就跟不上了”。藤本還指出當基於女性的角色發展出現時，就會再次使用刻板角色：像是綱手，一位上圍豐滿的中年婦女，就是個清晰的母親形象；當她教小櫻成為醫療忍者時，需要只有女性才擁有的特殊技能（聰明、細心、能注意所有細節），這便強化了女性只能在戰場上作為醫療者的想法。綱手本人是《火影忍者》中的權威人物，卻被描繪得很可笑，而處於同等位置的男性則不然。藤本認為這種女性形象可以解釋為什麼女性角色往往是漫畫裡讀者最不喜歡的角色。
+
+
+=== 獲得獎項 ===
+
+
+== 對現實社會的影響 ==
+
+
+=== 火影忍者跑法 ===
+
+火影忍者跑法，或稱忍者跑法，是一種來自作品角色奔跑的方式，奔跑的方式為雙手往後擺。  此跑法在2017年變得流行起來，全世界許多學生與團體都像作品角色一樣進行活動，特別是在作品的周年紀念日。 在2019年6月27日，Matty Roberts在Facebook上發布了一個玩笑性的活動，名為「突襲51區，他們不能阻止我們所有人」。他在Facebook的活動頁面上寫道，「如果我們都採用火影忍者跑法，我們可以比他們的子彈還要快。讓我們一起去看看他們的外星人」。 之後迅速成為網絡迷因，導致內華達州執法部門與美國空軍在全國發出警告。
+
+
+=== 讀者自殺 ===
+2012年據《每日郵報》報導，在得知《火影忍者》中自己喜愛的角色宇智波鼬死亡後，俄羅斯的一名14歲的少年在自己的社交平台上稱自己“計劃著結束這一切”，隨後從超過100英尺（30米）高的公寓樓頂縱身躍下，當場死亡。
+
+
+=== 護額保命 ===
+2017年，美國一男子在紐約漫展結束時搭乘地鐵，不料被不明人士持刀襲擊。情急之下他利用自己參加漫展時佩戴的木葉叛忍護額回擊對方頭部，最後對方在地鐵抵達下一站時下車逃脫。被襲擊的男子選擇原諒對方，有《火影忍者》的粉絲認為這恰好契合《火影忍者》「寬以待人」的精神。
+
+
+=== 生駒里奈 ===
+《週刊少年jump》創刊50週年推出的《OH MY JUMP！～少年JUMP救地球～》中，生駒里奈飾演的喜歡扮演成鳴人的女大學生在《火影忍者》的幫助下成功向自己喜歡的男生告白。
+
+
+== 参考來源 ==
+註解：
+
+參考資料：
+
+
+== 外部連結 ==
+
+NARUTO-ナルト-どっとこむ （页面存档备份，存于互联网档案馆）
+火影忍者的X（前Twitter）账号
+ライブスペクタクル『NARUTO -ナルト-』公式サイト （页面存档备份，存于互联网档案馆）
+
+Anime: One Piece (en)
+Description: One Piece (stylized in all caps) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its chapters compiled in 110 tankōbon volumes as of November 2024. The series follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, as he explores the Grand Line in search of the mythical treasure known as the "One Piece" to become the next King of the Pirates.
+The manga spawned a media franchise, having been adapted into a festival film by Production I.G, and an anime series by Toei Animation, which began broadcasting in 1999. Additionally, Toei has developed fourteen animated feature films, one original video animation, and thirteen television specials. Several companies have developed various types of merchandising and media, such as a trading card game and numerous video games. The manga series was licensed for an English language release in North America and the United Kingdom by Viz Media and in Australia by Madman Entertainment. The anime series was licensed by 4Kids Entertainment for an English-language release in North America in 2004 before the license was dropped and subsequently acquired by Funimation in 2007. Netflix released a live action TV series adaptation in 2023.
+One Piece has received praise for its storytelling, world-building, art, characterization, and humour. It has received many awards and is ranked by critics, reviewers, and readers as one of the best manga of all time. By August 2022, it had over 516.6 million copies in circulation in 61 countries and regions worldwide, making it the best-selling manga series in history, and the best-selling comic series printed in a book volume. Several volumes of the manga have broken publishing records, including the highest initial print run of any book in Japan. In 2015 and 2022, One Piece set the Guinness World Record for "the most copies published for the same comic book series by a single author". It was the best-selling manga for eleven consecutive years from 2008 to 2018 and is the only manga that had an initial print of volumes of above 3 million continuously for more than 10 years, as well as the only one that had achieved more than 1 million copies sold in all of its over 100 published tankōbon volumes. One Piece is the only manga whose volumes have ranked first every year in Oricon's weekly comic chart existence since 2008.
+
+
+== Synopsis ==
+
+
+=== Setting ===
+
+The world of One Piece is populated by humans and other races such as dwarves (more akin to faeries in size), giants, merfolk, fish-men, long-limbed tribes, long-necked people known as the Snakeneck Tribe, and animal people (known as "Minks"). The world is governed by an intercontinental organization known as the World Government, consisting of dozens of member countries. The Navy is the sea military branch of the World Government that protects the known seas from pirates and other criminals. There is also Cipher Pol which is a group of agencies within the World Government that are their secret police. While pirates are major opponents of the Government, the ones who challenge their rule are the Revolutionary Army who seek to overthrow them. The central tension of the series pits the World Government and their forces against pirates. The series regularly emphasizes moral ambiguity over the label "pirate", which includes cruel villains, but also any individuals who do not submit to the World Government's authoritarian—and often morally ambiguous—rule. The One Piece world also has supernormal characteristics like Devil Fruits, which are mysterious fruits that grant whoever eats them transformative powers at the cost of becoming weakened in bodies of water, resulting in them losing the ability to swim. Another supernatural power is Haki, which grants its users enhanced willpower, observation, and fighting abilities, and it is one of the only effective methods of inflicting bodily harm on certain Devil Fruit users.
+The world itself consists of two vast oceans divided by a massive mountain range called the Red Line. Within the oceans is a second global phenomenon known as the Grand Line, which is a sea that runs perpendicular to the Red Line and is bounded by the Calm Belt, strips of calm ocean infested with huge ship-eating monsters known as Sea Kings. These geographical barriers divide the world into four seas: North Blue, East Blue, West Blue, and South Blue. Passage between the four seas, and the Grand Line, is therefore difficult. Unique and mystical features enable transport between the seas, such as the use of Sea Prism Stone employed by government ships to mask their presence as they traverse the Calm Belt, or the Reverse Mountain where water from the four seas flows uphill before merging into a rapidly flowing and dangerous canal that enters the Grand Line. The Grand Line itself is split into two separate halves with the Red Line between being Paradise and the New World.
+
+
+=== Premise ===
+
+The series focuses on Monkey D. Luffy—a young man made of rubber after unintentionally eating the Gum-Gum Fruit—who sets off on a journey from the East Blue Sea to find the deceased King of the Pirates Gol D. Roger's ultimate treasure known as the "One Piece", and take over his prior title. Luffy sets sail as captain of the Straw Hat Pirates, and is joined by Roronoa Zoro, a swordsman and former bounty hunter; Nami, a money-obsessed thief and navigator; Usopp, a sniper and compulsive liar; and Sanji, an amorous but chivalrous cook. They acquire a ship, the Going Merry—later replaced by the Thousand Sunny—and engage in confrontations with notorious pirates. As Luffy and his crew set out on their adventures, others join the crew later in the series, including Tony Tony Chopper, an anthropomorphized reindeer doctor; Nico Robin, an archaeologist and former Baroque Works assassin; Franky, a cyborg shipwright; Brook, a skeleton musician and swordsman; and Jimbei, a whale shark-type fish-man and former member of the Seven Warlords of the Sea who becomes their helmsman. Together, they encounter other pirates, bounty hunters, criminal organizations, revolutionaries, secret agents, scientists, soldiers of the morally ambiguous World Government, and various other friends and foes, as they sail the seas in pursuit of their dreams.
+
+
+== Production ==
+
+
+=== Concept and creation ===
+Eiichiro Oda's interest in pirates began in his childhood, watching the animated series Vicky the Viking, which inspired him to want to draw a manga series about pirates. The reading of pirate biographies influenced Oda to incorporate the characteristics of real-life pirates into many of the characters in One Piece; for example, the character Marshall D. Teach is based on and named after the historical pirate Edward "Blackbeard" Teach. Apart from the history of piracy, Oda's biggest influence is Akira Toriyama and his series Dragon Ball, which is one of his favorite manga.
+While working as an assistant to Nobuhiro Watsuki, Oda began writing One Piece in 1996. It started as two one-shot stories entitled Romance Dawn—which would later be used as the title for One Piece's first chapter and volume. They both featured the character of Luffy and included elements that would appear later in the main series. The first of these short stories was published in August 1996 in Shueisha's Akamaru Jump, and reprinted in 2002 in One Piece Red guidebook. The second was published in the 41st issue of Weekly Shōnen Jump in September 1996, and reprinted in 1998 in Oda's short story collection, Wanted! In an interview with TBS, Takanori Asada, the original editor of One Piece, revealed that the manga was rejected by Weekly Shōnen Jump three times before they agreed to publish the series. Kazuhiko Torishima, then the magazine's editor-in-chief, explained that they debated for two hours on whether or not to serialize One Piece. Although acknowledging that it had potential, he was one of those against the work because it was "incomplete". But Torishima ultimately approved serialization due to Asada being so "annoyingly earnest" that another editor suggested both Oda and Asada would be crushed if it was rejected at that time.
+
+
+=== Development ===
+Oda's primary inspiration for the concept of Devil Fruits was Doraemon; the Fruits' abilities and uses reflect Oda's daily life and his personal fantasies, similar to that of Doraemon's gadgets, such as the Gum-Gum Fruit being inspired by Oda's laziness. When designing the outward appearance of Devil Fruits Oda thinks of something that would fulfill a human desire; he added that he does not see why he would draw a Devil Fruit unless the fruit's appearance would entice one to eat it. The names of many special attacks, as well as other concepts in the manga, consist of a form of punning in which phrases written in kanji are paired with an idiosyncratic reading. The names of some characters' techniques are often mixed with other languages, and the names of several of Zoro's sword techniques are designed as jokes; they look fearsome when read by sight but sound like kinds of food when read aloud. For example, Zoro's signature move is Onigiri, which is written as demon cut but is pronounced the same as rice ball in Japanese. Eisaku Inoue, the animation director, has said that the creators did not use these kanji readings in the anime since they "might have cut down the laughs by about half". Nevertheless, Konosuke Uda, the director, said that he believes that the creators "made the anime pretty close to the manga".
+Oda was "sensitive" about how his work would be translated. In many instances, the English version of the One Piece manga uses one onomatopoeia for multiple onomatopoeiae used in the Japanese version. For instance, "saaa" (the sound of light rain, close to a mist) and "zaaa" (the sound of pouring rain) are both translated as "fshhhhhhh". Unlike other manga artists, Oda draws everything that moves himself to create a consistent look while leaving his staff to draw the backgrounds based on sketches he has drawn. This workload forces him to keep tight production rates, starting from five in the morning until two in the morning the next day, with short breaks only for meals. Oda's work program includes the first three days of the week dedicated to the writing of the storyboard and the remaining time for the definitive inking of the boards and the possible colouring. When a reader asked who Nami was in love with, Oda replied that there would hardly be any love affairs within Luffy's crew. The author also explained he deliberately avoids including them in One Piece since the series is a shōnen manga and the boys who read it are not interested in love stories.
+
+
+=== Conclusion ===
+In 2006, Oda stated that he originally planned One Piece to last five years and that he had already planned the ending. However, he found it would take longer than he had expected as Oda realized that he liked the story too much to end it in that period of time. In 2016, nineteen years after the start of serialization, the author said that the manga has reached 65% of the story he intends to tell. In July 2018, on the occasion of the twenty-first anniversary of One Piece, Oda said that the manga has reached 80% of the plot. In a television special aired in Japan in January 2019, Oda said that One Piece is on its way to the conclusion, but that it would exceed the 100th volume, also commenting that he would be willing to change the ending if the fans were to be able to predict it. When asked if the titular treasure is "family bonds", Oda replied: "No, I hate that kind of thing", mentioning the ending of The Wizard of Oz and claiming that he does not endure stories where the reward of adventure is the adventure itself, opting for a story where travel is important, but even more important is the goal. In August 2019, Oda said that, according to his predictions, the manga would end in five years. However, Oda stated that the ending would be what he had decided in the beginning; he is committed to seeing it through. In August 2020, Shueisha announced in the year's 35th issue of Weekly Shōnen Jump that One Piece was "headed toward the upcoming final saga." On January 4, 2021, One Piece reached its thousandth chapter. In June 2022, Oda announced that the manga would enter a one-month break to prepare for its 25th anniversary and its final saga, set to begin with the release of chapter 1054.
+
+
+== Media ==
+
+
+=== Manga ===
+
+Written and illustrated by Eiichiro Oda, One Piece has been serialized by Shueisha in the shōnen manga anthology Weekly Shōnen Jump since July 22, 1997. Shueisha has collected its chapters into individual tankōbon volumes. The first volume was released on December 24, 1997. By November 1, 2024, a total of 110 volumes have been released.
+The first English translation of One Piece was released by Viz Media in November 2002, who published its chapters in the manga anthology Shonen Jump, and later collected in volumes since June 30, 2003. In 2009, Viz announced the release of five volumes per month during the first half of 2010 to catch up with the serialization in Japan. Following the discontinuation of the print Shonen Jump, Viz began releasing One Piece chapterwise in its digital successor Weekly Shonen Jump on January 30, 2012. Following the digital Weekly Shonen Jump's cancelation in December 2018, Viz Media started simultaneously publishing One Piece through its Shonen Jump service, and by Shueisha through Manga Plus, in January 2019.
+In the United Kingdom, the volumes were published by Gollancz Manga, starting in March 2006, until Viz Media took it over after the fourteenth volume. In Australia and New Zealand, the English volumes have been distributed by Madman Entertainment since November 10, 2008.
+
+
+==== Spin-offs and crossovers ====
+Oda teamed up with Akira Toriyama to create a single crossover of One Piece and Toriyama's Dragon Ball. Entitled Cross Epoch, the one-shot was published in the December 25, 2006, issue of Weekly Shōnen Jump and the April 2011 issue of the English Shonen Jump. Oda collaborated with Mitsutoshi Shimabukuro, author of Toriko, for a crossover one-shot of their series titled Taste of the Devil Fruit (実食! 悪魔の実!!, Jitsushoku! Akuma no Mi!!, lit. 'The True Food! Devil Fruit!!'), published in Weekly Shōnen Jump on April 4, 2011. The spin-off series One Piece Party (ワンピースパーティー, Wan Pīsu Pātī), written by Ei Andō in a super deformed art style, began serialization in Saikyō Jump on December 5, 2011. Its final chapter was published on Shōnen Jump+ on February 2, 2021.
+
+
+=== Anime ===
+
+
+==== Festival films and original video animation ====
+One Piece: Defeat Him! The Pirate Ganzack! was produced by Production I.G for the 1998 Jump Super Anime Tour and was directed by Gorō Taniguchi. Luffy, Nami, and Zoro are attacked by a sea monster that destroys their boat and separates them. Luffy is found on an island beach, where he saves a little girl, Medaka, from two pirates. All the villagers, including Medaka's father, have been abducted by Ganzack and his crew and forced into labour. After hearing that Ganzack also stole all the food, Luffy and Zoro rush out to retrieve it. As they fight the pirates, one of them kidnaps Medaka. A fight starts between Luffy and Ganzack, ending with Luffy's capture. Meanwhile, Zoro is forced to give up after a threat is made to kill all the villagers. They rise against Ganzack, and while the islanders and pirates fight, Nami unlocks the three captives. Ganzack defeats the rebellion and reveals his armoured battleship. The Straw Hat Pirates are forced to fight Ganzack once more to prevent him from destroying the island.
+A second film, One Piece: Romance Dawn Story, was produced by Toei Animation in July 2008 for the Jump Super Anime Tour. It is 34 minutes in length and based on the first version of Romance Dawn. It includes the Straw Hat Pirates up to Brook and their second ship, the Thousand Sunny. In search for food for his crew, Luffy arrives at a port after defeating a pirate named Crescent Moon Gally on the way. There he meets a girl named Silk, who was abandoned by attacking pirates as a baby and raised by the mayor. Her upbringing causes her to value the town as her "treasure". The villagers mistake Luffy for Gally and capture him just as the real Gally returns. Gally throws Luffy in the water and plans to destroy the town, but Silk saves him and Luffy pursues Gally. His crew arrives to help him, and with their help, he recovers the treasure for the town, acquires food, and destroys Gally's ship. The film was later released as a triple feature DVD with Dragon Ball: Yo! Son Goku and His Friends Return!! and Tegami Bachi: Light and Blue Night, that was available only through a mail-in offer exclusively to Japanese residents.
+The One Piece Film Strong World: Episode 0 original video animation adapts the manga's special "Chapter 0", which shows how things were before and after the death of Roger. It received a limited release of three thousand DVDs as a collaboration with the House Foods brand.
+
+
+==== 1999 TV series ====
+
+An anime television series adaptation produced by Toei Animation premiered on Fuji Television on October 20, 1999; the series reached its 1,000th episode in November 2021.
+
+
+===== Theatrical films =====
+
+Fourteen animated theatrical films produced by Toei Animation based on the One Piece series have been released. The films are typically released in March to coincide with the spring vacation of Japanese schools. The films feature self-contained, completely original plots, or alternate retellings of story arcs with animation of a higher quality than what the weekly anime allows. The first three films were typically double features paired up with other anime films and were thus usually an hour or less in length. The films themselves offer contradictions in both chronology and design that make them incompatible with a single continuity. Funimation has licensed the eighth, tenth, and twelfth films for release in North America, and these films have received in-house dubs by the company.
+
+
+==== Upcoming original net animation ====
+In December 2023 at the Jump Festa '24 event, it was announced that Wit Studio would be producing an original net animation (ONA) series remake for Netflix, starting from the East Blue story arc, to commemorate the 25th anniversary of the original anime series. The remake will be titled The One Piece. It will be directed by Masashi Koizuka, with Hideaki Abe serving as assistant director, and Kyoji Asano and Takatoshi Honda as character designers and chief animation directors. Yasuhiro Kajino will be in charge of the image board and creature design, and Eri Taguchi will be in charge of the prop design. Taku Kishimoto will be in charge of the series scripts, and Ken Imaizumi and Shuhei Fukuda will serve as action animators. Tomonori Kuroda will be the art director, and Ryōma Kawamura will be the animation producer.
+
+
+=== Live-action series ===
+
+On July 21, 2017, Weekly Shōnen Jump editor-in-chief Hiroyuki Nakano announced that Tomorrow Studios (a partnership between Marty Adelstein and ITV Studios) and Shueisha would commence production of an American live-action television adaptation of Eiichiro Oda's One Piece manga series as part of the series' 20th anniversary celebrations. Eiichiro Oda served as executive producer for the series alongside Tomorrow Studios CEO Adelstein and Becky Clements.  The series would reportedly begin with the East Blue arc.
+In January 2020, Oda revealed that Netflix ordered a first season consisting of ten episodes. On May 19, 2020, producer Marty Adelstein revealed during an interview with SyFy Wire, that the series was originally set to begin filming in Cape Town sometime around August, but has since been delayed to around September due to COVID-19. He also revealed that, during the same interview, all ten scripts had been written for the series and they were set to begin casting sometime in June. However, executive producer Matt Owens stated in September 2020 that casting had not yet commenced.
+In March 2021, production started up again with showrunner Steven Maeda revealing that the series codename is Project Roger. In November 2021, it was announced that the casting for the series includes Iñaki Godoy as Monkey D. Luffy, Mackenyu as Roronoa Zoro, Emily Rudd as Nami, Jacob Romero Gibson as Usopp and Taz Skylar as Sanji. In March 2022, Netflix added Morgan Davies as Koby, Ilia Isorelýs Paulino as Alvida, Aidan Scott as Helmeppo, Jeff Ward as Buggy, McKinley Belcher III as Arlong, Vincent Regan as Garp and Peter Gadiot as Shanks to the cast in recurring roles.
+The series was positively received by both fans and critics, and on September 15, 2023, Oda revealed that the show has been renewed for a second season.
+
+
+=== Video games ===
+
+The One Piece franchise has been adapted into multiple video games published by subsidiaries of Bandai and later as part of Bandai Namco Entertainment. The games have been released on a variety of video game, handheld consoles, and mobile devices. The video games feature role-playing games, and fighting games, such as the titles of the Grand Battle! meta-series. The series debuted on July 19, 2000, with From TV Animation – One Piece: Become the Pirate King!. Over forty games have been produced based on the franchise. Additionally, One Piece characters and settings have appeared in various Shonen Jump crossover games, such as Battle Stadium D.O.N, Jump Super Stars, Jump Ultimate Stars, J-Stars Victory VS and Jump Force.
+
+
+=== Music ===
+
+Music soundtracks have been released that are based on songs that premiered in the series. Kohei Tanaka and Shiro Hamaguchi composed the score for One Piece. Various theme songs and character songs were released on a total of 51 singles. Eight compilation albums and seventeen soundtrack CDs have been released featuring songs and themes that were introduced in the series. On August 11, 2019, it was announced that the musical group Sakuramen is collaborating with Kohei Tanaka to compose music for the anime's "Wano Country" story arc.
+
+
+=== Light novels ===
+A series of light novels was published based on the first festival film, certain episodes of the anime television series, and all but the first feature film. They feature artwork by Oda and are written by Tatsuya Hamasaki. The first of these novels, One Piece: Defeat The Pirate Ganzak! was released on June 3, 1999. One Piece: Logue Town Chapter followed on July 17, 2000, as an adaptation of the anime television series' Logue Town story arc. The first feature film to be adapted was Clockwork Island Adventure on March 19, 2001. The second, and so far last, light novel adaptation of an anime television series arc, One Piece: Thousand-year Dragon Legend, was published on December 25, 2001. The adaptation of Chopper's Kingdom on the Island of Strange Animals was released on March 22, 2002, and that of Dead End Adventure on March 10, 2003. Curse of the Sacred Sword followed on March 22, 2004, and Baron Omatsuri and the Secret Island on March 14, 2005. The light novel of The Giant Mechanical Soldier of Karakuri Castle was released on March 6, 2006, and that of The Desert Princess and the Pirates: Adventures in Alabasta on March 7, 2007. A novel adaptation of Episodes of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom was released on February 25, 2008.
+
+
+=== Art and guidebooks ===
+Five art books and five guidebooks for the One Piece series have been released. The first art book, One Piece: Color Walk 1, released June 2001, was also released in English by Viz Media on November 8, 2005. A second art book, One Piece: Color Walk 2, was released on November 4, 2003; and One Piece: Color Walk 3 – Lion the third art book, was released January 5, 2006. The fourth art book, subtitled Eagle, was released on March 4, 2010, and One Piece: Shark, the fifth art book, was released on December 3, 2010.
+The first guidebook One Piece: Red – Grand Characters was released on March 2, 2002. The second, One Piece: Blue – Grand Data File, followed on August 2, 2002. The third guidebook, One Piece: Yellow – Grand Elements, was released on April 4, 2007, and the fourth, One Piece: Green – Secret Pieces, followed on November 4, 2010. An anime guidebook, One Piece: Rainbow!, was released on May 1, 2007, and covers the first eight years of the TV anime.
+
+
+=== Other media ===
+Other One Piece media include a trading card game by Bandai called One Piece CCG and a drama CD centering on the character of Nefertari Vivi released by Avex Trax on December 26, 2002. A Hello Kitty-inspired Chopper was used for several pieces of merchandise as a collaboration between One Piece and Hello Kitty. A kabuki play inspired by One Piece, Super Kabuki II: One Piece, ran at Tokyo's Shinbashi Enbujō throughout October and November 2015.
+An event called "One Piece Premier Show" debuted at Universal Studios Japan in 2007. The event has been held at the same location every year since 2010. (except in 2020, when the event was canceled due to the COVID-19 pandemic). By 2018, the event has attracted over 1 million visitors. The Baratie restaurant, modeled after the restaurant of the same name in the manga, opened in June 2013 at the Fuji Television headquarters. An indoor theme park located inside the Tokyo Tower called the Tokyo One Piece Tower, which includes some attractions, shops and restaurants, opened on March 13, 2015. From April 25 to May 18, 2025, Universal Studios Hollywood will open the One Piece: Grand Pirate Gathering attraction based on the series, as part of the Fan Fest Nights event.
+One Piece is the first-ever manga series to hold a "Dome Tour", in which events were held from March 25–27, 2011, at the Kyocera Dome in Osaka, and from April 27 – May 1 of the same year at the Tokyo Dome. In 2014, the first One Piece exhibition in South Korea was held at the War Memorial of Korea, and the second exhibition in Hongik Daehango Art Center. In 2015, a One Piece trompe-l'œil exhibition was held at the Hong Kong 3D Museum.
+One Piece on Ice: Episode of Alabaster premiered on August 11, 2023, in Yokohama, starring two-time reigning world champion Shoma Uno in the lead role of Monkey D. Luffy and junior world champion Marin Honda as Princess Vivi. Other cast members included Four Continents champion Nobunari Oda,  Kazuki Tomono, Keijii Tanaka, Koshiro Shimada, and Rika Hongo.
+
+
+== Reception ==
+
+
+=== Sales ===
+One Piece is the best-selling manga series in history; in 2012, Oricon, a Japanese company that began its own annual manga sales ranking chart in year 2008, reported that the series was the first to sell 100 million copies (the company does not report on sales figures before April 2008). The series had over 300 million copies in circulation by November 2013; it had over 440 million copies in circulation worldwide by May 2018; 460 million copies by December 2019; 470 million copies by April 2020; 480 million copies in circulation in forty-three countries worldwide by February 2021. It reached 490 million copies in print worldwide by July 2021. By August 2022, the manga had reached 516.566 million copies in circulation worldwide. By 2004, the brand's merchandise had made more than $1 billion in retail sales in Japan.
+One Piece was the best-selling manga series for eleven consecutive years from 2008 until 2018. In 2019, the manga did not top the chart for the first time in twelve years, ranking second in the annual manga sales ranking with over 10.1 million copies sold, although it remained as the best-selling manga by volume in its twelfth consecutive year. It was the third best-selling manga series in 2020, with over 7.7 million copies sold, while volumes 95–97 were the 23rd–25th best-selling manga volumes of 2020, behind the first twenty-two volumes of Demon Slayer: Kimetsu no Yaiba. In 2021, it was the sixth best selling manga with over 7 million copies sold, while volumes 98, 99, and 100 were the sixth, eighth, and ninth best-selling manga volumes, respectively. It was the fourth best-selling manga series in 2022, with over 10.3 million copies sold; volumes 101–104 were among the 10 best-selling manga volumes of the year. It was the fifth best-selling manga series in the first half of 2023 (period between November 2022 and May 2023), with over 3.5 million copies sold, while volume 105 was the best-selling manga volume from the same period; volume 104 placed nineteenth. Volumes 105–107 were among the best-selling manga volumes of 2023. Volume 108 was Shueisha's highest first print run manga volume of 2023–2024 (period between April 2023 and March 2024), with 3.2 million copies printed.
+Individual volumes of One Piece have broken publishing and sales records in Japan. In 2009, the 56th volume had a print run of 2.85 million, the highest initial print run of any manga by then. The 57th volume had a print run of 3 million in 2010, a record that was broken several times by subsequent volumes. The 60th volume had a first print run of 3.4 million and was the first book to sell over two million copies in its opening week on Oricon book rankings, and later became the first book to sell over three million copies in Oricon's history. In 2012, the 67th volume had an initial print run of 4.05 million, holding the record of the volume with the highest number of copies in the first print. One Piece is the only manga that had an initial print of volumes of above 3 million continuously for more than ten years. In May 2023, it was reported that each of the 105 volumes, published by then, had sold over 1 million copies. Additionally, One Piece is the only work whose volumes have ranked first every year in Oricon's weekly comic chart existence since 2008.
+One Piece has also sold well in North America, charting on Publishers Weekly's list of best-selling comics for April/May 2007 and numerous times on The New York Times Manga Best Seller list. On ICv2's list of Top 25 Manga Properties Fall 2008 for North America, which is compiled by interviews with retailers and distributors, Nielsen BookScan's Top 20 Lists of graphic novels and ICv2's own analysis of information provided by Diamond Comic Distributors, One Piece came in fifteenth place. It rose to second place on their Top 25 Manga Properties Q3 2010 list. By August 2022, the manga has sold 2.9 million copies in print in North America (including single volumes and omnibus editions).
+In France, One Piece has been the best-selling manga since 2011, with over 31.80 million copies sold by August 2022. The manga is very popular in the country, where its sales alone represent 8.5% of the French manga market by 2021. The first volume had sold more than 1 million copies in France by July 2021. The 100th volume had one of the biggest initial prints ever for a manga in the French market, selling 131,270 copies in just three days, the best-selling manga volume in a week in the country. The manga sold 6,011,536 copies in 2021. This amount represents almost 20% of the total sales in the country; almost one in five volumes of the series was sold in the year.
+In Italy, One Piece had 18 million copies in circulation by April 2021. which represents around 22.5% of the series market outside Japan. In September 2021, the limited edition of the ninety-eighth volume ranked first in the best-selling books weekly ranking, making it the first time that a manga reaches that achievement.
+In Germany, One Piece is the second best-selling manga behind Dragon Ball. The manga had sold 6.7 million copies in the country.
+
+
+=== Critical response ===
+Allen Divers of Anime News Network comments in 2003 that the art style One Piece employs "initially seems very cartoonish with much of the character designs showing more North American influence than that from its Japanese origins", adding that the "artwork and settings come across as timeless in their presentation". He also notes that the influence of Akira Toriyama (Dragon Ball) shines through in Oda's style of writing with its "huge epic battles punctuated by a lot of humor" and that, in One Piece, he "manages to share a rich tale without getting bogged down by overly complicated plots". Rebecca Silverman of the same site stated that one of the series' strengths is to "blend action, humor, and heavy fare together" and praised the art, but stated that the panels could get too crowded for easy reading. The website activeAnime describes the artwork in One Piece as "wonderfully quirky and full of expression". Mario Vuk from Splash Comics commented that Oda's "pleasantly bright and dynamic" art style suits the story's "funny and exciting" atmosphere. Isaiah Colbert of Kotaku called One Piece a "masterpiece", highlighting Oda's character writing, world-building and the balance between "fun and serious subject matter". Dale Bashir of IGN wrote that One Piece is more about the world-building, adventuring, and the meaning of freedom instead of the "usual shonen battling" from series like Dragon Ball and Naruto. Bashir concluded: "While not everyone would want to go so far for a franchise that isn't even finished yet, trust me when I say that it is definitely worth it."
+EX Media lauds Oda's art for its "crispy" monochrome pictures, "great use of subtle shade changes" on color pages, "sometimes exquisite" use of angles, and for its consistency. Shaenon K. Garrity, who at some point edited the series for English Shonen Jump, said that, while doing so, her amazement over Oda's craft grew steadily. She states that "he has a natural, playful mastery of the often restrictive weekly-manga format," notes that "interesting things [are] going on deep in the narrative structure," and recommends "sticking through to the later volumes to see just how crazy and Peter Max-y the art gets". Mania Entertainment writer Jarred Pine commented: "One Piece is a fun adventure story, with an ensemble cast that is continuing to develop, with great action and character drama." He praised Oda's artwork as "imaginative and creative" and commented that "Oda's imagination just oozes all of the panels  [sic]". He also noted that "Oda's panel work [...] features a lot of interesting perspectives and direction, especially during the explosive action sequences which are always a blast".
+In March 2021, Mobile Suit Gundam's creator, Yoshiyuki Tomino, said in his interview that One Piece is the "only manga to trust". He praised the manga, commenting: "Still, we are working in the same studio and I saw storyboards near the photocopier. Unlike mine, those storyboards are good. But, you know, among the popular manga there is manga with very beautiful art and manga with bad art, but interesting nonetheless. And I don't trust manga with very beautiful art unless it is One Piece.
+After the release of the hundredth volume, Weekly Shonen Jump's editor-in-chief, Hiroyuki Nakano, explained how One Piece changed the history of manga and the way of making it. Nakano said that Weekly Shonen Jump is "a game of weekly popularity", and before One Piece, he aimed for something "interesting this week without thinking about the next"; however, the series reached overwhelming popularity due to its style that involves a story concept and detailed hints, adding that the series had a huge impact on other series. Nakano lauded Oda for his "overwhelming passion, talent and power" and his "unwavering will" to deliver a story to boys and girls, adding that he goes far beyond the reader's expectations, with the belief in "don't fool the reader" and "there is something interesting ahead of it".
+
+
+=== Awards and accolades ===
+One Piece was nominated for the 23rd Kodansha Manga Award in the shōnen category in 1999. It was a finalist for the Tezuka Osamu Cultural Prize three times in a row from 2000 to 2002, with the highest number of fan nominations in the first two years. The manga was nominated for Favorite Manga Series in Nickelodeon Magazine's 2009 Comics Awards. In 2012, the series won the 41st Japan Cartoonists Association Award Grand Prize, alongside Kimuchi Yokoyama's Neko Darake. In 2014, the series received the 18th Yomiuri Advertising Award's Golden Medal. It also won the 34th Newspaper Advertising Award in the Advertising category and the 67th Advertising Dentsu Award in Newspaper Advertising Planning category.
+The forty-sixth volume of One Piece was the best manga of 2007, according to the Oricon's Japanese Book of the Year Action Committee. The series was chosen as one of the best continuing manga for all ages/teens in 2011 by critics from About.com, Anime News Network, and ComicsAlliance. The series has ranked on the "Book of the Year" list from Media Factory's Da Vinci magazine, where professional book reviewers, bookstore employees, and Da Vinci readers participate; it ranked fifth in 2011; second in 2012; third in 2013; second in 2014, 2015 and 2016; third in 2017 and 2018; second in 2019; third in 2020 and 2021; second in 2022; third in 2023; and fourteenth in 2024. It ranked eighth in the 2023 edition of Takarajimasha's Kono Manga ga Sugoi! list of best manga for male readers.
+The German translation of the manga won the Sondermann Award in the international manga category in 2005. The series received the award for the forty-fourth volume in 2008 and the forty-eighth volume in 2009. One Piece won the AnimeLand's Anime & Manga 19th Grand Prix for the "Best Classic Shōnen" category in 2012.
+In a poll conducted by Oricon in 2008 about "the most moving (touching) manga ever", One Piece ranked first in both male and female categories. In another 2008 poll by Oricon, Japanese teenagers voted it the most interesting manga. On Tencent's anime and manga web portal, One Piece ranked first in a poll of "must-read manga for the younger generation in China". In a poll conducted by eBookJapan in 2014 about "manga that children want to read" for "Children's Reading Day" by the Ministry of Education, Culture, Sports, Science and Technology, the series also ranked first.
+On June 15, 2015, it was announced that Eiichiro Oda and One Piece had set the Guinness World Record for "The most copies published for the same comic book series by a single author" with 320,866,000 copies printed worldwide by December 2014; it updated the record on August 4, 2022, when it reached over 500 million copies in circulation worldwide in both print and digital copies (416,566,000 in Japan and 100 million copies in 60 countries and territories outside of Japan). The series ranked fourth on the first annual Tsutaya Comic Awards' All-Time Best Section in 2017. In 2021, TV Asahi announced the results of its "Manga General Election" poll in which 150,000 people voted for their "Most Favorite Manga", One Piece ranked first on the list.
+In 2014, the "One Piece Premiere Summer" event received the "Best Overall Production" award from the International Association of Amusement Parks and Attractions.
+
+
+=== Cultural impact ===
+As part of an effort to help Kumamoto Prefecture recover from the 2016 earthquakes, Oda helped set up 10 statues of the Straw Hat Pirates around the prefecture. Luffy was the first statue to be unveiled in front of the Kumamoto Prefectural Government Office on November 30, 2018. Jinbe was the last statue, unveiled at Sumiyoshi Kaigan Park on July 23, 2022.
+At the 2020 Tokyo Olympics, Greek athlete Miltiadis Tentoglou performed a "Gear Second" pose before winning a gold medal in the men's long jump competition. A gene in the fruit fly (Drosophila melanogaster) was named "Baramicin", partly taking inspiration from the One Piece character Buggy. The gene encodes a protein that is split up into multiple parts. A testate amoeba genus was named Alabasta, partly in reference to the One Piece Kingdom of Alabasta, also known as the Kingdom of Sand, a desert kingdom located on Sandy Island in the Paradise region.
+
+
+== Notes ==
+
+Japanese names
+
+
+== References ==
+
+
+== Further reading ==
+Romito, Joseph (2013). "One Piece". In Beaty, Bart H.; Weiner, Stephen (eds.). Critical Survey of Graphic Novels: Manga. Ipswich, Mass.: Salem Press. pp. 242–246. ISBN 978-1-58765-955-3.
+Sasada, Hiroko (December 2011). "The Otherness of Heroes: The Shonen as Outsider and Altruist in Oda Eiichiro's One Piece". International Research in Children's Literature. 4 (2): 192–207. doi:10.3366/ircl.2011.0026.
+
+
+== External links ==
+
+Official website (in Japanese)
+Official manga website of Weekly Shōnen Jump (in Japanese)
+Official manga website of Viz Media
+One Piece (manga) at Anime News Network's encyclopedia
+
+Anime: One Piece (zh)
+Description: 《ONE PIECE》（日语：ONE PIECE／ワンピース；中文譯名：海賊王、航海王），是日本漫畫家尾田榮一郎創作的少年漫畫，自1997年7月22日起在集英社旗下雜誌《週刊少年Jump》連載、同年12月發行第一冊單行本，至今已出版107冊單行本。並在漫畫雜誌《週刊少年Jump》中長期佔據人氣榜的第一名，單行本在日本以外，亦已有30多個國家翻譯版本發行。另外也衍生出諸多衍生作品，包括同名的電視動畫、電影、小說和電子遊戲等周邊媒體產品。
+
+
+== 劇情大綱 ==
+作品以虛構的「大海賊時代」為故事舞台，描述海賊蒙奇·D·路飛想要得到「ONE PIECE」（一個大秘寶）（ワンピース（ひとつなぎの大秘宝））和成為「海賊王」為夢想而出海向「偉大的航道」航行的海洋冒險故事。
+
+
+=== 生存之海 超新星篇 ===
+生存之海 超新星篇為《ONE PIECE》的第一部故事。漫畫：第1—597話，動畫：第1—516集
+
+東海篇（東の海（イーストブルー）編，收錄卷數：第1—12卷，收錄話數：第1—100話，動畫集數：第1—61集）
+蒙奇·D·魯夫童年時受到海賊「紅髮」傑克的啟蒙，自小就立志要成為「海賊王」。魯夫17歲時出海之後，接續遇見海賊獵人羅羅亞·索隆、狙擊手騙人布、航海士娜美、廚師賓什莫克·香吉士並結為夥伴。他們組成草帽海賊團準備進入偉大的航道來到羅格鎮。離開羅格鎮後，魯夫一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入偉大航道，展開下一段冒險。
+阿拉巴斯坦篇（アラバスタ編，收錄卷數：第12—24卷，收錄話數：第101—217話，動畫集數：第62—130集）
+草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織巴洛克華克的阿拉巴斯坦王國公主納菲魯塔莉·薇薇，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及王下七武海『Mr.0』克洛克達爾的陰謀後，魯夫決定幫助薇薇。他們在途中前往島嶼「小花園」與巴洛克華克的部分成員開戰，並在旅途中為了治好在小花園生病的娜美去了磁鼓島並增添一名船醫夥伴多尼多尼·喬巴。
+抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原巴洛克華克副社長妮可·羅賓因失去人生目標，以考古學家的身份加入草帽海賊團。
+空島篇（空島編，收錄卷數：第24—32卷，收錄話數：第217—303話，動畫集數：第144—195集）
+離開阿拉巴斯坦王國之後，草帽海賊團撞見一艘從天而降的大船，同時紀錄指針竟然向上指向天空。對空島產生興趣的魯夫靠著上升海流前往空島。誤入空島統治者「神」艾涅爾的領地，因此草帽海賊團、神的軍團、以及領地原住民「香狄亞」展開激戰，艾涅爾最終被魯夫擊敗，而空島居民和香狄亞一族長達四百年的戰爭也終止。
+DAVY BACK FIGHT篇（デービーバックファイト編，收錄卷數：第32—34卷，收錄話數：第304—321話，動畫集數：第207—228集）
+草帽海賊團遇見專門以「DAVY BACK FIGHT」遊戲搶奪其它海賊團船員的「銀狐」弗克西，喬巴、羅賓（動畫原創）先後被其搶走，兩個海賊團展開爭奪船員的競技比賽。
+水之七島篇（ウォーターセブン編，收錄卷數：第34—39卷，收錄話數：第322—374話，動畫集數：第229—263集）
+為修繕傷痕累累的前進梅利號，草帽海賊團來到以造船業聞名的水之七島，卻得知梅莉號已經無法修復的消息，騙人布又慘敗給拆船流氓佛朗基。另一方面，羅賓遇見政府機關CP9，由於害怕過去發生在自己故鄉的悲劇在草帽海賊團上重演，因此自願被CP9給帶走。而騙人布又因不滿魯夫報廢梅利號的決定而決定離開，草帽海賊團陷入分崩離析的危機。
+艾尼愛斯大廳篇（エニエス・ロビー編，收錄卷數：第39—46卷，收錄話數：第375—441話，動畫集數：第264—325集）
+草帽海賊團前往司法島救回羅賓，與世界政府底下的CP9部隊全面對決，最後救回羅賓，騙人布也回到團裡。魯夫等人以火葬儀式為大限已至的梅利號送行，而佛朗基用當初偷來的二億貝里建造一艘新船千陽號繼續出海冒險，而佛朗基也以船匠的身分加入海賊團。
+恐怖三桅帆船篇（スリラーバーク編，收錄卷數：第46—50卷，收錄話數：第442—490話，動畫集數：第337—381集）
+草帽海賊團踏入魔幻的三桅帆船地帶，遇見神秘的骷髏人布魯克，並進入王下七武海月光·摩利亞所佈下的陷阱。最後魯夫擊敗了摩利亞，布魯克也以音樂家的身分加入草帽海賊團。
+夏波帝諸島篇（シャボンディ諸島編，收錄卷數：第50—53卷，收錄話數：第491—513話，動畫集數：第385—405集）
+草帽海賊團進入偉大航道前半段的最末端夏波帝諸島卻和世界貴族天龍人起些衝突，之後他們遇到海軍上將黃猿、戰桃丸以及和平主義者的圍捕，最後巴索羅繆·大熊利用果實能力幫助草帽海賊團逃脫把各個船員傳送至不同島嶼。
+女人島亞馬遜百合篇（女ヶ島アマゾン・リリー編，收錄卷數：第53—54卷；收錄話數，第514—524話，動畫集數：第408—421集）
+被擊飛至亞馬遜百合的魯夫遇見王下七武海的「海賊女帝」波雅·漢考克，被女帝俘虏后又释放，得知自己的兄長「火拳」波特卡斯·D·艾斯要被處決的消息，便請漢考克將自己偷渡至海底大監獄「推進城」救回兄長艾斯。
+大監獄推進城篇（大監獄インペルダウン編，收錄卷數：第54—56卷，收錄話數：第525—549話，動畫集數：第422—458集）
+魯夫在推進城遇見過去的敵人（「小丑」巴其、以及前巴洛克華克的四位成員）及王下七武海的「海俠」吉貝爾，眾人為達成各自目的分別先後集結組成聯盟後展開越獄行動，最後魯夫來到處刑的場所海軍本部馬林福特。
+馬林福特頂上戰爭篇（マリンフォード頂上戦争編，收錄卷數：第56—61卷，收錄話數：第550—597話，動畫集數：第459—516集）
+魯夫及越獄同伴、白鬍子海賊團、海軍、王下七武海等多方勢力展開了「頂上戰爭」。戰爭最後由「紅髮」傑克出面調停而收場，但遺憾的是艾斯和白鬍子皆殞命於戰場。痛失哥哥艾斯並深感自身實力需要變得更強的魯夫在戰爭結束後，他在「冥王」雷利的建議下給夥伴留下訊息，各自展開為期兩年的修行之旅。
+
+
+=== 最後之海 新世界篇 ===
+最後之海 新世界篇為《ONE PIECE》的第二部故事。漫畫：第598話—至今，動畫：第517集—至今。
+
+魚人島篇（魚人島編，收錄卷數：第61—66卷，收錄話數：第598—653話，動畫集數：第517—578集）
+歷經兩年修行後在夏波帝諸島重逢後的草帽海賊團為了前往新世界，而出發邁向位於海底一萬公尺以下處的「魚人島」。他們遇到吉貝爾並得知魚人島的悲傷歷史，原本魚人島繼承已故王妃的想法、漸漸地接近與人類和平共處的理想，但是由荷帝·瓊斯所率領的新魚人海賊團卻粉碎這個理念企圖攻擊掌控魚人島藉此侵占陸地。草帽海賊團挺身阻止荷帝所率領的「新魚人海賊團」並與白星公主為首的魚人與人類之間開始建立新的羈絆。
+龐克哈薩特篇（パンクハザード編，收錄卷數：第66—70卷，收錄話數：第654—699話，動畫集數：第579—628集）
+草帽海賊團與新任王下七武海托拉法爾加·D·瓦特爾·羅相遇，魯夫接受羅的提議組成「海賊同盟」，目標是「四皇」之一的「百獸」海道。他們靠著這強力的同盟來對抗在龐克哈薩特製造人工惡魔果實的凱薩·克勞恩。
+多雷斯羅薩篇（ドレスローザ編，收錄卷數：第70—80卷，收錄話數：第700—801話，動畫集數：第629—750集）
+草帽海賊團和羅潛入到唐吉訶德·多佛朗明哥治理下的王國「多雷斯羅薩」與多佛朗明哥旗下人馬展開對決，期間與革命軍參謀總長兼魯夫的義兄薩波重逢，在擊敗多佛朗明哥後，多佛朗明哥在多雷斯羅薩所實施的「統治」就此結束。而作為檯面下引路人的多佛朗明哥的垮台也使得世界局勢開始出現大幅度的變化。
+佐烏篇（ゾウ編，收錄卷數：第80—82卷，收錄話數：第802—822話，動畫集數：第751—779集）
+魯夫等人前往佐烏與娜美等人會合，但此國家卻已呈現潰滅狀態，同時意外發現香吉士出身為殺手家族「杰尔马66」。魯夫一行人為了阻止香吉士結婚正在思考救回他的方法時，意外得知和之國光月一族的秘密，魯夫等人得知這件驚人事實於是將下一個擊倒的目標鎖定為四皇「百獸」海道。魯夫、索隆與和之國光月一族及佐烏的住民為各自的目的分組團隊。
+圓蛋糕島篇（ホールケーキアイランド編，收錄卷數：第82—90卷，收錄話數：第823—902話，動畫集數：第783—877集）
+魯夫團隊前往四皇「BIG MOM」夏洛特·莉莉所在的「萬國」圓蛋糕島準備找回要結婚的香吉士。魯夫等人理解香吉士與家族聯姻的真正理由再度和吉貝爾相會，並與想要暗殺BIG MOM的火戰車海賊團組成暫時聯盟，成功破壞雙方聯姻婚禮，救出香吉士和其家族杰爾馬66。吉貝爾為實踐理念正式宣布退出BIG MOM旗下與辭別太陽海賊團，以掌舵手的身分加入草帽海賊團。在一行人達成目的後逃出BIG MOM的領地，期間魯夫與BIG MOM海賊團的夏洛特·卡塔克利展開激烈對決在最後的對決中獲勝。
+世界會議篇（世界会議（レヴェリー）編，收錄卷數：第90卷；收錄話數：第903—908話，動畫集數：第878—891集）
+世界政府加盟國裡作為代表的五十個國家，再度前往「聖地」馬力喬亞召開每四年一次的世界會議，商討世界大局政策。
+和之國篇（ワノ国編，收錄卷數：第90卷—105卷，收錄話數：第909—1059話，動畫集數：第892—1088集）
+索隆等人按錦衛門的要求偽裝成和之國國民。另一方面魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。然而魯夫為了保護碰巧認識的玉兒攻擊海道的部下受到追捕。之後魯夫與錦衛門等人會合得知和桃之助他們其實是從二十年前的和之國「穿越時空來到現在」，為了實現光月家御田的遺願，決定在兩個禮拜後火祭神樂之日攻進統治和之國的海道所居住的「鬼島」討伐「百獸」海道、黑炭大蛇以及受到恥辱而趕過來復仇的「BIG MOM」夏洛特·莉莉為目標展開戰鬥。在海道、夏洛特·莉莉、黑炭大蛇等人倒台後，桃之助被擁立為和之國新任領導者，著手改革重建國家，和之國與魯夫等人建立新的羈絆。
+未來島蛋頭篇（未来島エッグヘッド編，收錄卷數：第105卷—至今，收錄話數：第1060—1125話，動畫集數：第1089集—至今）
+草帽海賊團來到「天才科學家」Dr.貝卡帕庫所在的島嶼「未來島」蛋頭，並與珠寶·波妮相遇，在知道貝卡帕庫對「空白的一百年」的研究後，世界政府派遣「CP0」暗殺貝卡帕庫，隨著各方勢力的背叛及陰謀，政府出動海軍包圍消滅該座島嶼。直到世界政府最高權力「五老星」親自出馬。貝卡帕庫本體被殺害之時，向全世界啟動影像重播和廣播並公開了「空白的一百年」殘酷真相。
+艾爾帕布篇（エルバフ編，收錄話數：第1126話—至今）
+草帽海賊團在巨兵海賊團的幫助下成功逃離蛋頭，往艾爾帕布的方向航行並一起開宴會，在眾人喝醉的航行途中，以魯夫為首的6名船員和千陽號突然失蹤。
+
+
+== 登場角色 ==
+
+隨著劇情的發展，除了主要角色草帽海賊團，尚有許多海賊、海軍、革命軍和世界政府等各勢力其他角色登場之中。本作品的角色命名相當多元，部分來自歷史上的知名海盜，在角色设计上，也融入其原型人物的些许特色。
+
+
+== 用語設定 ==
+
+本作的世界觀舞台是由世界各地的加盟國與所組成的國際組織「世界政府」所共同管理。然而，由於「海賊王」哥爾·D·羅傑被執行死刑後迎來了“大海賊時代”，結果海賊們於世界各地擴展權力，並直接與直屬世界政府的海軍作戰。本作是以島上的國家為單位，也有的島嶼只有村子、城鎮存在，大部分主要国家加入世界政府联盟，并支持海军讨伐海贼。
+至於生活方式和科學技術，基本上是以現實世界海賊的「黃金時代」（17世紀到18世紀）為藍本，但是與現實世界而言還是擁有很大的差別，以作品中世界固有的獨特設定（例如：偉大航道、紅土大陸和電話蟲等）。惡魔果實服用後會依不同的果實而對應獲得不可思議的特殊能力，許多角色因其能力都擁有了超人般的戰鬥力。有著「海王類」這樣的特殊生物，還有像巨人族、魚人族、小人族和毛皮族等這樣的種族，也有超過許多普通人的身高2公尺以上的人類。
+以船長蒙其·D·路飞為首和他的伙伴組成草帽海賊團，但他們並不會對一般民眾進行掠奪（主要是從所有者不明或同為海賊的團隊中掠奪）。它們主要到每座島上遇到問題與事件，在擊敗敵人後，繼續前往下一座島。敵人大多是以海賊為主，但有些海賊會與世界政府勾結或直接隸屬於他們，也因此會與世界政府（主要是海軍）和國家的王的公權力進行挑戰並鬥爭。
+
+
+== 創作背景 ==
+尾田榮一郎在作為漫畫家和月伸宏（代表作《浪客剑心》）的助手時，於1996年開始創作海賊漫畫。它以兩部作品名為《ROMANCE DAWN》的單篇故事開始，後來被用作《ONE PIECE》第一話和第一卷的標題。故事中主角以路飛的性格為特色，並且包括以後正篇將出現主要元素。第一部短篇發表在1996年的赤丸Jump，後收錄在官方書籍『ONE PIECE RED 絕讚的人物特寫』；第二部短篇發表在1996年的《週刊少年Jump》第41期上，後收錄在1998年發行的尾田榮一郎短篇集WANTED!。
+尾田表示，他最初計劃《ONE PIECE》將持續連載五年，並且他已經確定了結局。但是，他發現這比他預期的花費更長的時間。尾田說，結局將是他一開始就決定好的。
+
+
+== 扉頁連載 ==
+短期集中刊頭連載（短期集中表紙連載）
+是在《ONE PIECE》各話開頭刊頭（扉頁）上連載的單頁漫畫，常用來交待一些人物的簡單後續發展。其中一些作品有製作動畫。
+
+
+== 衍生作品 ==
+
+ONE PIECE 草帽劇場（ONE PIECE 麦わら劇場）
+由原作尾田榮一郎繪製，內容是數頁的短篇外傳作品。草帽劇場最初的設定是在第304話「長環長島的冒險」附贈的全彩4格漫畫「海上的音樂會」，後由集英社發行的三本總集篇中「REPORT TIME」刊登。以這部作品為開端，共有5篇被發表被動畫化為「草帽劇場」。除了「喬巴超人（CHOPPER MAN）」外其餘都以「○○TIME」來表示。
+CROSS EPOCH（CROSS EPOCH）
+與《七龍珠》的跨界合作作品，於「週刊少年JUMP」2007年4·5號刊載。
+真正的食物！惡魔果實！（実食! 悪魔の実!!）
+與《美食獵人》的跨界合作作品，於「週刊少年JUMP」2011年17號刊載。
+喬巴超人（チョッパーマン）
+由武井宏文作畫，於月刊《最強Jump》2012年1月號至2014年2月號期間連載，單行本全5卷，短篇及番外篇收錄於另一本單行本。最初起於四格短漫《草帽劇場》中的短篇之一，故事敘述主人翁喬巴超人帶領其助手娜美菲雅粉碎邪惡組織「騙人達巴達團」陰謀的故事。
+ONE PIECE PARTY航海王派對（ワンピースパーティー）
+由安藤英作畫，於月刊《最強Jump》2015年1月號起至2019年11月號刊載。是以Q版風格繪製的番外搞笑漫畫，有著各種平行世界故事。
+ONE PIECE Special Episode 〝Luff〟（ONE PIECE Special Episode 〝Luff〟）
+由原作尾田榮一郎繪製，此篇故事收錄在《ONE PIECE magazine》Vol.1至Vol.3（2017年7月7日、8月4日、9月1日）。故事內容描述了「如果薩波在頂上戰爭中救了艾斯和魯夫，三人再次相聚」以此為展開。
+CHIN PIECE
+由天望良一作畫，於月刊《最強Jump》2018年7月號至2020年5月號期間連載，故事敘述了以崇拜魯夫的男孩為主角的衍生搞笑漫畫。
+航海王談戀愛（恋するワンピース）
+由伊原大貴作畫，於「少年Jump+」和官方網站「ONE PIECE.com」2018年6月18日至2021年11月7日期間連載，故事敘述了與草帽海賊團同名的高中生的衍生搞笑漫畫。
+ONE PIECE 航海王 長得像克比的小日山～撞臉大秘寶～（ONE PIECE コビー似の小日山 〜ウリふたつなぎの大秘宝〜）
+由なかまる作畫，於「少年Jump+」和官方網站「ONE PIECE.com」2018年6月18日至2019年7月1日期間連載，故事敘述了與克比長相一樣的高中生的衍生搞笑漫畫。
+食戟的香吉士（食戟のサンジ）
+由《食戟之靈》作者附田祐斗（故事）、佐伯俊（作畫）繪製的合作作品，以香吉士為主角的短篇故事，於「週刊少年JUMP」2018年34號刊載第1話、2021年5・6合併號刊載第2話、2021年33・34合併號刊載第3話、2021年40號刊載第4話、2022年5・6合併號刊載第5話、2022年34號刊載最終話。
+ONE PIECE COVER COMIC PROJECT
+此為特別企劃，由其他作家繪製《ONE PIECE》作品。
+羅羅亞·索隆，葬身海上（ロロノア・ゾロ、海に散る）
+由Boichi繪製，於「週刊少年JUMP」2019年34號刊載特別短篇，以索隆為主角，重新繪製原作第51話「羅羅亞·索隆葬身海上」。
+薇薇的冒險（ビビの冒険）
+由古味直志繪製，於「週刊少年JUMP」2021年39號刊載特別短篇，以薇薇為主角，重新繪製原作第216話「薇薇的冒險」。
+娜美VS卡莉法（ナミvsカリファ）
+由Boichi繪製，於『ONE PIECE magazine』Vol.14刊載特別短篇，以娜美為主角，重新繪製原作第411話「娜美VS卡莉法」。
+ONE PIECE 航海王學園（ONE PIECE学園）
+由小路壮平作畫，於月刊《最強Jump》2019年9月號開始連載，故事敘述了以「新世界學校」為背景的衍生漫畫。
+ONE PIECE 航海王 episode A 艾斯外傳（ONE PIECE episode A（ワンピース エピソード エース））
+小說《ONE PIECE novel A》的漫畫版。由Boichi繪製，於《ONE PIECE magazine》Vol.10至Vol.13（2021年12月2日）連載。
+
+
+== 出版書籍 ==
+
+
+=== 單行本 ===
+
+單行本除了收錄漫畫的主要內容，還附錄單行本專欄「SBS（問題募集中）」、「騙人布畫廊海賊團」。
+
+SBS（問題募集中）（SBS（質問を募集するのだ））
+從第4卷開始的專欄，是作者尾田在單行本上和讀者的詢問專欄。尾田會從讀者的來信中挑出一些問題來回答，有趣味性的、也有設定方面的，每一卷尾田都會在這裡對海賊王做一些解密，以及用幽默的口吻回答讀者的問題。另外，部份角色的相關資訊如生日，也會以SBS的讀者回信為基礎。SBS通常會在單行本的單話之間出現，果是下一話為跨頁的刊頭彩頁，通常不會有SBS。
+騙人布畫廊海賊團（ウソップギャラリー海賊団）
+從第5卷開始的專欄，是在單行本末尾會放讀者們投稿的插圖專欄。每卷會挑出最優秀作品的讀者，並贈送簽名板。因投稿作品過多，從第73卷開始，於官網「ONE PIECE.com」公開投稿作品。
+
+
+=== 公式書 ===
+
+VIVRE CARD～ONE PIECE航海王圖鑑～（VIVRE CARD～ONE PIECE図鑑～）
+航海王圖鑑卡片，裡面有故事中所有角色的個人基本資料、介紹、過去經歷以及作者的設定稿等等。
+
+
+=== 畫集 ===
+ONEPIECE尾田榮一郎畫集COLOR WALK（尾田栄一郎畫集 ONE PIECE COLOR WALK）
+原作：尾田榮一郎。目前出版共八卷，日本由集英社發行，台灣由東立出版社發行。
+
+航海王電影版「強者天下」設定畫集（ONE PIECE FILM STRONG WORLD EIICHIRO ODA ARTBOOK）
+
+
+=== 特刊 ===
+ONE PIECE 航海王特刊（ONE PIECE magazine）
+原作：尾田榮一郎，編輯：V‧JUMP編輯部。
+本系列書籍為連載20周年超特別企劃書本，收錄了對魯夫和艾斯的評價，艾斯成名前的經歷小說和海兵觀點的頂點戰爭小說，以及艾斯薩波魯夫三兄弟的繪本，航海王粉絲的日常漫畫，介紹尾田仔的短篇漫畫，現實中的海盜介紹和故事中的惡魔果實介紹，專訪尾田榮一郎以及公開原稿設定圖等。2018年起改為季度性刊物。
+
+
+=== 小說 ===
+電影小說化系列（含動畫小說化）
+由濱崎達也執筆，主要改編自尾田榮一郎《ONE PIECE》電影版和動畫原創的故事將其小說化，目前已出版18冊。
+日本由集英社（JUMP j-BOOKS）發行；台灣由東立出版社發行；中國由上海譯文出版社出版。
+
+文庫版
+
+ONE PIECE novel 草帽故事集（ONE PIECE novel 麥わらストーリーズ）
+尾田榮一郎原作、大崎知仁執筆。（JUMP j-BOOKS）
+最初於「ONE PIECE magazine」連載，後發行書籍版（全一卷）。故事內容是以草帽海賊團成員的故事的外傳小說，描述一般人的角度來看待草帽海賊團成員們的短篇故事（共9篇）。
+
+ONE PIECE novel A（ONE PIECE novel A（エース））
+由ひなたしょう（第一卷）、浜崎達也（第二卷）執筆、尾田榮一郎原作。最初於「ONE PIECE magazine」連載，另外前三章由寺田克也 (第1章)、西村絹(第2章)、高橋和哉(第3章)等人插畫。後發行單行本（全2卷、JUMP j-BOOKS）。
+故事內容是以波特卡斯·D·艾斯為主軸的外傳小說，描述艾斯在原作裡沒出現的劇情、他最初的夥伴以及如何獲得火焰果實的能力的故事。
+
+ONE PIECE novel LAW（ONE PIECE novel LAW）
+由坂上秋成執筆、尾田榮一郎原作。最初於「ONE PIECE magazine」Vol.4至Vol.7連載，後發行單行本（全1卷、JUMP j-BOOKS）。
+故事內容是以特拉法爾嘉·羅為主軸的外傳小說，描述羅在結立哈特海賊團前過去的故事。
+
+
+=== 繪本 ===
+ONE PIECE海賊王繪本：光與暗 魯夫與艾斯與薩波的物語（ONE PIECE picture book 光と闇と ルフィとエースとサボの物語）
+原作：尾田榮一郎，繪本：長田真作。全1卷。
+最初於「ONE PIECE magazine」連載，以繪本形式描述魯夫與艾斯與薩波這個永遠三兄弟的組合的故事。
+
+
+=== 電影漫畫 ===
+
+
+=== 相關書籍 ===
+航海王動畫完全解說手冊（ONE PIECE オフィシャルアニメーションGUIDE）
+原作：尾田榮一郎。全2冊。中文版未代理。（JUMP COMICS）
+
+ONE PIECE STRONG WORDS 航海王經典名言集（ONE PIECE STRONG WORDS）
+原作：尾田榮一郎，解說：内田樹。目前已出版3冊。（集英社新書）
+本系列書籍收錄這是一本以ONE PIECE故事裡的各個角色們曾經說過的各種經典台詞所組成的名言集。諸如魯夫出發航海第一天所說的第一句話，到艾斯死後，他懊悔萬分的一句話，分為各種主題的各主題包括「冒險」、「英雄」、「枷鎖」、「未來」、「超越」等經典名言都收錄在本系列書籍。
+
+文庫版
+
+航海王 海賊造型便當BOOK（ONE PIECE 海賊キャラ弁当BOOK）
+原作：尾田榮一郎。全1冊。中文版未代理。（FLOWER&BEE BOOK）
+
+航海王海賊食譜 海的一流料理人 香吉士的滿腹餐點（ONE PIECE PIRATE RECIPES 海の一流料理人 サンジの満腹ごはん）
+作者：SANJI。全1冊。
+本書是由大廚香吉士親自撰寫的食譜，裡面包含了帶骨肉、水水白菜、海王類筆管麵等四十道航海王漫畫中出現過的料理，重現了漫畫中美味的名場面！不用擔心沒有航海王世界中的食材可以料理，本書中的食譜已經用我們世界上的食材代替了，但是味道可是一樣的美味！
+
+航海王500問答手冊（ONE PIECE 500 QUIZ BOOK）
+原作：尾田榮一郎，編輯：V‧JUMP編輯部。目前已出版2冊。（JUMP COMICS）
+本系列書籍收錄了除了草帽一行九個人之外，還包括七武海、海軍、世界政府、革命軍、四皇、甚至於其他也同樣很有魅力的海賊們，以及故事內出現過的能力、道具、生物等等，許多只有「航海王」專家才知道答案的問題，而且解答旁邊還附有詳細的說明。
+
+航海王 最佳“流淚”篇章（ファンが選ぶONE PIECE〝涙〟ベスト10!! 〜サバイバルの海 超新星編〜）
+原作：尾田榮一郎。全2冊。中文版未代理。
+
+ONE PIECE LUCKY 77航海王 明信片＆便條紙收藏組（ONE PIECE ラッキー77 ポストカード&おえかきメモセット）
+原作：尾田榮一郎，編輯：V‧JUMP編輯部。全1冊（JUMP COMICS）
+
+ONE PIECE FILM GOLD オフィシャルムービーガイド BACKSTAGE PASS
+紀念電影上映的雜誌書（集英社ムック）
+
+用原子筆就能畫出來!ONE PIECE 航海王 輕鬆上手繪畫教學（ボールペンで描ける！ONE PIECE かんたんイラストガイド）
+原作：尾田榮一郎，繪畫：藤澤実佳。全1冊平裝書。
+收錄ONE PIECE故事裡面的草帽一行人和許多大人物們的Ｑ版小插圖繪畫步驟，教你如何用一支原子筆就畫出航海王Ｑ版小人物。
+
+ONE PIECE勝利學（ONE PIECE勝利学）
+作者：山田 吉彦
+
+向『航海王』學習成立最強工作團隊的方法（『ONE PIECE』に学ぶ最強ビジネスチームの作り方）
+作者：山内康裕 / 週刊少年Jump編輯部 (監修)
+
+ONE PIECE DOORS! 航海王扉頁大全（ONE PIECE DOORS!）
+是將短期集中刊頭連載的故事整合單行本收錄至此。目前已出版3冊，日本由集英社發行，台灣由東立出版社代理，香港由天下出版發行。中国大陆则由浙江人民美术出版社出版。
+
+
+== 改編作品 ==
+
+
+=== 電視動畫 ===
+
+由日本電視動畫東映動畫製作，從1999年10月20日開始於日本富士電視台播出，至今仍然播出，也是東映動畫製作動畫作品中時間最長的作品。2012年至2018年間，開始電視動畫特別篇計畫，於每年夏季和冬季「週六PREMIUM」時段播放。2019年10月20日，為紀念動畫播放20週年而製作特別篇《ROMANCE DAWN》，於第907話中插播此特別篇。
+2011年至2012年間，製作跨作品的電視動畫特別篇《美食獵人 & ONE PIECE 合作特別篇》，分別於第492話及第542話中插播。2013年，更是延續《美食獵人&ONE PIECE》的故事，製作三部跨作品的電視動畫特別篇《美食獵人 & ONE PIECE & 七龍珠Z 超夢幻合作特別篇！！》，於第590話中插播此特別篇。
+由於受「2019冠状病毒病疫情」对东京都乃至全日本的影响，本作第930話及其之後話數的播出時間被迫延期，复播日期為2020年6月28日。
+
+
+=== 網路動畫 ===
+
+2023年12月17日，在「Jump Festa 2024」活動上宣布《ONE PIECE》將製作全新動畫系列《THE ONE PIECE》，由日本動畫工作室WIT STUDIO製作，從原作漫畫「東方藍篇」第一話開始重製與完全新增內容所組成，預計於Netflix全球獨家上線。
+
+
+=== 動畫電影 ===
+
+由東映製作並發行，至今已上映14部（含一部3D劇場版）。2000年至2008年間，固定於每年的3月檔期上映一部劇場版。之後《航海王電影：強者天下》（2009年）、《航海王電影：Z》（2012年）和《航海王電影：GOLD》（2016年），皆由原作者尾田榮一郎擔任製作總指揮後，掀起傳奇的革命，也不固定每年上映、大約三至四年上映一部劇場版，檔期則分別延至年底和暑期，而《航海王電影：Z》成為當年劇場版系列歷代票房最高電影。而《航海王：奪寶爭霸戰》（2019年）為電視動畫20周年紀念作品，尾田僅擔任監修一職。《航海王劇場版：紅髮歌姬》（2022年）為原作連載25周年紀念作品，尾田擔任製作總指揮，在日本國內獲得高達197.1億日圓的票房成績，打破歷屆《ONE PIECE》劇場動畫與東映發行電影的票房紀錄，成為票房最高的《ONE PIECE》劇場版動畫。
+
+
+=== 電子遊戲 ===
+
+
+=== 舞台秀 ===
+ONE PIECE PREMIER SHOW（ワンピース・プレミア・サマー）
+於2012年起在日本環球影城（USJ）每年夏季期間限定舉辦的真人舞台秀。有著極具壓倒性臨場感的逼真現場表演，可盡情投入逼真的『海賊王』世界，令你大爲興奮達至忘我境界。
+ONE PIECE LIVE ATTRACTION（ワンピース ライブ アトラクション，航海王現場真人表演秀）
+
+於2015年起在東京鐵塔航海王主題樂園（TOKYO ONE PIECE TOWER）期間限定舉辦的真人舞台秀，是使用了照明技術及光雕投影技術，讓「草帽一行人」無拘無束地在舞台上大展身手，目前總共上演4部作品。
+
+
+=== 歌舞伎 ===
+超級歌舞伎2「ONE PIECE」（スーパー歌舞伎2『ワンピース』）
+於2016年10月7日起至11月25日在東京的新橋演舞場公演。是由集英社與松竹合作的特別企劃，將以原作中的「頂上戰爭」作為主軸，描繪和海軍們對戰而四散的草帽一行人，魯夫聽聞艾斯被宣判處刑後前往搭救，為了拯救艾斯的魯夫和海賊們、還有準備行刑的海軍們於是展開了大戰。
+演員
+
+
+=== 冰上秀 ===
+ONE PIECE ON ICE（ワンピース・オン・アイス〜エピソード・オブ・アラバスタ〜）
+於2023年宣布改編成冰上秀，劇情將表演原作的「阿拉巴斯坦篇」。
+於2023年8月11日至13日於橫濱公演；2023年9月2日至3日於名古屋公演。
+演員（配音員）
+蒙其·D·魯夫：宇野昌磨（田中真弓）
+羅羅亞·索隆：田中刑事（中井和哉）
+娜美：本田望結（岡村明美）
+騙人布：織田信成（山口勝平）
+香吉士：島田高志郎（平田廣明）
+喬巴：渡邊倫果（大谷育江）
+納菲魯塔利·薇薇：本田真凜（渡邊美佐）
+幼年薇薇：星碧波（渡邊美佐）
+克洛克達爾：無良崇人（大友龍三郎）
+Miss·All星期天（妮可·羅賓）：小川真理惠（山口由里子）
+寇沙：友野一希（草尾毅）
+幼年寇沙：（進藤尚美）
+貝爾：𠮷野晃平（野島健兒）
+加卡：橋本誠也（植村喜八郎
+Mr.2·馮·克雷：本鄉理華（矢尾一樹）
+Mr.1：小林宏一（稻田徹）
+Miss·雙手指：中西樹希（橘U子）
+Mr.4：小沼祐太（高塚正也）
+Miss·聖誕節：中野耀司（金月真美）
+跑得快：河野有香（粗忽屋）
+多托：松橋浩幸（辻親八）
+納菲魯塔利·寇布拉：本田宏樹（鄉田穗積）
+神林陽南乃
+松原茜
+望月美玖
+三澤日向子
+浅見琴葉
+竹野比奈
+
+
+=== 網路劇 ===
+
+2017年7月21日，由週刊少年Jump編輯長中野博之宣布製作成網路劇。由Netflix與Tomorrow Studios共同參與製作。該劇集由尾田榮一郎、馬蒂·安德爾斯坦與貝基·克萊門茨共同擔任製作人。另外由史蒂芬·前田擔任節目統籌，以及麥特·歐文斯擔任執行製作人兼編劇。
+正式宣佈主體拍攝於2022年1月31日開始進行，並於2022年8月22日完成拍攝，於2023年8月31日上線Netflix。
+
+
+== 迴響 ==
+
+
+=== 銷售 ===
+截至2005年2月，單行本第36卷發售後，在日本累計單行本總發行量已經突破1億冊。2010年11月，單行本第60卷發售後，在日本累計總發行量已經突破2億冊。2013年11月，單行本第72卷發售後，在日本累計總發行量已經突破3億冊。2019年3月，目前全世界累計總發行量已經突破4億5000萬冊（日本占3億9000萬冊）。2020年3月，官方公布單行本第96卷發售前銷售量累計已突破4億7000萬冊。
+2010年3月，單行本第57卷發售後，在日本單卷發行量達到初版300萬冊。2011年11月，單行本第64卷發售後，在日本單卷發行量達到初版400萬冊。2012年8月，單行本第64卷發售後，在日本單卷發行量達到初版405萬冊，成為目前為止的最高紀錄。
+2015年6月15日，尾田榮一郎以本作品發行量打破世界紀錄，獲得獲頒「單一作者創作發行量最多的漫畫」的金氏世界紀錄，尾田榮一郎獲得這獎項因此還畫了張魯夫拿著金氏世界紀錄的證書。
+截至2022年8月，漫畫的累積發行量（全世界）已達5.1億冊。
+
+
+=== 榮譽 ===
+從2000年到2002年，《ONE PIECE》漫畫連續三次入圍手塚治虫文化獎的決賽，在前兩年中獲得了最多的粉絲提名。在2008年Oricon的一項民意測驗中，日本青少年將其評為最有趣的漫畫。2012年，獲得第41屆日本漫畫家協會獎大獎。《One Piece》常年作为《少年Jump》的最畅销漫画，一直处于当家花旦位置。
+
+
+== 活動 ==
+從2010年起，陸續與許多個公司實施合作，並在日本全國各地舉辦各種活動，也逐漸拓展在日本以外地區（兩岸三地和歐美地區等）舉辦相關活動。
+
+
+=== 紀念館 ===
+航海王 樂園紀念館（ONE PIECE メモリアルログ）
+
+
+=== 展覽會 ===
+航海王展（ONE PIECE展）是為了記念《ONE PIECE》連載2012年已達成15周年、由原作者尾田栄一郎監修的展覽會，以《原畫X映像X體感ONE PIECE》為主題。
+
+
+=== 草帽專賣店 ===
+草帽專賣店（ONE PIECE 麦わらストア）是於2012年9月開放的官方商品專門店。在2014年3月的台灣台北市西門町開設姊妹店，並正式命名為「台灣航海王專賣店」；2015年的大阪（阿倍野藉口商城）·名古屋（近鐵百貨名古屋店）·福岡（福岡Parco）3個城市開設姊妹店。
+
+
+=== 其他 ===
+東京鐵塔航海王主題樂園（東京ワンピースタワー，TOKYO ONE PIECE TOWER）
+於2015年3月13日開始在東京鐵塔開辦的大型主題公園。公園內有許多設施，如每個角色主題的景點和商店/餐廳。
+航海王 × Team Lab（ワンピース×チームラボ『ワンピース〜デジタルアー島の冒険〜』）
+活動期間為2015年7月18日至8月31日，在「お台場夢大陸〜 ドリームメガナツマツリ 〜」在超技師人口隆重舉行與“團隊實驗室”合作。於2016年7月16日至7月31日，在LaLaport Fujimi舉行。
+航海王 路跑 in 沖繩 2016 － 2017（ONE PIECE RUN in 沖繩2016 － 2017）
+活動期間為2016年3月20日，在沖繩縣北谷町舉辦的路跑活動。最初是2015年5月在台灣舉行的反向企劃。
+官方網站：ONE PIECE RUN in 沖繩（页面存档备份，存于互联网档案馆）（日語）
+航海王 Village in 琉球村（ONE PIECE Village in 琉球村）
+活動期間為2016年4月29日至8月31日，在沖繩縣恩納村「琉球村」舉辦展覽。展示篇章為「推進城〜頂上戰爭篇」。
+尾田栄一郎監修 Hello, 航海王 〜魯夫來到小鎮！〜（尾田栄一郎監修 Hello, ONE PIECE 〜ルフィが町にやってくる!〜）
+活動期間為2017年8月26日至10月18日，在馬來西亞·吉隆坡的伊勢丹舉辦的企畫展覽會。後來於2018年4月28日至5月13日在日本國內的札幌市舉辦。
+航海王20th × KYOTO 京都草帽一夥道中記～另一個和之國～（ONE PIECE 20th × KYOTO 京都 麦わら道中記〜もうひとつのワノ国〜）
+活動期間為2017年10月7日至10月22日，本次是《ONE PIECE》連載20週年與日本京都市合作的紀念特展，並推出「ONE PIECE ART NUE 大覺寺《魔獸與公主與誓言之花》」，近日並公開了將展出的日本畫一部分，由原作漫畫家尾田榮一郎所繪製的角色設定圖。
+這是「京都草帽一夥道中記～另一個和之國～」的特別篇故事，將以大覺寺作為舞台來設計整個展覽的故事。除此之外，還有《ONE PIECE》與日本畫的合作，以水墨畫、繪卷等各種創作方式來呈現《航海王》的世界。
+官方網站：航海王20th × KYOTO 京都草帽一夥道中記～另一個和之國～（页面存档备份，存于互联网档案馆）（日語）
+航海王戲劇舞台 THE METAL ～追憶的馬林福特～（ONE PIECE ドラマティックステージ THE METAL 〜追憶のマリンフォード〜）
+活動期間為2018年1月20日至2月25日（全90場公演），在劇場「DMM VR THEATER」上演，以全3D全息投影技術為應用方式來呈現出《ONE PIECE》世界。本次故事為原創的劇本，並有新的惡魔果實能力者登場。
+官方網站：航海王戲劇舞台 THE METAL ～追憶的馬林福特～（日語）
+航海王音宴 ～東海篇～（ワンピース音宴 イーストブルー編）
+活動期間為2018年8月12日至9月2日（全28場公演），在東京國際論壇大樓上演全球首場的「Brass Entertainment」，以音樂和表演合為一體的新奇表演藝術體現方式來呈現出《ONE PIECE》世界。「Brass Entertainment」指以銅管樂器和敲擊樂器為中心，樂隊成員會在台上邊奏邊跳，提供視聽的雙重享受。本次活動表演的是「東海篇」。
+官方網站：航海王音宴 ～東海篇～（页面存档备份，存于互联网档案馆）（日語）
+
+
+== 爭議 ==
+《ONE PIECE》作品譯名版權糾紛：臺灣大然文化最先標得《海賊王》漫畫版權，後因經營不善而倒閉，由其他公司陸續接手，但大然文化不願釋出譯名版權（需付新台幣800萬），導致接手公司只好改名為與內容不符的名稱《航海王》。被眾多讀者視為不尊重作者的本意。中國大陆在臺灣之後拿到版權，有消息稱日方要求兩岸三地統一譯名，亦也採用名稱《航海王》。
+動畫角色抽煙畫面：由于漫画中角色出现大量抽烟、抽雪茄镜头而被评上「烟灰缸」漫画奖。与此同时，动画版（尤其是海外播出版）对抽烟镜头进行过模糊处理，其中之一角色斯摩格更被更改設定為口吐白霧。
+單行本漫畫摺頁內容：單行本第89冊日文版封面摺頁的卷首语，被指出嘲諷横井軍曹，出現爭議，对此集英社发表公告，表示“出现了欠缺考虑的发言，编辑部和作者对此反省。”。因而在后续多个版本中刪去卷首语，摺頁為空白。之后在新批次的单行本中更换了全新的卷首语。
+
+
+== 參考資料 ==
+
+
+== 外部連結 ==
+
+ONE PIECE.com （页面存档备份，存于互联网档案馆） - 尾田栄一郎公認ポータルサイト
+ONE PIECE.com的X（前Twitter）账号
+ONE PIECE スタッフ【公式】的X（前Twitter）账号
+YouTube上的ONE PIECE頻道
+
+Anime: Attack on Titan (en)
 Description: Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. 'The Advancing Giant') is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity is forced to live in cities surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans; the story follows Eren Yeager, who vows to exterminate the Titans after they bring about the destruction of his hometown and the death of his mother. It was serialized in Kodansha's monthly magazine Bessatsu Shōnen Magazine from September 2009 to April 2021, with its chapters collected in 34 tankōbon volumes.
 An anime television series was produced by Wit Studio (seasons 1–3) and MAPPA (season 4). A 25-episode first season was broadcast from April to September 2013, followed by a 12-episode second season broadcast from April to June 2017. A 22-episode third season was broadcast in two parts, with the first 12 episodes airing from July to October 2018 and the last 10 episodes airing from April to July 2019. A fourth and final season premiered in December 2020, airing 16 episodes in its first part. A second part consisting of 12 episodes aired from January to April 2022, and the third and fourth parts aired in two specials; the first premiered in March 2023, and the second premiered in November 2023.
 Attack on Titan has become a critical and commercial success. By November 2023, the manga had over 140 million copies in circulation, making it one of the best-selling manga series of all time. It has won several awards, including the Kodansha Manga Award, the Attilio Micheluzzi Award, and the Harvey Award.
@@ -251,5 +1388,230 @@ Official manga website (in Japanese)
 Attack on Titan at Kodansha Comics
 Attack on Titan at The Encyclopedia of Science Fiction
 Attack on Titan (manga) at Anime News Network's encyclopedia
-Main Characters: Eren Yeager, Mikasa Ackerman, Armin Arlert, Levi Ackerman
+
+Anime: Attack on Titan (zh)
+Description: 《進擊的巨人》（日语：進撃の巨人）是日本漫畫家諫山創創作的漫畫作品。漫画于2009年9月至2021年4月间在講談社《别册少年Magazine》上連載，單行本全34卷。故事建立在人類與巨人之間的衝突，人類居住在由高牆包圍的城市，對抗牆外會吃人的巨人，並尋找著關於巨人的答案。
+漫畫系列截至2021年6月發行至第34卷，在日本國內累計發行量突破8,600萬冊，在海外則突破1,200萬冊的銷量，實體書和電子書的世界累計發行量破億。本作在商業上獲得巨大的成功，作品被改編成多項衍生作品，其改編動畫讓原作更受矚目，進而在亞洲及歐美取得高人氣。2015榮獲SUGOI JAPAN Award漫畫部門首獎、動畫部門第7名。
+講談社於2018年10月30日正式宣布與華納兄弟影業達成協議，預計將推出好萊塢真人版電影，並由曾執導過電影《小丑回魂》的安德雷斯·馬希提擔任導演。
+
+
+== 故事概要 ==
+
+《進擊的巨人》情節始於一個存在於三堵同心圓形城牆內的文明，當地居民的知識讓他們認為自己是世上僅存的人類文明，並相信在百餘年前，人類遭到會吃人的巨人攻擊後退到了這三堵牆內，並享受了一個世紀的和平。為了對抗巨人，該文明開發出立體機動裝置供軍方使用，該裝置固定於腰間、可供士兵進行三維空間移動。隨著劇情進展，故事也揭露關於巨人的真實歷史及該島以外的其它文明。
+
+希干希納的淪陷
+漫畫：第1卷；動畫：第一季（第1～2集）
+《進擊的巨人》故事圍繞在艾連·葉卡，寄養於他家裡的米卡莎·阿卡曼以及他們的童年玩伴阿爾敏·亞魯雷特的冒險。在保護他們家鄉的瑪利亞之牆被超大型巨人和盔甲巨人摧毀後，艾連見到自己的母親被巨人吃掉，便發誓要殺光所有的巨人。
+托洛斯特區攻防戰
+漫畫：第2～4卷；動畫：第一季（第3～13集）
+艾連與米卡莎和阿爾敏加入訓練兵團，並在五年後畢業。此時巨人再度襲擊靠近第二堵牆的托洛斯特區，在隨後的戰鬥中，艾連發現自己擁有變成巨人的能力，並保衛了該區。這引起調查兵團團長艾爾文的注意，艾爾文藉助其力量奪回瑪利亞之牆，並讓他受里維兵長和漢吉管轄。
+第57回牆外調查 & 史托黑斯區急襲
+漫畫：第5～8卷；動畫：第一季（第14～25集）
+在對希干希納區的調查中，調查兵團受到試圖奪取艾連的女巨人的襲擊，之後他們揭發了該巨人的真實身分是與艾連同期的亞妮，並連帶發現三堵牆內藏有多個巨人，亞妮被捉住後將自己包裹在硬質化結晶中。
+艾連奪還戰
+漫畫：第9～12卷；動畫：第二季（第26～37集）
+牆內突然出現不知從何入侵的大量巨人，以及統帥它們的野獸巨人，當眾人遭到這些巨人襲擊時，調查兵團的尤米爾揭示自己可變身成巨人的能力，並協助擊退其它巨人，而該次行動中，尤米爾的密友克里斯塔自揭皇室身分，並表示自己本名是希絲特莉亞；調查兵團的另外兩位成員，萊納和貝爾托特也表明了自己分別是盔甲巨人和超大型巨人。兩人試圖綁架艾連，但沒有成功，過程中艾連發現自己擁有名為「座標」的能力，可以控制其他巨人，此能力逼得萊納和貝爾托特只能撤離，而尤米爾為了保護希絲特莉亞的安危，也隨兩人一起逃離。
+王政篇
+漫畫：第13～17卷；動畫：第三季（第38～47集）
+艾連和他的朋友加入里維班，而調查兵團則被里維的舅舅肯尼領導的憲兵團視為敵人。在這個處境下，艾連等人也發現變身成巨人後吃掉另一個可變身成巨人的人，則可獲得其能力；他們也得知現任國王只是傀儡，希絲特莉亞和她的父親雷斯是僅存的皇室血脈。雷斯綁架了艾連，試圖獲得他體內的始祖巨人能力，這項能力是艾連的父親古利夏吃掉前任能力持有者芙莉妲·雷斯後、再讓自己被艾連吃掉所轉移給艾連的。雷斯變成巨人後失控，並遭到希絲特莉亞殺死，隨後希絲特莉亞宣布自己成為女王，並透過革命清除了原先的勢力。
+瑪利亞之牆奪還戰
+漫畫：第18～22卷；動畫：第三季（第48～59集）
+政治危機解除後，調查兵團奪回希干希納區，但也損失了包括艾爾文在內的大半成員，期間阿爾敏透過吃掉貝爾托特奪取超大型巨人的能力。艾連回到自家地下室，和伙伴一起了解到世界的全貌：他們實際上是艾爾迪亞人，自107年前的巨人大戰中落敗後，牆中之王卡爾·弗利茲便帶著子民逃進帕拉迪島。事實上艾爾迪亞並非世上僅存的文明，只是在一座名為帕拉迪島的孤島上的小國。由於他們是「尤米爾的子民」，可以透過注射特殊的脊髓液來變成巨人，因此他們持續遭到瑪雷人的壓迫。調查兵團殺死在帕拉迪島上遊盪的巨人後，全面控制了該島。
+瑪雷篇
+漫畫：第23～26卷；動畫：最終季（第60～68集）
+三年後，調查兵團襲擊瑪雷首都雷貝里歐，這歸功於艾連和他的異母哥哥吉克決定聯手，吉克是野獸巨人的擁有者。艾連在襲擊中殺死瑪雷的領導者威利·戴巴，並吃下他的妹妹，獲得了戰槌巨人的能力。然而艾連因為違抗命令而遭監禁。
+帕拉迪島分裂篇
+漫畫：第27～29卷；動畫：最終季（第69～80集）
+後來由帕拉迪島士兵組成，被稱為葉卡派的極端派系救出艾連，而吉克則被里維監管，但吉克成功脫逃並重傷里維。另一方面，瑪雷軍隊在萊納的率領下入侵帕拉迪島，戰爭就此爆發，直到艾連和吉克重聚。兩人重聚後抵達了「座標」，這是連結所有「尤米爾的子民」的領域，他們在該處認識了始祖巨人尤米爾的意識，尤米爾飽受折磨的過去使她數千年來被囚禁在座標中。吉克試圖說服尤米爾實現自己的目標：讓尤米爾的子民停止繁衍；而艾連則成功說服尤米爾，讓尤米爾釋放城牆內數千個超大型巨人，並率領那些巨人發動「地鳴」，對帕拉迪島以外的所有人進行種族滅絕。
+地鳴篇
+漫畫：第30～34卷；動畫：最終季（第81～94集）
+為了對抗艾連，調查兵團與殘存的瑪雷部隊結盟，他們殺死了吉克和一個神祕生物（怪誕蟲），該生物是所有巨人能力的根源。最後米卡莎殺死了艾連，讓所有變成巨人的人類恢復正常。艾連死後，阿爾敏憶起自己和艾連在座標裡的最後一次對話，這段對話是在艾連的安排下被遺忘的，直到他死後才會被想起。對話揭示艾連發動地鳴，以及阿爾敏等人殺死艾連後被視為英雄一事都是艾連的計畫。三年後，隨著帕拉迪島和其他國家重建，阿爾敏和伙伴們在希絲特莉亞女王的領導下展開和平談判。米卡莎將艾連的首級埋在樹下，該樹後來長成一棵類似於賦予始祖尤米爾巨人能力的生物所居住的樹。故事在米卡莎年老逝世後的某個時間點結束，結局的畫面是一個男孩接近了那棵樹。
+
+
+== 登場人物 ==
+
+
+== 用語 ==
+
+
+== 製作背景 ==
+諫山創在2013年9月18日的《蘋果日報（香港）》的專訪中，提到關於作品內巨人的構思受到日本成人遊戲《Muv-Luv Alternative》中外星人襲擊地球的故事，以及漫畫《地狱老师》中「食人蒙娜麗莎」的影響。當他談論到部份中韓兩地的讀者和傳媒對《進擊的巨人》作出日本軍國主義思想的過度解讀時，對此感到驚訝，仍溫和地回應說：「雖然這是少年漫畫，但只提出單方面的正義而講故事，就脫離現實變成一篇幻想故事了。我覺得，現實世界不會那麼簡單。」。
+
+
+== 出版書籍 ==
+
+
+=== 單行本 ===
+
+限定版〈Premium KC〉贈品詳細列表
+第7卷：附贈超大型巨人可動模型（海洋堂製作）。
+第8卷：附贈米卡莎「立體機動」鑰匙圈。
+第9卷：附贈里維「立體機動」鑰匙圈。
+第10卷：附贈艾連「立體機動」鑰匙圈。台版附贈日本原裝鑰匙圈。
+第11卷：附贈4張貼紙、2枚「3D明信片」。
+第12卷：附贈原創動畫DVD「伊爾賽的手冊～某調査軍團員的手記～」。
+第13卷：附贈原創動畫DVD「突如其來的訪客～倍受折磨的青春魔咒～」。
+第14卷：附贈原創動畫DVD「困難」。
+第15卷：附贈原創動畫DVD「無悔的選擇～前篇～」。
+第16卷：附贈原創動畫DVD「無悔的選擇～後篇～」。
+第17卷：附贈「關西腔版」漫畫單行本第1卷、9枚透明書籤。
+第18卷：附贈「艾倫聖誕服裝ver.」小黏土人。
+第19卷：附贈明信片52枚、明信片專輯。
+第20卷：附贈「艾倫、里維、米卡莎、艾爾文外傳」小說小冊子。
+第21卷：附贈「里維、艾爾文、麥克、馬可外傳」小說小冊子。
+第22卷：附贈特製牆貼。
+第23卷：附贈「里維圍巾及艾爾文波洛領帶」。
+第24卷：附贈外傳小說《LOST GIRLS》原創動畫DVD。
+第25卷：附贈外傳小說《LOST GIRLS》原創動畫DVD。
+第26卷：附贈外傳小說《LOST GIRLS》原創動畫DVD。
+第27卷：附贈2019年度日曆。
+第28卷：附贈「10周年記念徽章」2個。台版內容物相同，圖樣不同。
+第29、30、31卷：附贈小說小冊子。台版內容物相同。
+第32、33卷：附贈90mm徽章2個。
+第34卷：附贈小冊子，特裝版分為Beginning（1、2話原始分鏡）跟Ending（138、139話原始分鏡）。台版僅代理Beginning。
+進擊的巨人 全彩版（進撃の巨人 Full color edition）、全4冊
+
+
+=== 相關書籍 ===
+官方導讀手冊
+
+其他書籍
+《進擊的巨人 空想科學讀本》（進撃の巨人 空想科学読本）
+作者：柳田 理科雄，2014年8月8日發售，ISBN 978-4-06-377040-7
+《「進擊的巨人」與解剖學 其肌肉是怎麼畫出來》（「進撃の巨人」と解剖学 その筋肉はいかに描かれたか）
+作者：布施 英利，2014年11月21日發售，ISBN 978-4-06-257892-9
+《進擊的英語》（進撃の英語）
+作者：廣政 愁一，2015年4月7日發售，ISBN 978-4-06-219482-2
+《進擊的巨人遊戲書 羅塞之牆死守命令850》（進撃の巨人ゲームブック ウォール・ローゼ死守命令850）
+作者：藤浪 智之，2015年12月9日發售，ISBN 978-4-06-377335-4
+《進擊的巨人遊戲書 將女巨人捕捉起來！》（進撃の巨人ゲームブック 女型巨人を捕獲せよ！）
+作者：藤浪 智之，2016年8月9日發售，ISBN 978-4-06-393003-0
+《進擊的巨人 公式著色本》（進撃の巨人 公式ぬりえブック ATTACK ON TITAN COLORING BOOK）
+編者：講談社、諫山創
+
+《進擊的巨人 特撰！一格大喜利書》（進撃の巨人 特撰！ひとコマ大喜利ブック）
+編者：週刊少年Magazine編集部、諫山創，2018年8月9日發售，ISBN 978-4-06-512330-0
+
+
+== 衍生作品 ==
+進擊的巨人 Before the fall
+
+進擊！巨人中學校
+
+短劇的巨人
+
+進擊的巨人 無悔的選擇
+
+進擊的巨人 隔絕都市的女王
+
+進擊的巨人 LOST GIRLS
+
+進撃の巨人 果てに咲く薔薇
+原作：諫山創／著：紅玉伊月
+日語翻譯及再編自美國瑞秋·亞倫原作同人小說《Garrison Girl: An Attack on Titan Novel》
+
+
+== 電子遊戲 ==
+
+
+=== 手機遊戲 ===
+進擊的巨人
+和原作同名稱的社交遊戲（Social Network Games），2012年4月2日由科樂美數位娛樂經梦宝谷開放給功能型手機用戶使用，是為重現漫畫內容的卡片遊戲。同年12月停運。
+
+進擊的巨人 -反擊之翼-
+2013年4月26日strategyandopatonazu提供GREE配信中的社交遊戲。同年7月5日找來搞笑藝人團體Ungirls的田中卓志擔任電視廣告旁白。
+另外網頁版《進擊的巨人-反擊之翼- Online》於2013年12月24日上線。2015年5月28日營運終止。
+
+進擊的巨人 -自由的咆哮-
+2014年2月7日在iOS、Android平台開始營運，電視廣告由和田アキ子為旁白，、2016年7月29日關閉伺服器。
+
+進擊的巨人 Chain Puzzle Fever
+2017年為コプロ營運的益智游戏。於2017年8月3日在Android、8月15日在iOS正式上線，2019年9月25日關閉伺服器。
+
+進擊的巨人 TACTICS
+2019年4月18日於iOS、Android平台發布，由面白法人KAYAC與DeNA共同製作的戰略角色扮演遊戲。簡稱為「ゲキタク」。2020年8月31日結束營運。
+
+
+=== 單機遊戲 ===
+進擊的巨人〜人類最後之翼〜
+系列首款主機遊戲，平台為任天堂3DS，2013年12月5日推出。2014年12月4日推出強化版「進擊的巨人〜人類最後之翼〜 CHAIN」，平台和前作相同。
+
+進擊的巨人
+和原作同名稱，在PC/PS4/PS3/Xbox One/PSV推出平台遊戲，2016年發售。
+
+進擊的巨人 逃出絕境
+平台為任天堂3DS，2017年5月11日發售，以第57次壁外調查前為故事背景。
+
+進擊的巨人2〜未來的坐標〜
+平台為任天堂3DS，2017年11月30日發售，為人類最後之翼的續作。
+
+進擊的巨人2
+為2016年發售的遊戲《進擊的巨人》的续作，2018年3月15日在PC/PS4/Xbox One/任天堂Switch推出。
+
+
+== 電視動畫 ==
+
+改編動畫於2013年4月6日首播，第一季至第三季由WIT STUDIO製作，第四季兼完結上下篇改由MAPPA製作。至2023年11月5日完結共播出四季。
+
+
+== 電影 ==
+
+
+=== 動畫電影 ===
+
+以電視動畫為基礎的總集篇，並改編部分影像及配樂方式上映。
+
+劇場版『進擊的巨人』 前篇～紅蓮的弓矢～
+電視動畫第1話－第13話總集篇。日本於2014年11月22日上映；香港於2015年2月26日上映；臺灣於2015年2月27日上映。
+劇場版『進擊的巨人』 后篇～自由之翼～
+電視動畫第14話－第25話總集篇。日本於2015年6月27日上映；香港於2015年8月27日上映；臺灣於2015年8月28日上映。
+劇場版『進擊的巨人』Season2～覺醒的咆哮～
+電視動畫第26話－第37話總集篇。日本於2018年1月13日上映；臺灣於2018年3月9日上映；香港於2018年5月17日上映。
+劇場版『進擊的巨人』～編年史～
+電視動畫第1話－第59話總集篇。日本於2020年7月17日上映。
+劇場版『進擊的巨人』完結篇 THE LAST ATTACK
+電視動畫完結篇（前、後篇）總集篇。日本於2024年11月8日上映。
+
+
+=== 真人電影 ===
+
+2011年10月13日，正式確定拍攝真人電影版，並預定於2013年秋天公開上映。兩個月後的12月8日，東寶宣布此片由《下妻物語》、《被嫌弃的松子的一生》的導演中島哲也執導，以及川村元氣和石田雄治兩位製作人擔任製作，此為東寶和諫山創反覆討論所得出來的結果。但2012年12月13日，中島哲也宣布退出導演一職，電影延期。2013年12月，確定由《日本沉沒》的導演樋口真嗣執導，預定2014年夏天開鏡、2015年上映，前後篇兩部預定。諫山創提供此片的劇本及登場人物的相關意見。
+2014年5月至8月於日本長崎的端島（俗稱：軍艦島）、熊本、茨城、TOHO STUDIOS等地方拍攝。
+2015年8月「前篇」上映後，首週票房即達6億日圓，超越同期上映的《HERO》電影版，兩天觀影人次達46萬7000人。
+
+
+== 電視劇 ==
+2015年4月2日公布由石原聰美主演的dTV電視劇《進擊的巨人 反擊的狼煙》，全3集，於4月22日正式發表，8月開始放映。
+
+
+=== 製作與演出人員 ===
+原作：諫山創「進撃の巨人」（別冊少年Magazine連載／講談社）
+總導演：樋口真嗣
+導演：足立公良（第1集），尾上克郎（第2集），西村喜廣（第3集）
+劇本：渡辺雄介
+演出：石原聰美、櫻庭奈奈美、渡部秀、武田梨奈、神尾佑、水崎綾女、平岡祐太
+
+
+=== 主題曲 ===
+「反撃の刃」
+作詞、作曲：町屋，唱：和樂器樂團
+
+
+== 评价 ==
+作爲在日本國内外其中一部最著名的動漫作品，《進擊的巨人》曾罕見地獲得了日本政府的官方評價。在2021年4月漫畫最終回發售后，日本内閣官房長官加藤勝信被記者問及有關感想時表示「《進擊的巨人》是在全世界屢破紀錄的大人氣作品」，並同時表示「以《進擊的巨人》爲代表的日本動漫是我國值得驕傲的文化」、「政府今後也會繼續在知財等方面對動漫產業加强支援」。
+《進擊的巨人》贏得了2011年的講談社漫畫賞少年部門，被提名第四屆漫畫大獎、第十六屆及第十八屆手塚治虫文化獎。2011年全國書店店員推薦漫畫排行第一。在《這本漫畫真厲害！》調查裡，《進擊的巨人》被選為2011年第1佳、2012年第8佳、2013第14佳、2014第6佳的男性向漫畫作品。在2015年讀賣新聞社主辦的SUGOI JAPAN Award「最想向海外介紹的日本流行文化」大獎中，《進擊的巨人》列為熱門漫畫部門的第一名。單是在2013年裡，《進擊的巨人》漫畫銷售量就達1593萬3801冊。依據Oricon公信榜，至2014年4月為止，《進擊的巨人》已賣出三千萬冊。在2014年上半年，它擊敗了盤踞在榜首長達五年之久的《航海王》、成為該期間最受歡迎的作品。諫山對此感到驚訝並感謝讀者愛戴。
+至年底結算時，它是該年度第二暢銷的漫畫，共賣出1172萬8368冊。而在2015年的單年銷售量為877萬8048冊，排行第三名。在2016年的銷售量時654萬4081冊。2012年時，《進擊的巨人》讓過去十八年來在銷售收入持續下滑的漫畫出版商講談社的年度銷售收入獲得增長。而它的動畫也被認為推動了漫畫的銷量，每日新聞更將之譽為「十年一遇」。
+許多評論認為《進擊的巨人》反映了「當今社會中青年人所感受到的絕望」。作家山脇稱之為「以即將成年的男女們為中心所進行的故事」，每集都會有一些新的謎團。漫畫評論家吳智英表示正是這些奧秘擴大了讀者的期待。某些評論家認為漫畫的畫工很粗陋，而諫山也自認自己的畫功是「業餘的」。不過評論家也認為，經過多年連載洗禮後，畫工持續地在改善。而吳智英則認為，如果畫風被「精煉」了，就無法傳達出該作品裡一個關鍵特色：「怪誕」。在作家傑森·湯普森對作品的短評裡，指出角色輕易地獲取「能力提升」的管道導致了劇情的曲折，但結論是這些曲折的情節和末日題材是「十分傑出，不容錯過」。。
+動畫在日本取得佳績，九卷BD/DVD的平均銷售量為5萬2067份，截至2016年8月，總銷量達46萬8603張。它不但是2013年日本電視動畫裡銷量中最好的，也是2014年Funimation上播放率最高的動畫。在「Newtype動畫獎」中，《進擊的巨人》動畫贏得了六項殊榮，包括最佳導演、最佳劇本、最佳配樂、最佳主題曲、最佳女性角色和年度總冠軍，此外還贏得2013年神戶動畫獎最佳電視動畫獎；2014年東京動畫獎年度最佳動畫部門電視部門大獎、最佳導演、最佳劇本、最佳音樂獎；2013年時，贏得日本第十九屆數位媒體年度協會大獎的年度數位內容獎；動畫新聞網的 Carl Kimlinger表示，動畫改編的前兩集極其關鍵，他讚揚這個作品「帶來了如同Fee-fi-fo-fum的恐怖」，不過對後續的內容表示「不是很好的表現」。他批判荒木的做法，表示他「明顯企圖使人感到巨人的強大與令人不安感，但只是透過了粗暴而不愉快的方式」。另一方面，動畫新聞網的其它評論員對這部作品表示讚賞，Rebecca Silverman認為「它的視覺效果華麗且令人震撼，表現出哥德小說家安·拉德克利夫描述的，恐怖與恐怖的絕佳組合：一個是物理上的、讓人想要逃離；一個是精神上的，讓你想要知道接下來的發展」。
+有些評論對故事的末日題材十分讚揚。Carlo Santos在只看了動畫的第一集後，便認為《進擊的巨人》是死亡與毀滅的傑作，指出它「接近完美無缺」；而動畫新聞網的 Theron Martin的評價是「強而有力的第一集」，同時讚揚其配樂，並將之與《大剑》互相比較。
+漫畫於2021年4月9日完結，大結局的评价好壞參半。也有中國網友翻出谏山创过往的访谈、社交媒体的发言，及对作品设定的分析，主观认为谏山创有蔑视读者，及倾向认同右翼和日本军国主义的观点
+
+
+== 参考資料 ==
+
+
+== 外部連結 ==
+
+進撃の巨人 （页面存档备份，存于互联网档案馆） - 官方網站
+進撃の巨人｜作品紹介｜講談社コミックプラス （页面存档备份，存于互联网档案馆） - 作品介紹網頁
 
