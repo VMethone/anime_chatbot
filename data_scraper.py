@@ -1,67 +1,56 @@
 import os
+import json
+from moegirl_scraper import MoegirlWikiScraper  # 导入萌娘百科爬虫
 import wikipediaapi
-from moegirl_crawler import getfrommoegirl  # 确保导入正确
 
-# 确保 `data/` 目录存在
-os.makedirs("data", exist_ok=True)
-DATA_FILE = "data/anime_encyclopedia.txt"
+class AnimeDataFetcher:
+    def __init__(self, language="zh"):
+        self.moegirl_scraper = MoegirlWikiScraper()  # 创建萌娘百科爬虫实例
+        self.wiki_api = wikipediaapi.Wikipedia(
+            language=language,
+            user_agent="AnimeBot/1.0 (https://yourwebsite.com; contact@yourwebsite.com)"
+        )
+        self.data_dir = "anime_data"
+        if not os.path.exists(self.data_dir):
+            os.makedirs(self.data_dir)
 
-# 设置 Wikipedia API
-user_agent = "AnimeRAGBot/1.0 (contact: yixiang.vic@gmail.com)"
-wiki_en = wikipediaapi.Wikipedia(language="en", user_agent=user_agent)
-wiki_zh = wikipediaapi.Wikipedia(language="zh", user_agent=user_agent)
+    def fetch_data(self, anime_name):
+        """先尝试从萌娘百科爬取，失败则改用 Wikipedia"""
+        print(f"🔍 先尝试从萌娘百科获取 {anime_name} ...")
+        anime_data = self.moegirl_scraper.crawl_article(anime_name)
 
-# 目标爬取的动漫列表
-anime_list = ["Naruto", "One Piece", "Attack on Titan", "Eren Yeager", "艾伦·耶格尔"]
+        if not anime_data:
+            print(f"⚠️ 未在萌娘百科找到 {anime_name}，改用 Wikipedia ...")
+            anime_data = self.fetch_from_wikipedia(anime_name)
+        else:
+            print(f"✅ 萌娘百科爬取成功: {anime_name}")
 
-def get_wikipedia_summary(title):
-    """ 获取 Wikipedia 页面摘要 """
-    print(f"正在查找 {title} 的 Wikipedia 页面...")
+        if anime_data:
+            self.save_data(anime_name, anime_data)
+            return anime_data
+        else:
+            print(f"❌ 未能找到 {anime_name} 的相关信息。")
+            return None
 
-    page_en = wiki_en.page(title)
-    en_text = page_en.text if page_en.exists() else None
-
-    page_zh = wiki_zh.page(title)
-    zh_text = page_zh.text if page_zh.exists() else None
-
-    if en_text and zh_text:
-        return f"[English Wikipedia]\n{en_text}\n\n[中文 Wikipedia]\n{zh_text}"
-    elif en_text:
-        return f"[English Wikipedia]\n{en_text}"
-    elif zh_text:
-        return f"[中文 Wikipedia]\n{zh_text}"
-    else:
-        print(f"Wikipedia 未找到 {title}，尝试萌娘百科...")
+    def fetch_from_wikipedia(self, title):
+        """从 Wikipedia 爬取数据"""
+        page = self.wiki_api.page(title)
+        if page.exists():
+            return {
+                "名称": page.title,
+                "来源": page.fullurl,
+                "内容": page.summary
+            }
         return None
 
-def get_moegirl_summary(title):
-    """ 强制爬取萌娘百科 """
-    print(f"尝试从萌娘百科获取 {title} 的数据...")
-    for year in range(2000, 2025):
-        anime_list = getfrommoegirl(year)
-        if anime_list:
-            for anime in anime_list:
-                if title in anime.name:  # 允许部分匹配
-                    print(f"从萌娘百科获取到 {title} 的内容")
-                    return f"[萌娘百科]\n{anime.name} ({anime.ani_type}, {anime.season}季, {anime.country})"
-    print(f"萌娘百科没有找到 {title}")
-    return None
+    def save_data(self, anime_name, data):
+        """保存数据为 JSON 文件"""
+        filename = os.path.join(self.data_dir, f"{anime_name}.json")
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"✅ 结果已保存: {filename}")
 
-# 处理数据
-with open(DATA_FILE, "w", encoding="utf-8") as f:
-    for anime in anime_list:
-        summary = get_wikipedia_summary(anime)
-
-        # **强制爬取萌娘百科，即使 Wikipedia 已找到数据**
-        moe_summary = get_moegirl_summary(anime)
-        if moe_summary:
-            summary = f"{summary}\n\n{moe_summary}" if summary else moe_summary
-
-        if summary:
-            f.write(f"Anime: {anime}\n")
-            f.write(f"Description: {summary}\n\n")
-            print(f"{anime} 已写入文件")
-        else:
-            print(f"无法获取 {anime} 的数据")
-
-print("动漫数据爬取完成")
+if __name__ == "__main__":
+    anime_name = input("📢 请输入要查询的动漫词条: ").strip()
+    fetcher = AnimeDataFetcher()
+    fetcher.fetch_data(anime_name)

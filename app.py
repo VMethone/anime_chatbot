@@ -1,31 +1,15 @@
 import streamlit as st
-from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.llms import Ollama
-import langdetect
+from query_test import query_anime
 
-# 加载 FAISS 和 LLaMA 3
-vector_db = FAISS.load_local(
-    "vector_db",
-    HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"),
-    allow_dangerous_deserialization=True
-)
-llm = Ollama(model="llama3")
+st.set_page_config(page_title="动漫 AI Chatbot", layout="wide")
 
-# Streamlit UI
-st.title("动漫百科 Chatbot")
-st.write("输入你的问题，我会基于 Wikipedia 数据回答！")
+st.title("🎌 动漫百科 AI 🤖")
 
-user_input = st.text_input("请输入问题（支持中英文）")
+# 用户输入
+question = st.text_input("🔎 请输入您的问题:", "")
 
-if user_input:
-    detected_lang = langdetect.detect(user_input)
-    search_results = vector_db.similarity_search(user_input, k=5)
-    context = "\n".join([doc.page_content for doc in search_results])
-
-    if not context.strip():
-        st.write("我不知道。")
-    else:
-        prompt = f"请使用{ '中文' if detected_lang.startswith('zh') else '英文' }回答以下问题，并且只能基于提供的背景知识，不要编造答案。\n\n背景知识：\n{context}\n\n问题：{user_input}\n\n请简洁回答："
-        answer = llm.invoke(prompt)
-        st.write(f"AI 回答：\n{answer}")
+if st.button("提交"):
+    if question:
+        with st.spinner("AI 思考中..."):
+            answer = query_anime(question)
+        st.success(answer)

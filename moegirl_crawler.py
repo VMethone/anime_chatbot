@@ -1,157 +1,151 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from urllib.parse import quote, urljoin
-import re
-import time
-import random
-
-BASE_URL = "https://zh.moegirl.org.cn"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "zh-CN,zh;q=0.9",
-    "Referer": BASE_URL + "/Mainpage",
-    "DNT": "1"
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Accept-Language': 'zh-CN,zh;q=0.9'
 }
 
-def clean_text(text):
-    """增强版文本清理"""
-    text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)  # 移除注释
-    text = re.sub(r'\[\d+\]', '', text)  # 移除引用标记
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text.replace('\u200b', '').replace('\xa0', ' ')
-
-def parse_cell_content(cell):
-    """深度解析单元格内容"""
-    content_parts = []
+def extract_sections(soup):
+    """ 提取章节结构，包括文本、列表、表格（成员 & 真人乐队）"""
+    content = soup.find('div', {'id': 'mw-content-text'})
+    sections = []
+    current_section = None
     
-    # 处理特殊元素
-    for element in cell.descendants:
-        if isinstance(element, str):
-            content_parts.append(element.strip())
-        elif element.name == 'img':
-            alt = element.get('alt', '图片').strip()
-            src = urljoin(BASE_URL, element.get('src', ''))
-            content_parts.append(f"[图片: {alt}]({src})")
-        elif element.name == 'a' and element.get('href'):
-            text = element.text.strip()
-            link = urljoin(BASE_URL, element['href'])
-            content_parts.append(f"{text}（{link}）")
-        elif element.name == 'br':
-            content_parts.append('\n')
-        elif 'heimu' in element.get('class', []):  # 处理黑幕文本
-            content_parts.append(f"||{element.text.strip()}||")
-    
-    # 合并处理结果
-    raw_text = ''.join(content_parts)
-    return clean_text(raw_text)
+    # 解析所有章节
+    for element in content.find_all(['h2', 'h3', 'p', 'ul', 'table', 'div', 'dl']):
+        if element.name in ['h2', 'h3']:
+            # 保存前一个章节
+            if current_section:
+                sections.append(current_section)
+            
+            # 创建新章节
+            title = element.find('span', class_='mw-headline')
+            if title:
+                current_section = {
+                    'level': element.name,
+                    'title': title.get_text(strip=True),
+                    'content': []
+                }
+        elif current_section:
+            # 处理文本段落
+            if element.name == 'p':
+                text = element.get_text(strip=True)
+                if text:
+                    current_section['content'].append({'type': 'paragraph', 'text': text})
+            
+            # 处理无序列表
+            elif element.name == 'ul':
+                items = [li.get_text(strip=True) for li in element.find_all('li')]
+                if items:
+                    current_section['content'].append({'type': 'list', 'items': items})
 
-def parse_infobox(infobox):
-    """完整Infobox解析实现"""
-    anime_data = {}
-    current_headers = []
+            # 处理“真人乐队”表格
+            elif element.name == 'dl':
+                members = parse_dl_table(element)
+                if members:
+                    current_section['content'].append({'type': 'members', 'data': members})
+
+            # 处理“角色形象”列表
+            elif element.get('class') and 'role-list-item' in element.get('class', []):
+                roles = parse_role_list(element)
+                if roles:
+                    current_section['content'].append({'type': 'roles', 'data': roles})
+
+    # 添加最后一个章节
+    if current_section:
+        sections.append(current_section)
+    
+    return sections
+
+def parse_dl_table(dl_element):
+    """ 解析 <dl> 结构中的成员数据 """
+    members = []
+    dt_elements = dl_element.find_all('dt')
+    dd_elements = dl_element.find_all('dd')
+
+    for dt, dd in zip(dt_elements, dd_elements):
+        member = {
+            '姓名': dt.get_text(strip=True),
+            '角色': dd.get_text(strip=True)
+        }
+        members.append(member)
+
+    return members if members else None
+
+def parse_role_list(role_element):
+    """ 解析 .role-list-item 结构中的角色数据 """
+    roles = []
+    role_name_element = role_element.find('div', class_='role-name')
+    role_image_element = role_element.find('div', class_='role-image')
+    
+    if role_name_element:
+        role_name = role_name_element.get_text(strip=True)
+        
+        # 提取角色图片
+        role_img = None
+        img_tag = role_image_element.find('img') if role_image_element else None
+        if img_tag and 'src' in img_tag.attrs:
+            role_img = "https://moegirl.uk" + img_tag['src']  # 拼接完整URL
+            
+        roles.append({
+            '角色名': role_name,
+            '图片': role_img
+        })
+    
+    return roles if roles else None
+
+def enhanced_crawler():
+    """ 爬取 MyGO!!!!! 页面并解析内容 """
+    target_url = "https://moegirl.uk/MyGO!!!!!"
     
     try:
-        # 排除嵌套表格
-        if infobox.find_parent('table'):
-            return {}
-            
-        for row in infobox.find_all('tr'):
-            # 解析表头行
-            th_list = row.find_all('th')
-            if th_list:
-                current_headers = []
-                for th in th_list:
-                    header = clean_text(th.get_text(separator=" "))
-                    rowspan = int(th.get('rowspan', 1))
-                    current_headers.extend([header] * rowspan)
-                continue
-                
-            # 解析数据行
-            td_list = row.find_all('td')
-            if not td_list:
-                continue
-                
-            # 处理跨列单元格
-            if len(td_list) == 1 and current_headers:
-                anime_data[current_headers[0]] = parse_cell_content(td_list[0])
-                continue
-                
-            # 常规键值对处理
-            for header, td in zip(current_headers, td_list):
-                anime_data[header] = parse_cell_content(td)
-                
-    except Exception as e:
-        print(f"⚠️ Infobox解析异常: {str(e)}")
-        
-    return anime_data
+        response = requests.get(target_url, headers=headers, timeout=15)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'lxml')
 
-def get_anime_info(anime_name):
-    """完整信息获取流程"""
-    session = requests.Session()
-    encoded_name = quote(anime_name.strip().replace(' ', '_'), safe='')
-    url = f"{BASE_URL}/{encoded_name}"
-    
-    try:
-        # 随机延迟防止封禁
-        time.sleep(random.uniform(1, 2))
-        
-        response = session.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        
-        # 强制编码处理
-        if response.encoding.lower() != 'utf-8':
-            response.encoding = 'utf-8'
+            # 页面标题
+            title = soup.find('h1').text.strip()
+            print("页面标题:", title)
             
-        soup = BeautifulSoup(response.text, 'lxml')
+            # 提取章节内容
+            sections = extract_sections(soup)
+
+            # 打印结构化章节数据
+            for section in sections:
+                print(f"\n{'#' * int(section['level'][1:])} {section['title']}")
+                for content in section['content']:
+                    if content['type'] == 'paragraph':
+                        print(content['text'])
+                    elif content['type'] == 'list':
+                        print("列表内容：")
+                        for item in content['items']:
+                            print(f" - {item}")
+                    elif content['type'] == 'members':
+                        print("成员信息：")
+                        for member in content['data']:
+                            print(f"姓名: {member['姓名']} - 角色: {member['角色']}")
+                    elif content['type'] == 'roles':
+                        print("角色形象：")
+                        for role in content['data']:
+                            print(f"角色名: {role['角色名']} - 图片: {role['图片']}")
+
+            return {'title': title, 'sections': sections}
         
-        # 新版Infobox检测
-        infobox = soup.find('table', class_=re.compile(r'wikitable|infobox'))
-        
-        anime_data = {
-            "名称": anime_name,
-            "来源": url,
-            "基本信息": {},
-            "剧情简介": ""
-        }
-        
-        if infobox:
-            anime_data["基本信息"] = parse_infobox(infobox)
-            
-        # 增强版简介提取
-        content_div = soup.find('div', class_='mw-parser-output')
-        if content_div:
-            for element in content_div.children:
-                if element.name == 'p':
-                    text = clean_text(element.get_text())
-                    if len(text) > 100 and not re.search(r'^本条目需要', text):
-                        anime_data["剧情简介"] = text
-                        break
-                elif element.name in ['h2', 'div', 'table']:
-                    break
-                    
-        # 数据清洗
-        anime_data["基本信息"] = {
-            k: v for k, v in anime_data["基本信息"].items() 
-            if v and k not in [''] and len(v) < 500
-        }
-        
-        return anime_data
-        
+        else:
+            print(f"请求失败，状态码：{response.status_code}")
+            return None
     except Exception as e:
-        print(f"❌ 获取数据失败: {str(e)}")
+        print(f"爬取失败：{str(e)}")
         return None
 
+
 if __name__ == "__main__":
-    anime_name = input("📢 请输入动画名称: ").strip()
-    if not anime_name:
-        print("⚠️ 输入不能为空")
-        exit()
-        
-    result = get_anime_info(anime_name)
+    data = enhanced_crawler()
     
-    if result:
-        print(json.dumps(result, indent=2, ensure_ascii=False))
-    else:
-        print("❌ 未能获取有效信息")
+    # 保存到 JSON 文件
+    with open('mygo_sections.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print("✅ 结果已保存到 mygo_sections.json")
